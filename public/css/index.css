@@ -1,0 +1,137 @@
+﻿
+
+body { color: #333; font-family: 微软雅黑; }
+/* Style for our header texts
+            * --------------------------------------- */
+/*h1 { font-size: 5em; font-family: arial,helvetica; margin: 0; padding: 0; }
+h2 { font-size: 2em; margin: 0 0 18px 0; font-family: arial,helvetica; }*/
+
+/* Common styles
+            * --------------------------------------- */
+img { -webkit-transition: all 0.7s ease-out; -moz-transition: all 0.7s ease-out; -o-transition: all 0.7s ease-out; transition: all 0.7s ease-out; }
+.section { text-align: center; overflow: hidden; }
+.wrap { width: 1180px; height: 100%; margin-left: auto; margin-right: auto; position: relative; }
+.box { text-align: left; color: #808080; font-size: 1.2em; line-height: 1.6em; }
+
+/* Section 0
+            * --------------------------------------- */
+/*.section0 { padding: 60px 0; }*/
+/*.section0 img { height: 300px; width: 200px; margin: 40px 0 0 0; }*/
+
+/* Section 1
+            * --------------------------------------- */
+.section1 img { position: absolute; left: 40px; top: 100px; }
+
+.section1 .box { position: absolute; top: 50%; left: 50%; margin-top: -192px; margin-left: 89px; width: 395px; z-index: 1; }
+.section1 .imgsContainer { display: block; position: absolute; z-index: 1; top: 42%; left: 58%; margin-top: -325px; margin-left: -747px; width: 800px; height: 696px; }
+.section1 img { height: 100%; }
+/*screen resolutions between 620px and 800px*/
+@media all and (min-width: 620px) and (max-width: 800px) {
+    .section1 .imgsContainer { margin-top: -278px; margin-left: -685px; width: 647px; height: 563px; }
+}
+
+/*screen resolutions lower than 620px*/
+@media all and (max-width: 620px) {
+    .section1 .imgsContainer { margin-top: -208px; margin-left: -516px; width: 534px; height: 464px; }
+}
+
+#iphone2 { z-index: 10; }
+    #iphone2.active { -webkit-transform: translate3d(-134px, 0px, 0px); -moz-transform: translate3d(-134px, 0px, 0px); -ms-transform: translate3d(-134px, 0px, 0px); transform: translate3d(-134px, 0px, 0px); }
+
+#iphone3 { z-index: 12; }
+    #iphone3.active { -webkit-transform: translate3d(213px, 0px, 0px); -moz-transform: translate3d(213px, 0px, 0px); -ms-transform: translate3d(213px, 0px, 0px); transform: translate3d(213px, 0px, 0px); }
+
+#iphone4 { z-index: 11; left: 140px; }
+
+    #iphone4.active { -webkit-transform: translate3d(548px, 0px, 0px); -moz-transform: translate3d(548px, 0px, 0px); -ms-transform: translate3d(548px, 0px, 0px); transform: translate3d(548px, 0px, 0px); }
+
+/* Section 2
+            * --------------------------------------- */
+#section2 img { position: absolute; }
+#section2 .imgsContainer,
+#staticImg .imgsContainer,
+#section3 .imgsContainer { position: absolute; z-index: 1; left: 50%; display: block; margin-top: -288px; margin-left: -636px; width: 0; height: 0; -webkit-transition: all 1.2s ease-in-out; -moz-transition: all 1.2s ease-in-out; -o-transition: all 1.2s ease-in-out; transition: all 1.2s ease-in-out; }
+
+#section2.moveUp .imgsContainer { top: 50%; }
+
+#section2.moveDown .imgsContainer,
+#staticImg .imgsContainer { top: 90%; }
+
+#section2.active .imgsContainer { top: 50%; }
+
+#section2 .box { top: 22%; /*left: 42%;*/ position: absolute; width: 582px; }
+
+#iphone-yellow { top: -35px; left: -222px; }
+
+#iphone-red { top: -194px; left: 106px; }
+
+#iphone-blue { top: 320px; left: 448px; }
+
+#iphone-green { left: 106px; position: absolute; }
+
+#staticImg { display: block; position: absolute; z-index: 1; top: 200%; left: 0; width: 100%; min-width: 980px; height: 100%; -webkit-transition: all 0.7s ease-out; -moz-transition: all 0.7s ease-out; -o-transition: all 0.7s ease-out; transition: all 0.7s ease-out; -webkit-backface-visibility: hidden; -webkit-perspective: 1000; }
+    #staticImg.moveDown { -webkit-transform: translate3d(0, 100%, 0); -ms-transform: translate3d(0, 100%, 0); transform: translate3d(0, 100%, 0); }
+    #staticImg.moveUp { -webkit-transform: translate3d(0, 0, 0); -ms-transform: translate3d(0, 0, 0); transform: translate3d(0, 0, 0); }
+    #staticImg.moveDown .imgsContainer { top: 50%; }
+    #staticImg.moveDown img { top: 155px; }
+
+    #staticImg.active .imgsContainer { top: 50%; }
+
+
+    #staticImg.active img { top: 487px; }
+
+/* Section 3
+            * --------------------------------------- */
+#section3 .imgsContainer { top: 50%; }
+
+#section3 img { top: 155px; left: 455px; position: absolute; }
+/*#section3 .box { text-align: center; margin: 10% 0 0 0; }*/
+
+/* Overwriting fullPage.js tooltip color
+            * --------------------------------------- */
+.fp-tooltip { color: #AAA; }
+#fp-nav span, .fp-slidesNav span { border-color: #AAA; }
+#fp-nav li .active span, .fp-slidesNav .active span { background: #AAA; }
+
+/**********************************************************************************************/
+/**********************************end-hxx*****************************************************/
+/**********************************************************************************************/
+
+/**********************************************************************************************/
+/**********************************end-cwg*****************************************************/
+/**********************************************************************************************/
+.section0 { background: url(../imgs/background.jpg)no-repeat 0 center; }
+.se-main { padding-right: 196px; float: right; }
+.se0-header { height: 60px; text-align: left; padding-left: 100px; }
+    .se0-header img { }
+.se0-content { margin-top: 100px; }
+    .se0-content .se-main-logo { width: 831px; height: 362px; margin-top: 298px; }
+        .se0-content .se-main-logo img { }
+
+/*第二屏*/
+.section1 { background: url("../imgs/pic''.jpg") no-repeat; background-size: 100% 100%; }
+    .section1 .wrap .box { }
+        .section1 .wrap .box h2 {  font-size: 26px; line-height: 26px; margin-top: 28px; margin-bottom: 19px; font-family: 微软雅黑; }
+        .section1 .wrap .box li span { display: block; height: 40px; font: normal 20px/40px 微软雅黑;text-shadow:1px 1px 5px rgba(0,0,0,0.22) }
+        .section1 .wrap .box li p { display: block; font: normal 14px/28px 微软雅黑;text-shadow:1px 1px 5px rgba(0,0,0,0.35) }
+
+/*第三屏*/
+.section2 { background: url("../imgs/pic2.jpg") no-repeat 0 -100px; }
+.section2 .wrap .box {  }
+    .section2 .wrap .box h2 { color: #fff; font-size: 26px; line-height: 26px; margin-top: 28px; margin-bottom: 19px; font-family: 微软雅黑; }
+   .section2 .wrap .box  strong { color: #fff; display: block; height: 40px; font: normal 20px/40px 微软雅黑; }
+    .section2 .wrap .box  p {color: #fff;  font: normal 14px/28px 微软雅黑; }
+
+/*第四屏*/
+.section3{ background-color: rgb(223, 223, 223);}
+.section3 .wrap { position:relative; }
+.section3 .wrap .box {  margin-top:60px; height:78%; }
+.section3 .wrap .box h2 {  font-size: 26px; line-height: 26px; margin-top: 28px; margin-bottom: 19px; font-family: 微软雅黑; }
+     .section3 .wrap ul li {  font: normal 14px/28px 微软雅黑; }
+      .section3 .wrap .box ul li strong {text-align:left;  display: block; height: 40px; font: normal 20px/40px 微软雅黑; }
+    .section3 .wrap .box ul li p { text-indent:2em;text-align:left;  font: normal 14px/28px 微软雅黑; }
+
+.foot { margin-top:40px; }
+.bd {  font:normal 14px/30px 微软雅黑;}
+.ft { font:normal 14px/30px 微软雅黑; }
+.ft span { font:normal 14px/30px 微软雅黑; }
