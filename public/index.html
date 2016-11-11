@@ -155,7 +155,7 @@
                             <p>由混迹于互联网一线的小伙伴们组成。该团队思想活跃，思维发散性强，勇于创新。积极为公司开拓新的模式，让新的思想潮流融入传统的法律服务中，传统与变革齐头并进。</p>
                         </li>
                     </ul>
-
+                    <button type="button" class="button" id="button">test</button>
                 </div>
                 <div class="foot clearfix">
                     <p class="bd">
@@ -174,5 +174,26 @@
             </div>
         </div>
     </div>
+
+    <script type="text/javascript">
+        $('#button').click(function(e){
+            e.preventDefault();
+            console.log('select_link clicked');
+            var data = {
+                title:"title",
+                message:"message"
+            };
+            
+            $.ajax({
+                type: 'GET',
+                data: JSON.stringify(data),
+                contentType: 'application/json',
+                url: './login',						
+                success: function(data) {
+                   window.location = 'login.html'
+                }
+            });
+        });
+    </script>
 </body>
 </html>
