@@ -1,0 +1,191 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>湖北省忠仁信法律服务咨询有限公司</title>
+    <link href="css/base.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="imgs/law.ico" />
+    <link rel="stylesheet" href="assert/fullpage/jquery.fullpage.min.css" />
+    <link rel="stylesheet" href="css/homepage.css" />
+
+    <link href="css/index.css" rel="stylesheet" />
+    <script src="./assert/jquery/jquery-3.1.1.min.js"></script>
+    <script src="./assert/jquery/jquery-ui.min.js"></script>
+    <script src="./assert/fullpage/jquery.fullpage.min.js"></script>
+    <script type="text/javascript" src="./js/homepage.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function ()
+        {
+            $('#fullpage').fullpage({
+                'verticalCentered': false,
+                'css3': true,
+                // 'sectionsColor': ['#F0F2F4', '#fff', '#fff', '#fff'],
+                'navigation': true,
+                'navigationPosition': 'right',
+                //'navigationTooltips': ['fullPage.js', 'Powerful', 'Amazing', 'Simple'],
+                'navigationTooltips': ['', '', '', ''],
+
+                'afterLoad': function (anchorLink, index)
+                {
+                    if (index == 2) {
+                        $('#iphone3, #iphone2, #iphone4').addClass('active');
+                    }
+                },
+
+                'onLeave': function (index, nextIndex, direction)
+                {
+                    if (index == 3 && direction == 'down') {
+                        $('.section').eq(index - 1).removeClass('moveDown').addClass('moveUp');
+                    }
+                    else if (index == 3 && direction == 'up') {
+                        $('.section').eq(index - 1).removeClass('moveUp').addClass('moveDown');
+                    }
+
+                    $('#staticImg').toggleClass('active', (index == 2 && direction == 'down') || (index == 4 && direction == 'up'));
+                    $('#staticImg').toggleClass('moveDown', nextIndex == 4);
+                    $('#staticImg').toggleClass('moveUp', index == 4 && direction == 'up');
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <div id="fullpage">
+        <div class="section section0 " id="section0">
+            <div class="se0-main">
+                <div class="se0-header">
+                    <div class="logo">
+                        <img src="imgs/logo_03.png" />
+                    </div>
+                    <div class="text-show" style="margin-top: 30%">
+                        <!--<p>携手权威法律专家打造优质法律服务</p>
+                        <p>忠仁信专注于法律服务</p>-->
+                        <p style="">忠仁信是一所以忠诚，守信，仁义为宗旨，以提供满意的法律服务为目的新型服务型资讯类公司。</p>
+                        <p>忠仁信创立初衷，本着现今社会公众法律意识薄弱，当事人维权困难，为了更好地向社会人士普及法律知识，同时也是为了降低现今社会各界维权成本，向社会群众提供全面而优质的法律服务。
+                        <p>让每个人都能使用法律武器来维护自己的合法权益。让人们知法、懂法、守法。</p>
+                    </div>
+                </div>
+                <div class="se0-content">
+                    <div class="se0-main-logo">
+                        <img src="imgs/se0.png" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section section1" id="section1">
+            <div class="wrap">
+                <div class="imgsContainer">
+                    <!--<img src="imgs/pic1.jpg" />-->
+
+                </div>
+                <div class="box">
+                    <h2>公司主营业务</h2>
+                    <ul>
+                        <li>
+                            <span>一站式服务:</span>
+                            <p>
+                                即使囊中羞涩也不苟且，一站式服务为你保驾。
+                                找律师，打官司不烦恼，一站式服务为你领航。
+                            </p>
+                        </li>
+                        <li>
+                            <span>法律咨询:</span>
+                            <p>
+                                不躲藏，不套路，想知道什么就告诉你什么。
+                            </p>
+                        </li>
+                        <li>
+                            <span>法律顾问:</span>
+                            <p>
+                                您身边的法律顾问，及时，高效。
+                            </p>
+                        </li>
+                        <li>
+                            <span>知识产权:</span>
+                            <p>
+                            </p>
+                        </li>
+                        <li>
+                            <span>合同纠纷:</span>
+                            <p>
+                                合同不上当，防地雷。
+                            </p>
+                        </li>
+
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+        <div class="section section2 moveDown" id="section2">
+            <div class="wrap">
+                <div class="imgsContainer">
+                    
+                </div>
+                <div class="box">
+                    <h2>公司文化</h2>
+                    <strong>法律:</strong>
+                    <p>
+                        是武器，是朋友，更是精神食粮。我们的使命是让人们勇于拿起法律武器维护自身的合法权益。
+                    不要再惧怕法律，对“讲法”望而却步。普法是我们的使命，是我们的职责。使人们更加便捷的使用法律，提高群众法律意识是我们的宗旨。
+                    一站式服务为客户，当事人解决所有烦恼。让法律服务尽可能简单。
+                    </p>
+
+                </div>
+            </div>
+        </div>
+        <div class="section section3 moveDown" id="section3">
+            <div class="wrap">
+                <div class="box">
+                    <h2>团队介绍</h2>
+                    <ul>
+                        <li>
+                            <strong>法律精英团队：</strong>
+                            <p>有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。为公司案件处理的主要人物。</p>
+                        </li>
+                        <li>
+                            <strong>专家顾问：</strong>
+                            <p>企业管理团队，对企业管理方面有着深厚的研究。能够合理的规避企业风险，优化企业管理，促进企业规范。是公司发展过程的重要组成部分。</p>
+                        </li>
+                        <li>
+                            <strong>区域深度拓展：</strong><p>有着稳重踏实的精神，不断为公司开拓业务和领域。处事能力极为强大，办事效率极高。凭借其坚韧不拔的意志和不懈的努力，总是能够出色的完成公司的业务开拓和业务部署，是一个靠谱的团队。</p>
+                        </li>
+                        <li>
+                            <strong>创新团队：</strong>
+                            <p>由混迹于互联网一线的小伙伴们组成。该团队思想活跃，思维发散性强，勇于创新。积极为公司开拓新的模式，让新的思想潮流融入传统的法律服务中，传统与变革齐头并进。</p>
+                        </li>
+                    </ul>
+                    <button type="button" class="button red" id="button">test</button>
+                </div>
+                <div class="foot clearfix">
+                    <p class="bd">
+                        地址：湖北省武汉市洪山区南湖大道42号（武汉光谷软件园）
+                    </p>
+                    <p class="ft">
+                        <span>联系我们：027-87611118</span>&nbsp;
+                        <span>企业邮箱：hr@zrxlaw.com </span>&nbsp;&nbsp;
+                       <!-- <span> </span>-->
+                    </p>
+
+                </div>
+            </div>
+            <div class="imgsContainer">
+                <img src="imgs/smallmen.png" alt="iphone" id="iphone-two" />
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $('#button').click(function(e){
+            var ws = new WebSocket("ws://./login");
+            ws.onopen = function(evt){};
+            ws.onmessage = function(evt){
+                deal(evt.data);
+            };
+            ws.onclose  = function(evt){};
+
+
+        });
+    </script>
+</body>
+</html>
