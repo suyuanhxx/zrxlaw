@@ -1,5 +1,5 @@
 exports.debug = true;
-exports.port = 3000;
+exports.port = 80;
 exports.email = 'huangxiaoxu93@gmail.com';
 exports.site_name = 'zrxlaw';
 // mongoDb connection
