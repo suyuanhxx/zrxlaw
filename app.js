@@ -1,5 +1,5 @@
 /**
- *
+ * Created by xiaoxu.huang on 2016/12/15.
  */
 
 var express = require('express');
@@ -9,8 +9,10 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-//
+// router config
 var router = require('./router');
+// mongo connect
+var mongoHelper = require('./utils/mongoUtils');
 
 var app = express();
 
@@ -46,6 +48,16 @@ app.use(function (err, req, res, next) {
     // render the error page
     res.status(err.status || 500);
     res.render('error');
+});
+
+
+mongoHelper.connect(function (error) {
+    if (error) throw error;
+});
+
+app.on('close', function (errno) {
+    mongoHelper.disconnect(function (err) {
+    });
 });
 
 

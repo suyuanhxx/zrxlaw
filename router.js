@@ -7,6 +7,7 @@ var config = require('./config');
 var site = require('./controllers/index');
 var users = require('./controllers/users');
 var login = require('./controllers/login');
+var lawer = require('./controllers/lawer');
 
 var router = express.Router();
 
@@ -14,7 +15,7 @@ var router = express.Router();
 router.get('/', site.index);
 
 
-router.get('/users', users.team);
+router.get('/users', lawer.saveLawer);
 router.get('/login', login.login);
 
 
