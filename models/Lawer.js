@@ -1,10 +1,22 @@
-var mongoose = require('mongoose');
+/**
+ * Created by xiaoxu.huang on 2016/12/14.
+ */
 
-var UserSchema = new mongoose.Schema({
+var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
+var utility = require('utility');
+
+var LawerSchema = new Schema({
     name: String,
+    chineseName: String,
     age: Number,
-    job: String,
-    hobby: String,
+    sex: String,
+    phone: String,
+    email: String,
+    avatar: String,
+    description: String,
+    joinTime: Date,
+    status: Number,
     meta: {
         createAt: {
             type: Date,
@@ -17,7 +29,7 @@ var UserSchema = new mongoose.Schema({
     }
 });
 
-UserSchema.pre('save', function (next) {
+LawerSchema.pre('save', function (next) {
     if (this.isNew) {
         this.meta.createAt = this.meta.updateAt = Date.now();
     } else {
@@ -26,7 +38,7 @@ UserSchema.pre('save', function (next) {
     next();
 });
 
-UserSchema.statics = {
+LawerSchema.statics = {
     fetch: function (cb) {
         return this
             .find({})
@@ -54,6 +66,6 @@ UserSchema.statics = {
             .remove(conditions, cb);
     }
 };
-var User = mongoose.model('users', UserSchema);
+var Lawer = mongoose.model('Lawer', LawerSchema);
 
-module.exports = User;
+module.exports = Lawer;

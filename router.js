@@ -11,11 +11,10 @@ var login = require('./controllers/login');
 var router = express.Router();
 
 // home page
-
 router.get('/', site.index);
 
 
-router.get('/users', users.users);
+router.get('/users', users.team);
 router.get('/login', login.login);
 
 

@@ -5,8 +5,6 @@
                 message:"message"
             };
  */
-exports.users = function (req, res) {
-    var obj = req.body;
-    console.log('body: ' + JSON.stringify(req.body));
-    res.send(obj.title);
+exports.team = function (req, res) {
+    res.render('./team.html');
 };
