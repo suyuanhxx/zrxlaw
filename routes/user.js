@@ -1,6 +1,5 @@
 var User = require('../controller/user');
 
-
 module.exports = function(app) {
   // 获取所有用户
   app.get('/users', User.getUsers);
@@ -11,6 +10,8 @@ module.exports = function(app) {
   //添加一个用户
   app.post('/user',User.addUser);
   //修改用户
+  app.put('/user/:id',User.updateUser);
+
   app.put('/user/:id',User.updateUser);
 
 };
