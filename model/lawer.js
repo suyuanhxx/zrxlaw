@@ -15,6 +15,8 @@ var lawerSchema = new Schema({
     avatar: String,
     description: String,
     joinTime: Date,
+    position: String,
+    wechatId: String,
     status: Number,
     meta: {
         createAt: {
@@ -36,4 +38,4 @@ var lawerSchema = new Schema({
  *       skipInit： 默认为false，如果为true，则跳过初始化过程，创建一个没有连接到数据库的一个简单的Model对象。
  */
 
-mongoose.model('Lawer', lawerSchema, 'lawers');
+mongoose.model('Lawer', lawerSchema, 'lawer');

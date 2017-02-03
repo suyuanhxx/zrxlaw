@@ -2,101 +2,101 @@
  * Created by 1 on 2017/1/10.
  */
 // user
-var mongoose=require('mongoose');
-
-var User=mongoose.model('User');
+var mongoose = require('mongoose');
+require('../model/user.js');
+var User = mongoose.model('User');
 
 //获取所有用户
-exports.getUsers= function(req, res) {
+exports.getUsers = function (req, res) {
     User.find({}, function (err, docs) {
-        if(err){
-            res.json({"status":"error","msg":"error"});
+        if (err) {
+            res.json({"status": "error", "msg": "error"});
         }
-        res.json({"status":"success","data":docs});
+        res.json({"status": "success", "data": docs});
     })
 };
 
 //获取某一个用户
-exports.getUser= function(req, res) {
+exports.getUser = function (req, res) {
 
-    var id=req.params.id;
+    var id = req.params.id;
 
-    User.findOne({_id:id},function(err,doc){
-        if(err){
-            res.json({"status":"error"});
-        }else{
-            res.json({"status":"success","data":doc})
+    User.findOne({_id: id}, function (err, doc) {
+        if (err) {
+            res.json({"status": "error"});
+        } else {
+            res.json({"status": "success", "data": doc})
         }
     });
 };
 
 //删除某一个用户
-exports.delUser= function(req, res) {
+exports.delUser = function (req, res) {
 
-    var id=req.params.id;
+    var id = req.params.id;
 
-    User.remove({_id:id},function(err,doc){
-        if(err){
-            res.json({"status":"error"});
-        }else{
-            res.json({"status":"success"})
+    User.remove({_id: id}, function (err, doc) {
+        if (err) {
+            res.json({"status": "error"});
+        } else {
+            res.json({"status": "success"})
         }
     });
 };
 
-exports.addUser= function(req, res) {
-    var username=req.body.username;
-    var password=req.body.password;
+exports.addUser = function (req, res) {
+    var username = req.body.username;
+    var password = req.body.password;
 
-    var newUser=new User(
+    var newUser = new User(
         {
-            username:'test',
-            password:'test'
+            username: 'test',
+            password: 'test'
         }
     );
-    newUser.save(function(err){
-        if(err){
-            res.json({"status":"error"})
-        }else{
-            res.json({"status":"success"});
+    newUser.save(function (err) {
+        if (err) {
+            res.json({"status": "error"})
+        } else {
+            res.json({"status": "success"});
         }
     });
 
 };
 
-exports.updateUser= function(req, res) {
-    var id=req.params.id;
+exports.updateUser = function (req, res) {
+    var id = req.params.id;
 
-    var username=req.body.username;
+    var username = req.body.username;
     console.log(username);
-    var password=req.body.password;
+    var password = req.body.password;
     console.log(password);
 
-    var conditions ={_id : id};
-    var update     ={$set : {username:username, password : password}};
-    var options    = {upsert : true};
-    User.update(conditions, update, options, function(error){
-        if(error) {
-            res.json({"status":"error"});
+    var conditions = {_id: id};
+    var update = {$set: {username: username, password: password}};
+    var options = {upsert: true};
+    User.update(conditions, update, options, function (error) {
+        if (error) {
+            res.json({"status": "error"});
         } else {
-            res.json({"status":"success"});
+            res.json({"status": "success"});
         }
     });
 };
 
-exports.post= function(req, res) {
+exports.post = function (req, res) {
 
-    var user=new User(
+    var user = new User(
         {
-            username:"amdin",
-            password:"123456"
+            username: "amdin",
+            password: "123456"
         }
     );
-    user.save(function(err){
-        if(err){
-            res.json({"status":"error","msg":"error"});
+    user.save(function (err) {
+        if (err) {
+            res.json({"status": "error", "msg": "error"});
         }
-        res.json({"status":"success","data":user});
+        res.json({"status": "success", "data": user});
     });
 };
 
