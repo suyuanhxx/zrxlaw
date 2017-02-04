@@ -18,22 +18,32 @@ exports.getLawers = function (req, res) {
 };
 
 exports.addLawer = function (req, res) {
-    var username = req.body.username;
-    var password = req.body.password;
+    var name = req.body.name;
+    var chineseName = req.body.chineseName;
+    var age = req.body.age;
+    var sex = req.body.sex;
+    var phone = req.body.phone;
+    var email = req.body.email;
+    var avatar = req.body.avatar;
+    var description = req.body.description;
+    var joinTime = req.body.joinTime;
+    var position = req.body.position;
+    var wechatId = req.body.wechatId;
 
+    console.log(req.body);
     var newLawer = new Lawer(
         {
-            name: 'zhangsan',
-            chineseName: 'zhangshan',
-            age: 25,
-            sex: 'male',
-            phone: '13007133406',
-            email: '1498319046@qq.com',
-            avatar: 'http://',
-            description: 'asfadsfdsffete',
-            joinTime: '',
-            position: '律師',
-            wechatId: '13007133406',
+            name: name,
+            chineseName: chineseName,
+            age: age,
+            sex: sex,
+            phone: phone,
+            email: email,
+            avatar: avatar,
+            description: description,
+            joinTime: joinTime,
+            position: position,
+            wechatId: wechatId,
             status: 1
         }
     );

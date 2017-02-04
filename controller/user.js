@@ -47,13 +47,10 @@ exports.delUser = function (req, res) {
 exports.addUser = function (req, res) {
     var username = req.body.username;
     var password = req.body.password;
-
-    var newUser = new User(
-        {
-            username: 'test',
-            password: 'test'
-        }
-    );
+    var newUser = new User();
+    newUser.username = username;
+    newUser.password = password;
+    console.log(newUser);
     newUser.save(function (err) {
         if (err) {
             res.json({"status": "error"})
