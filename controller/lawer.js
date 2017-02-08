@@ -4,8 +4,9 @@
  */
 // lawer
 var mongoose = require('mongoose');
-require('../model/lawer.js');
+require('../model/lawer');
 var Lawer = mongoose.model('Lawer');
+var tools = require('../common/tools');
 
 //获取所有用户
 exports.getLawers = function (req, res) {
@@ -18,35 +19,22 @@ exports.getLawers = function (req, res) {
 };
 
 exports.addLawer = function (req, res) {
-    var name = req.body.name;
-    var chineseName = req.body.chineseName;
-    var age = req.body.age;
-    var sex = req.body.sex;
-    var phone = req.body.phone;
-    var email = req.body.email;
-    var avatar = req.body.avatar;
-    var description = req.body.description;
-    var joinTime = req.body.joinTime;
-    var position = req.body.position;
-    var wechatId = req.body.wechatId;
+    var newLawer = new Lawer();
+    console.log(tools.generatorUsername());
+    newLawer.username = tools.generatorUsername();
+    newLawer.lawerName = req.body.lawerName;
+    newLawer.nickname = req.body.nickname;
+    newLawer.avatar = req.body.avatar;
+    newLawer.gender = req.body.gender;
+    newLawer.age = req.body.age;
+    newLawer.phone = req.body.phone;
+    newLawer.wechatId = req.body.wechatId;
+    newLawer.email = req.body.email;
+    newLawer.description = req.body.description;
+    newLawer.position = req.body.position;
+    newLawer.joinTime = Date.now();
+    newLawer.status = 1;
 
-    console.log(req.body);
-    var newLawer = new Lawer(
-        {
-            name: name,
-            chineseName: chineseName,
-            age: age,
-            sex: sex,
-            phone: phone,
-            email: email,
-            avatar: avatar,
-            description: description,
-            joinTime: joinTime,
-            position: position,
-            wechatId: wechatId,
-            status: 1
-        }
-    );
     console.log(newLawer);
     newLawer.save(function (err) {
         if (err) {

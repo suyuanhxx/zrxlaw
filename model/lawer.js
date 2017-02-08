@@ -6,17 +6,19 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var lawerSchema = new Schema({
-    name: String,
-    chineseName: String,
-    age: Number,
-    sex: String,
-    phone: String,
-    email: String,
+    jobNumber: String,//工号
+    username: String,//用户名
+    lawerName: String,//律师姓名
+    nickname: String,
     avatar: String,
+    gender: String,
+    age: Number,
+    phone: String,
+    wechatId: String,
+    email: String,
     description: String,
     joinTime: Date,
     position: String,
-    wechatId: String,
     status: Number,
     meta: {
         createAt: {
