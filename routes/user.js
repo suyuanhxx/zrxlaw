@@ -14,4 +14,7 @@ module.exports = function(app) {
 
   app.put('/user/:id',User.updateUser);
 
+
+  app.post('/contactUs',User.contactUs);
+
 };
