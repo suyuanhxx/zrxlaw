@@ -17,5 +17,19 @@ exports.getAllBusiness = function (req, res) {
     })
 };
 
+exports.addBusiness = function (req, res) {
+    var business = new Business();
+    business.name = req.body.name;
+    business.type = req.body.type;
+    business.description = req.body.description;
+
+    Business.save({}, function (err, docs) {
+        if (err) {
+            res.json({"status": "error", "msg": "error"});
+        }
+        res.json({"status": "success", "data": docs});
+    })
+};
+
 
 
