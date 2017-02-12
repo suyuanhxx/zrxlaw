@@ -112,7 +112,7 @@ exports.contactUs = function (req, res) {
         if (err) {
             res.json({"status": "error", "msg": "error"});
         }
-        res.json({"status": "success", "data": user});
+        res.render("index1.html", {"status": "success", "data": user});
     });
 };
 
