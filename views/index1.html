@@ -94,7 +94,7 @@
                         <!--<div class="call-to-action">-->
                         <!--<a href="#" class="download">Need a legal advice?</a>-->
                         <!--</div>-->
-                        <img src="imgs/se0.png"/>
+                        <img src="imgs/se0.png" style="width: 100%;"/>
                     </div>
                 </div>
             </div>
@@ -410,18 +410,18 @@
             </div>
             <div class="col-md-4 to-animate">
                 <h3 class="section-title">联系我们</h3>
-                <form class="contact-form" action="/contactInfo">
+                <form class="contact-form" action="/contactUs" method="post">
                     <div class="form-group">
-                        <label for="name" class="sr-only">名字</label>
-                        <input type="name" class="form-control" id="name" placeholder="Name">
+                        <label for="nickname" class="sr-only">名字</label>
+                        <input type="nickname" class="form-control" id="nickname" name="nickname" placeholder="称呼">
                     </div>
                     <div class="form-group">
-                        <label for="email" class="sr-only">邮箱</label>
-                        <input type="email" class="form-control" id="email" placeholder="Email">
+                        <label for="phone" class="sr-only">手机号</label>
+                        <input type="phone" class="form-control" id="phone" name="phone" placeholder="联系电话">
                     </div>
                     <div class="form-group">
                         <label for="message" class="sr-only">留言</label>
-                        <textarea class="form-control" id="message" rows="7" placeholder="Message"></textarea>
+                        <textarea class="form-control" id="message" rows="6" name="message" placeholder="留言"></textarea>
                     </div>
                     <div class="form-group">
                         <input type="submit" id="btn-submit" class="btn btn-send-message btn-md" value="Send Message">

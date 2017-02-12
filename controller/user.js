@@ -2,9 +2,12 @@
  * Created by 1 on 2017/1/10.
  */
 // user
+"use strict";
+
 var mongoose = require('mongoose');
 require('../model/user.js');
 var User = mongoose.model('User');
+var tools = require('../common/tools');
 
 //获取所有用户
 exports.getUsers = function (req, res) {
@@ -94,6 +97,22 @@ exports.post = function (req, res) {
             res.json({"status": "error", "msg": "error"});
         }
         res.json({"status": "success", "data": user});
+    });
+};
+
+
+exports.contactUs = function (req, res) {
+    var user = new User();
+    user.username = tools.generatorUsername();
+    user.password = null;
+    user.nickname = req.body.nickname;
+    user.phone = req.body.phone;
+    user.message = req.body.message;
+    user.save(function (err) {
+        if (err) {
+            res.json({"status": "error", "msg": "error"});
+        }
+        res.render("index1.html", {"status": "success", "data": user});
     });
 };
 
