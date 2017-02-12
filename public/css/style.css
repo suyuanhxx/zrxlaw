@@ -1372,4 +1372,8 @@ img {
   border: 2px solid #d73930;
 }
 
+/*cwg-2017-2-11*/
+
+.text-inner-content img{width: 100%;}
+
 /*# sourceMappingURL=style.css.map */
