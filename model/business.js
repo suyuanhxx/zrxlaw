@@ -21,4 +21,4 @@ var businessSchema = new mongoose.Schema({
     }
 });
 
-mongoose.model('Business', businessSchema);
+mongoose.model('Business', businessSchema, 'business');
