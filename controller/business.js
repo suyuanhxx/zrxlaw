@@ -2,6 +2,7 @@
  * Created by 1 on 2017/2/9.
  */
 // business
+'use strict';
 
 var mongoose = require('mongoose');
 require('../model/business.js');

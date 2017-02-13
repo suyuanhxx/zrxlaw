@@ -2,7 +2,7 @@
  * Created by 1 on 2017/1/10.
  */
 // user
-"use strict";
+'use strict';
 
 var mongoose = require('mongoose');
 require('../model/user.js');

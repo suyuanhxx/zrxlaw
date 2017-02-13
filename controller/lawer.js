@@ -2,6 +2,8 @@
  * Created by 1 on 2017/1/10.
  * @author huangxiaoxu
  */
+'use strict';
+
 // lawer
 var mongoose = require('mongoose');
 require('../model/lawer');
