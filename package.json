@@ -18,6 +18,7 @@
     "serve-favicon": "~2.3.0",
     "express-winston": "2.0.0",
     "winston": "2.2.0",
-    "uuid": "~3.0.0"
+    "uuid": "~3.0.0",
+    "mpromise": "~0.5.5"
   }
 }
