@@ -23,13 +23,17 @@ exports.addBusiness = function (req, res) {
     business.name = req.body.name;
     business.type = req.body.type;
     business.description = req.body.description;
+    console.log(business);
 
-    Business.save({}, function (err, docs) {
+    var promise = business.save();
+
+    promise.onResolve(function (err) {
         if (err) {
-            res.json({"status": "error", "msg": "error"});
+            res.json({"status": "error"})
+        } else {
+            res.json({"status": "success"});
         }
-        res.json({"status": "success", "data": docs});
-    })
+    });
 };
 
 
