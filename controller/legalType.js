@@ -6,11 +6,11 @@
 'use strict';
 
 var mongoose = require('mongoose');
-require('../model/lawType.js');
-var LawType = mongoose.model('LawType');
+require('../model/legalType.js');
+var LegalType = mongoose.model('LegalType');
 
-exports.getAllLawType = function (req, res) {
-    LawType.find({}, function (err, docs) {
+exports.getAllLegalType = function (req, res) {
+    LegalType.find({}, function (err, docs) {
         if (err) {
             res.json({"status": "error", "msg": "error"});
         }
@@ -18,12 +18,12 @@ exports.getAllLawType = function (req, res) {
     })
 };
 
-exports.addLawType = function (req, res) {
-    var lawType = new LawType();
-    lawType.name = req.body.name;
-    lawType.level = req.body.level;
-    lawType.parentId = req.body.parentId;
-    lawType.description = req.body.description;
+exports.addLegalType = function (req, res) {
+    var legalType = new LegalType();
+    legalType.name = req.body.name;
+    legalType.level = req.body.level;
+    legalType.parentId = req.body.parentId;
+    legalType.description = req.body.description;
 
     lawType.save({}, function (err, docs) {
         if (err) {

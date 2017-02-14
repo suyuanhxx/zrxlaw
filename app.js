@@ -28,7 +28,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 require('./routes/index')(app);
 require('./routes/user')(app);
 require('./routes/lawer')(app);
-require('./routes/lawerType')(app);
+require('./routes/legalType')(app);
 require('./routes/business')(app);
 
 

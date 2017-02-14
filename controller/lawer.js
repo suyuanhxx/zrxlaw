@@ -23,11 +23,12 @@ exports.getLawers = function (req, res) {
 // 根据输入关键字模糊查询
 exports.getLawer = function (req, res) {
     var query = {};
-    if (req.query.keyword) {
-        query['name'] = new RegExp(req.query.keyword);//模糊查询参数
+    console.log(req.params.keyword);
+    if (req.params.keyword) {
+        query['lawerName'] = new RegExp(req.params.keyword);//模糊查询参数
     }
-
-    Lawer.findByName(query, function (err, docs) {
+    console.log(query);
+    Lawer.find(query, function (err, docs) {
         // return res.render('admin/movie', {movieList:list});
         return res.json({"status": "success", "data": docs});
     });
@@ -35,9 +36,9 @@ exports.getLawer = function (req, res) {
 
 // / 根据用户名查询
 exports.getLawerbyUsername = function (req, res) {
-    var username = req.query.username;
-    Lawer.findByUserName(username, function (err, docs) {
-        // return res.render('admin/movie', {movieList:list});
+    var username = req.params.username;
+    console.log(username);
+    Lawer.findOne({'username': username}, function (err, docs) {
         return res.json({"status": "success", "data": docs});
     });
 };

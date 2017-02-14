@@ -5,7 +5,7 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
-var lawTypeSchema = new Schema({
+var legalTypeSchema = new Schema({
     name: String,
     level: Number,//level=0表示最大
     parentId: String,//所属父类id
@@ -23,4 +23,4 @@ var lawTypeSchema = new Schema({
 });
 
 
-mongoose.model('LawType', lawTypeSchema, 'lawType');
+mongoose.model('LegalType', legalTypeSchema, 'legalType');
