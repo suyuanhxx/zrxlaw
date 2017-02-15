@@ -47,6 +47,7 @@ exports.addLawer = function (req, res) {
     var newLawer = new Lawer();
     console.log(tools.generatorUsername());
     newLawer.username = tools.generatorUsername();
+    newLawer.jobNumber = req.body.jobNumber;
     newLawer.lawerName = req.body.lawerName;
     newLawer.nickname = req.body.nickname;
     newLawer.avatar = req.body.avatar;
