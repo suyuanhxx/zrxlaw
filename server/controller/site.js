@@ -1,7 +1,6 @@
 /**
- * Created by 1 on 2017/1/10.
+ * Created by xiaoxu.huang on 2017/2/15.
  */
-/* GET home page. */
 exports.index = function (req, res) {
     res.render('index1.html');
 };

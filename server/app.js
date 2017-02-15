@@ -12,7 +12,7 @@ var db=mongoose();
 // view engine setup
 // # npm install consolidate mustache --save
 var engines = require('consolidate');
-app.set('views', path.join(__dirname, 'views'));
+app.set('views', path.join(__dirname, '../client/views'));
 app.engine('html', engines.mustache);
 app.set('view engine', 'html');
 
@@ -22,8 +22,8 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'public')));
-
+app.use(express.static(path.join(__dirname, '../client/public')));
+// app.use(express.static(path.resolve(__dirname, '../client/public')));
 //rout map
 require('./routes/index')(app);
 require('./routes/user')(app);
