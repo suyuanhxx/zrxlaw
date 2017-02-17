@@ -1,4 +1,4 @@
-var logger = require('./logger');
+var logger = require('./../common/logger');
 
 var ignore = /^\/(public|agent)/;
 

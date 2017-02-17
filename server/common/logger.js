@@ -7,7 +7,7 @@ var log4js = require('log4js');
 log4js.configure({
     appenders: [
         { type: 'console' },
-        { type: 'file', filename: 'server/logs/cheese.log', category: 'cheese' }
+        { type: 'file', filename: 'server/logs/zrxlaw.log', category: 'zrxlaw' }
     ]
 });
 

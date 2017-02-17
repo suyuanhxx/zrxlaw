@@ -1,6 +1,9 @@
 /**
  * Created by xiaoxu.huang on 2017/2/15.
  */
+
+var logger = require('../common/logger');
+
 exports.index = function (req, res) {
     res.render('index1.html');
 };

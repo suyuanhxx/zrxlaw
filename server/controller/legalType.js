@@ -8,6 +8,8 @@
 var mongoose = require('mongoose');
 require('../model/legalType');
 var LegalType = mongoose.model('LegalType');
+var logger = require('../common/logger');
+
 
 exports.getAllLegalType = function (req, res) {
     LegalType.find({}, function (err, docs) {

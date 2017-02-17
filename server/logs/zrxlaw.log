@@ -1,0 +1,104 @@
+[2017-02-17 16:23:16.301] [INFO] cheese - Listening on port 3000
+[2017-02-17 16:23:16.412] [INFO] cheese - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-02-17 16:23:22.003] [INFO] cheese - 
+
+Started 2017-02-17 16:23:21 GET / ::1
+[2017-02-17 16:23:22.035] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.048] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /css/google-font.css ::1
+[2017-02-17 16:23:22.053] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.057] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /css/animate.css ::1
+[2017-02-17 16:23:22.060] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.065] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /css/icomoon.css ::1
+[2017-02-17 16:23:22.066] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.071] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /css/simple-line-icons.css ::1
+[2017-02-17 16:23:22.072] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.077] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /css/bootstrap.css ::1
+[2017-02-17 16:23:22.080] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.084] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /css/owl.carousel.min.css ::1
+[2017-02-17 16:23:22.085] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.089] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /css/owl.theme.default.min.css ::1
+[2017-02-17 16:23:22.089] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.094] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /css/style.css ::1
+[2017-02-17 16:23:22.095] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.100] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /imgs/se0.png ::1
+[2017-02-17 16:23:22.102] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.107] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /images/img_2.jpg ::1
+[2017-02-17 16:23:22.108] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.112] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /images/img_3.jpg ::1
+[2017-02-17 16:23:22.113] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.118] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /images/person2.jpg ::1
+[2017-02-17 16:23:22.119] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.125] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /images/person3.jpg ::1
+[2017-02-17 16:23:22.125] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.130] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /js/jquery.min.js ::1
+[2017-02-17 16:23:22.132] [INFO] cheese - Completed 304 undefined
+[2017-02-17 16:23:22.136] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /js/jquery.easing.1.3.js ::1
+[2017-02-17 16:23:22.137] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /js/bootstrap.min.js ::1
+[2017-02-17 16:23:22.137] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /js/jquery.waypoints.min.js ::1
+[2017-02-17 16:23:22.139] [INFO] cheese - Completed 304 undefined
+[2017-02-17 16:23:22.139] [INFO] cheese - Completed 304 undefined
+[2017-02-17 16:23:22.139] [INFO] cheese - Completed 304 undefined
+[2017-02-17 16:23:22.141] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /js/jquery.stellar.min.js ::1
+[2017-02-17 16:23:22.142] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /js/owl.carousel.min.js ::1
+[2017-02-17 16:23:22.143] [INFO] cheese - Completed 304 undefined
+[2017-02-17 16:23:22.144] [INFO] cheese - Completed 304 undefined
+[2017-02-17 16:23:22.145] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /js/main.js ::1
+[2017-02-17 16:23:22.147] [INFO] cheese - Completed 304 undefined
+[2017-02-17 16:23:22.192] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /images/full_image_3.jpg ::1
+[2017-02-17 16:23:22.194] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.195] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-02-17 16:23:22.197] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-02-17 16:23:22.199] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.199] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:23:22.432] [INFO] cheese - 
+
+Started 2017-02-17 16:23:22 GET /lawers ::1
+[2017-02-17 16:23:22.447] [DEBUG] cheese - undefined 'lawer.undefined {"conditions":{},"options":{},"collectionName":"lawer"} '
+[2017-02-17 16:23:22.456] [INFO] cheese - Completed 200 undefined
+[2017-02-17 16:24:02.023] [INFO] cheese - Mongoose default connection disconnected

@@ -7,6 +7,7 @@
 var mongoose = require('mongoose');
 require('../model/business.js');
 var Business = mongoose.model('Business');
+var logger = require('../common/logger');
 
 //获取所有用户
 module.exports.getAllBusiness = function (req, res) {

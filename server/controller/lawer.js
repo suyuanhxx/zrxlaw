@@ -9,6 +9,8 @@ var mongoose = require('mongoose');
 require('../model/lawer');
 var Lawer = mongoose.model('Lawer');
 var tools = require('../common/tools');
+var logger = require('../common/logger');
+
 
 //获取所有用户
 exports.getLawers = function (req, res) {

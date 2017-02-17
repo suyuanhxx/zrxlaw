@@ -8,6 +8,8 @@ var mongoose = require('mongoose');
 require('../model/user.js');
 var User = mongoose.model('User');
 var tools = require('../common/tools');
+var logger = require('../common/logger');
+
 
 //获取所有用户
 exports.getUsers = function (req, res) {
@@ -53,7 +55,7 @@ exports.addUser = function (req, res) {
     var newUser = new User();
     newUser.username = username;
     newUser.password = password;
-    console.log(newUser);
+    logger.info(newUser);
     newUser.save(function (err) {
         if (err) {
             res.json({"status": "error"})
