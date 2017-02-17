@@ -4,10 +4,11 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
+var logger = require('./common/logger');
+var requestLogger = require('./common/request_logger');
+var db = require('./model/mongoose');
 
 var app = express();
-var mongoose=require('./config/mongoose.js');
-var db=mongoose();
 
 // view engine setup
 // # npm install consolidate mustache --save
@@ -18,7 +19,8 @@ app.set('view engine', 'html');
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
-app.use(logger('dev'));
+// app.use(logger('dev'));
+app.use(requestLogger);
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
@@ -30,7 +32,6 @@ require('./routes/user')(app);
 require('./routes/lawer')(app);
 require('./routes/legalType')(app);
 require('./routes/business')(app);
-
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
