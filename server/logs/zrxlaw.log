@@ -58,7 +58,7 @@ Started 2017-02-17 16:23:22 GET /images/person3.jpg ::1
 [2017-02-17 16:23:22.125] [INFO] cheese - Completed 200 undefined
 [2017-02-17 16:23:22.130] [INFO] cheese - 
 
-Started 2017-02-17 16:23:22 GET /js/jquery.min.js ::1
+Started 2017-02-17 16:23:22 GET /js/jquery.v2.1.4.min.js ::1
 [2017-02-17 16:23:22.132] [INFO] cheese - Completed 304 undefined
 [2017-02-17 16:23:22.136] [INFO] cheese - 
 

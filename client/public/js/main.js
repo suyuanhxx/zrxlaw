@@ -450,7 +450,7 @@
 		windowScroll();
 		navigationSection();
 		testimonialCarousel();
-		
+
 		// Animations
 		homeAnimate();
 		exploreAnimate();
@@ -459,7 +459,7 @@
 		servicesAnimate();
 		teamAnimate();
 		footerAnimate();
-		
+
 
 	});
 
