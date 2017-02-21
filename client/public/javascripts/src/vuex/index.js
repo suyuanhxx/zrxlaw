@@ -1,5 +1,15 @@
 
     $(document).ready(function () {
+
+      var app = new Vue({
+        el: '#app',
+        data: {
+          message: 'Hello Vue!66666666666666666677776'
+        }
+      })
+
+
+
         $.getJSON('/lawers', function (data) {
             console.log(data);
 //                <div class="col-md-4">
@@ -37,6 +47,9 @@
 
         //首页设置
         index.index_set();
+
+
+
     });
 
 var index={
@@ -44,7 +57,10 @@ var index={
     index_set:function () {
 
 
-        // vue
+
+
+
+      // vue
         new Vue({
             el: '#lawerContainer',
             data: {
@@ -53,12 +69,6 @@ var index={
         })
 
 
-        var app = new Vue({
-            el: '#app',
-            data: {
-                message: 'Hello Vue!'
-            }
-        })
 
 
 
