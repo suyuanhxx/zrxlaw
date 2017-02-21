@@ -1,7 +1,6 @@
-
-    $(document).ready(function () {
-        $.getJSON('/lawers', function (data) {
-            console.log(data);
+$(document).ready(function () {
+    $.getJSON('/lawers', function (data) {
+        console.log(data);
 //                <div class="col-md-4">
 //                    <div class="team-box text-center to-animate-2">
 //                        <div class="user">
@@ -19,39 +18,35 @@
 //                        </ul>
 //                    </div>
 //                </div>
-            $.each(data.data, function (index, value) {
-                var lawhtml = "<div class='col-md-4'>" +
-                    "<div class='team-box text-center to-animate-2'>" +
-                    "<div class='user'>" +
-                    "<img class='img-reponsive' src='" + value.avatar + "' alt='" + value.lawerName + "'></div>" +
-                    "<h3>" + value.lawerName + "</h3><span class='position'>" + value.position + "</span><p>" + value.description + "</p><ul class='social-media'>" +
-                    "<li><a href='#' class='wechat'><i class='icon-wechat'></i>" + value.wechatId +
-                    "</a></li></ul></div></div>";
+        $.each(data.data, function (index, value) {
+            var lawhtml = "<div class='col-md-4'>" +
+                "<div class='team-box text-center to-animate-2'>" +
+                "<div class='user'>" +
+                "<img class='img-reponsive' src='" + value.avatar + "' alt='" + value.lawerName + "'></div>" +
+                "<h3>" + value.lawerName + "</h3><span class='position'>" + value.position + "</span><p>" + value.description + "</p><ul class='social-media'>" +
+                "<li><a href='#' class='wechat'><i class='icon-wechat'></i>" + value.wechatId +
+                "</a></li></ul></div></div>";
 
-                // $("#lawerContainer").append(lawhtml);
+            // $("#lawerContainer").append(lawhtml);
 
-
-            });
 
         });
 
-        //首页设置
-        index.index_set();
     });
 
-var index={
+    //首页设置
+    index.index_set();
+});
 
-    index_set:function () {
-
-
+var index = {
+    index_set: function () {
         // vue
         new Vue({
             el: '#lawerContainer',
             data: {
                 message: '测试'
             }
-        })
-
+        });
 
         var app = new Vue({
             el: '#app',
@@ -59,15 +54,8 @@ var index={
                 message: 'Hello Vue!'
             }
         })
-
-
-
-
-    },
-
-
-
-}
+    }
+};
 
 
 
