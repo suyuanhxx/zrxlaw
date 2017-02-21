@@ -28,13 +28,46 @@
                     "<li><a href='#' class='wechat'><i class='icon-wechat'></i>" + value.wechatId +
                     "</a></li></ul></div></div>";
 
-                $("#lawerContainer").append(lawhtml);
+                // $("#lawerContainer").append(lawhtml);
 
 
             });
 
         });
+
+        //首页设置
+        index.index_set();
     });
+
+var index={
+
+    index_set:function () {
+
+
+        // vue
+        new Vue({
+            el: '#lawerContainer',
+            data: {
+                message: '测试'
+            }
+        })
+
+
+        var app = new Vue({
+            el: '#app',
+            data: {
+                message: 'Hello Vue!'
+            }
+        })
+
+
+
+
+    },
+
+
+
+}
 
 
 
