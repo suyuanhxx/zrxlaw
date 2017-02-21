@@ -2397,7 +2397,7 @@
         // loose indexOf
         Vue.prototype._i = looseIndexOf;
 
-        // render static tree by index
+        // render static tree by index.js
         Vue.prototype._m = function renderStatic(
           index,
           isInFor

@@ -5,7 +5,7 @@
 var logger = require('../common/logger');
 
 exports.index = function (req, res) {
-    res.render('index1.html');
+    res.render('index.html');
 };
 
 /**

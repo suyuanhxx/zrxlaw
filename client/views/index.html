@@ -1,190 +1,452 @@
-﻿<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>湖北省忠仁信法律服务咨询有限公司</title>
-    <link href="css/base.css" rel="stylesheet" />
-    <link rel="shortcut icon" href="imgs/law.ico" />
-    <link rel="stylesheet" href="assert/fullpage/jquery.fullpage.min.css" />
-    <link rel="stylesheet" href="css/homepage.css" />
-    <link rel="stylesheet" href="css/index.css"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>湖北忠仁信法律咨询服务有限公司</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="湖北忠仁信法律咨询服务有限公司"/>
+    <meta name="keywords" content="忠仁信，法律，咨询，法律援助"/>
+    <meta name="author" content="huangxiaoxu"/>
+
+    <meta property="og:title" content=""/>
+    <meta property="og:image" content=""/>
+    <meta property="og:url" content=""/>
+    <meta property="og:site_name" content=""/>
+    <meta property="og:description" content=""/>
+    <meta name="twitter:title" content=""/>
+    <meta name="twitter:image" content=""/>
+    <meta name="twitter:url" content=""/>
+    <meta name="twitter:card" content=""/>
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" href="imgs/favicon.ico">
+
+    <link href="css/google-font.css" rel="stylesheet">
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Simple Line Icons -->
+    <link rel="stylesheet" href="css/simple-line-icons.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Owl Carousel  -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!-- Style -->
+    <link rel="stylesheet" href="css/style.css">
 
 
-    <script src="./assert/jquery/jquery-3.1.1.min.js"></script>
-    <script src="./assert/jquery/jquery-ui.min.js"></script>
-    <script src="./assert/fullpage/jquery.fullpage.min.js"></script>
-    <script type="text/javascript" src="./js/homepage.js"></script>
-    <script type="text/javascript">
-        $(document).ready(function ()
-        {
-            $('#fullpage').fullpage({
-                'verticalCentered': false,
-                'css3': true,
-                // 'sectionsColor': ['#F0F2F4', '#fff', '#fff', '#fff'],
-                'navigation': true,
-                'navigationPosition': 'right',
-                //'navigationTooltips': ['fullPage.js', 'Powerful', 'Amazing', 'Simple'],
-                'navigationTooltips': ['', '', '', ''],
-
-                'afterLoad': function (anchorLink, index)
-                {
-                    if (index == 2) {
-                        $('#iphone3, #iphone2, #iphone4').addClass('active');
-                    }
-                },
-
-                'onLeave': function (index, nextIndex, direction)
-                {
-                    if (index == 3 && direction == 'down') {
-                        $('.section').eq(index - 1).removeClass('moveDown').addClass('moveUp');
-                    }
-                    else if (index == 3 && direction == 'up') {
-                        $('.section').eq(index - 1).removeClass('moveUp').addClass('moveDown');
-                    }
-
-                    $('#staticImg').toggleClass('active', (index == 2 && direction == 'down') || (index == 4 && direction == 'up'));
-                    $('#staticImg').toggleClass('moveDown', nextIndex == 4);
-                    $('#staticImg').toggleClass('moveUp', index == 4 && direction == 'up');
-                }
-            });
-        });
-    </script>
+    <!-- Modernizr JS -->
+    <!--<script src="js/modernizr-2.6.2.min.js"></script>-->
+    <!-- FOR IE9 below -->
+    <!--[if lt IE 9]>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
 
 </head>
 <body>
-    <div id="fullpage">
-        <div class="section section0 " id="section0">
-            <div class="se0-main">
-                <div class="se0-header">
-                    <div class="logo">
-                        <img src="imgs/logo_03.png" />
-                    </div>
-                    <div class="text-show" style="margin-top: 30%">
-                        <!--<p>携手权威法律专家打造优质法律服务</p>
-                        <p>忠仁信专注于法律服务</p>-->
-                        <p>忠仁信是一所以忠诚，守信，仁义为宗旨，以提供满意的法律服务为目的新型服务型资讯类公司。</p>
-                        <p>忠仁信创立初衷，本着现今社会公众法律意识薄弱，当事人维权困难，为了更好地向社会人士普及法律知识，同时也是为了降低现今社会各界维权成本，向社会群众提供全面而优质的法律服务。</p>
-                        <p>让每个人都能使用法律武器来维护自己的合法权益。让人们知法、懂法、守法。</p>
-                    </div>
-                </div>
-                <div class="se0-content">
-                    <div class="se0-main-logo">
-                        <img src="imgs/se0.png" />
+<header role="banner" id="home-header">
+
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <!-- Mobile Toggle Menu Button -->
+                <a href="#" class="js-home-nav-toggle home-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+                <a class="navbar-brand" href="#"><span>L</span>egal</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="#" data-nav-section="home"><span>Home</span></a></li>
+                    <li><a href="#" data-nav-section="services"><span>法律服务</span></a></li>
+                    <li><a href="#" data-nav-section="team"><span>律师团队</span></a></li>
+                    <!--<li><a href="#" data-nav-section="about"><span>About</span></a></li>-->
+                    <li><a href="#" data-nav-section="practice-areas"><span>实践领域</span></a></li>
+                    <!--<li><a href="#" data-nav-section="testimony"><span>Testimonial</span></a></li>-->
+                    <li><a href="#" data-nav-section="contact"><span>关于我们</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+</header>
+
+<section id="home-home" data-section="home" style="background-image: url(images/full_image_3.jpg);" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="text-wrap">
+            <div class="text-inner">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1 to-animate text-inner-content">
+                        <!--<h1>Free HTML5 for Legal / Law Firm Website</h1>-->
+                        <!--<h2>100% Free HTML5 Template. Licensed under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons Attribution 3.0.</a> <br> Crafted with love by <a href="http://freehtml5.co/" target="_blank" title="Free HTML5 Bootstrap Templates" class="home-link">FREEHTML5.co</a></h2>-->
+                        <!--<div class="call-to-action">-->
+                        <!--<a href="#" class="download">Need a legal advice?</a>-->
+                        <!--</div>-->
+                        <img src="images/se0.png" style="width: 100%;"/>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="section section1" id="section1">
-            <div class="wrap">
-                <div class="imgsContainer">
-                    <!--<img src="imgs/pic1.jpg" />-->
+    </div>
+</section>
 
+<!--<section id="home-about" data-section="about">-->
+<!--<div class="container">-->
+
+<!--<div class="row">-->
+<!--<div class="col-md-7 col-md-pull-1">-->
+<!--<img src="images/img_1.jpg" class="img-shadow img-responsive" alt="Free HTML5 Bootstrap Template">-->
+<!--</div>-->
+<!--<div class="col-md-5">-->
+<!--<h2>About Us</h2>-->
+<!--<p class="lead">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>-->
+<!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>-->
+
+<!--<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.</p>-->
+
+<!--<ul class="list-nav">-->
+<!--<li><i class="icon-check2"></i>Far far away, behind the word</li>-->
+<!--<li><i class="icon-check2"></i>There live the blind texts</li>-->
+<!--<li><i class="icon-check2"></i>Separated they live in bookmarksgrove</li>-->
+<!--<li><i class="icon-check2"></i>Semantics a large language ocean</li>-->
+<!--<li><i class="icon-check2"></i>A small river named Duden</li>-->
+<!--</ul>-->
+<!--</div>-->
+<!--</div>-->
+
+<!--</div>-->
+<!--</section>-->
+
+<!-- 法律服务 -->
+<section id="home-services" data-section="services">
+    <div class="home-services">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 section-heading text-center">
+                    <h2 class="to-animate">法律服务</h2>
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 subtext">
+                            <h3 class="to-animate">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in
+                                Bookmarksgrove. </h3>
+                        </div>
+                    </div>
                 </div>
-                <div class="box">
-                    <h2>公司主营业务</h2>
-                    <ul>
-                        <li>
-                            <span>一站式服务:</span>
-                            <p>
-                                即使囊中羞涩也不苟且，一站式服务为你保驾。
-                                找律师，打官司不烦恼，一站式服务为你领航。
-                            </p>
-                        </li>
-                        <li>
-                            <span>法律咨询:</span>
-                            <p>
-                                不躲藏，不套路，想知道什么就告诉你什么。
-                            </p>
-                        </li>
-                        <li>
-                            <span>法律顾问:</span>
-                            <p>
-                                您身边的法律顾问，及时，高效。
-                            </p>
-                        </li>
-                        <li>
-                            <span>知识产权:</span>
-                            <p>
-                            </p>
-                        </li>
-                        <li>
-                            <span>合同纠纷:</span>
-                            <p>
-                                合同不上当，防地雷。
-                            </p>
-                        </li>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="box-services">
+                        <i class="icon-shield to-animate-2"></i>
+                        <div class="home-post to-animate">
+                            <h3>Human Rights</h3>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+                        </div>
+                    </div>
 
-                    </ul>
+                    <div class="box-services">
+                        <i class="icon-shield to-animate-2"></i>
+                        <div class="home-post to-animate">
+                            <h3>Personal Rights</h3>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="box-services">
+                        <i class="icon-shield to-animate-2"></i>
+                        <div class="home-post to-animate">
+                            <h3>Immigration Rights</h3>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+                        </div>
+                    </div>
 
+                    <div class="box-services">
+                        <i class="icon-shield to-animate-2"></i>
+                        <div class="home-post to-animate">
+                            <h3>Family Rights</h3>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="box-services">
+                        <i class="icon-shield to-animate-2"></i>
+                        <div class="home-post to-animate">
+                            <h3>Religious Freedom</h3>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+                        </div>
+                    </div>
+
+                    <div class="box-services">
+                        <i class="icon-shield to-animate-2"></i>
+                        <div class="home-post to-animate">
+                            <h3>Relationship Rights</h3>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--<div class="call-to-action text-center to-animate"><a href="#" class="btn btn-learn">Learn More</a></div>-->
+        </div>
+    </div>
+</section>
+
+<!-- 律师团队 -->
+<section id="home-team" data-section="team">
+    <div class="home-team">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 section-heading text-center">
+                    <h2 class="to-animate">律师团队</h2>
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 subtext">
+                            <h3 class="to-animate">我们的律师有着多年的处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。为公司案件处理的主要人物。</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="lawerContainer">
+                <!--<div class="col-md-4">-->
+                <!--<div class="team-box text-center to-animate-2">-->
+                <!--<div class="user"><img class="img-reponsive" src="images/person2.jpg" alt="Roger Garfield"></div>-->
+                <!--<h3>Kevin Steve</h3>-->
+                <!--<span class="position">Lawyer</span>-->
+                <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast-->
+                <!--of the Semantics, a large language ocean.</p>-->
+                <!--<ul class="social-media">-->
+                <!--<li><a href="#" class="facebook"><i class="icon-facebook"></i></a></li>-->
+                <!--<li><a href="#" class="twitter"><i class="icon-twitter"></i></a></li>-->
+                <!--<li><a href="#" class="dribbble"><i class="icon-dribbble"></i></a></li>-->
+                <!--<li><a href="#" class="codepen"><i class="icon-codepen"></i></a></li>-->
+                <!--<li><a href="#" class="github"><i class="icon-github-alt"></i></a></li>-->
+                <!--</ul>-->
+                <!--</div>-->
+                <!--</div>-->
+            </div>
+            <div class="call-to-action text-center to-animate"><a href="#" class="btn btn-learn">Learn More</a></div>
+
+        </div>
+    </div>
+</section>
+
+<!-- 实践领域 -->
+<section id="home-explore" data-section="practice-areas">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 section-heading text-center">
+                <h2 class="to-animate">实践领域</h2>
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 subtext to-animate">
+                        <h3>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</h3>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="section section2 moveDown" id="section2">
-            <div class="wrap">
-                <div class="imgsContainer">
-                    
-                </div>
-                <div class="box">
-                    <h2>公司文化</h2>
-                    <strong>法律:</strong>
-                    <p>
-                        是武器，是朋友，更是精神食粮。我们的使命是让人们勇于拿起法律武器维护自身的合法权益。
-                    不要再惧怕法律，对“讲法”望而却步。普法是我们的使命，是我们的职责。使人们更加便捷的使用法律，提高群众法律意识是我们的宗旨。
-                    一站式服务为客户，当事人解决所有烦恼。让法律服务尽可能简单。
-                    </p>
+    </div>
 
+    <div class="home-explore">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-push-5 to-animate-2">
+                    <img class="img-shadow img-responsive" src="images/img_2.jpg" alt="Free HTML5 Bootstrap Template">
                 </div>
-            </div>
-        </div>
-        <div class="section section3 moveDown" id="section3">
-            <div class="wrap">
-                <div class="box">
-                    <h2>团队介绍</h2>
-                    <ul>
-                        <li>
-                            <strong>法律精英团队：</strong>
-                            <p>有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。为公司案件处理的主要人物。</p>
-                        </li>
-                        <li>
-                            <strong>专家顾问：</strong>
-                            <p>企业管理团队，对企业管理方面有着深厚的研究。能够合理的规避企业风险，优化企业管理，促进企业规范。是公司发展过程的重要组成部分。</p>
-                        </li>
-                        <li>
-                            <strong>区域深度拓展：</strong><p>有着稳重踏实的精神，不断为公司开拓业务和领域。处事能力极为强大，办事效率极高。凭借其坚韧不拔的意志和不懈的努力，总是能够出色的完成公司的业务开拓和业务部署，是一个靠谱的团队。</p>
-                        </li>
-                        <li>
-                            <strong>创新团队：</strong>
-                            <p>由混迹于互联网一线的小伙伴们组成。该团队思想活跃，思维发散性强，勇于创新。积极为公司开拓新的模式，让新的思想潮流融入传统的法律服务中，传统与变革齐头并进。</p>
-                        </li>
-                    </ul>
+                <div class="col-md-4 col-md-pull-8 to-animate-2">
+                    <div class="mt">
+                        <h3>Industrial Law</h3>
+                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast
+                            of the Semantics, a large language ocean. </p>
+                        <ul class="list-nav">
+                            <li><i class="icon-check2"></i>Far far away, behind the word</li>
+                            <li><i class="icon-check2"></i>There live the blind texts</li>
+                            <li><i class="icon-check2"></i>Separated they live in bookmarksgrove</li>
+                            <li><i class="icon-check2"></i>Semantics a large language ocean</li>
+                            <li><i class="icon-check2"></i>A small river named Duden</li>
+                        </ul>
+                    </div>
                 </div>
-                <div class="foot clearfix">
-                    <p class="bd">
-                        地址：湖北省武汉市洪山区南湖大道42号（武汉光谷软件园）
-                    </p>
-                    <p class="ft">
-                        <a href="/saveLawer"><span>联系我们：027-87611118</span>&nbsp;</a>
-                        <a href="/users">企业邮箱：hr@zrxlaw.com </a>&nbsp;&nbsp;
-                       <!-- <span> </span>-->
-                    </p>
-
-                </div>
-            </div>
-            <div class="imgsContainer">
 
             </div>
         </div>
     </div>
 
-    <script type="text/javascript">
-        $('#button').click(function(e){
-            var ws = new WebSocket("ws://./login");
-            ws.onopen = function(evt){};
-            ws.onmessage = function(evt){
-                deal(evt.data);
-            };
-            ws.onclose  = function(evt){};
-        });
-    </script>
+    <div class="home-explore">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-pull-1 to-animate-3">
+                    <img class="img-responsive" src="images/img_3.jpg">
+                </div>
+                <div class="col-md-4 to-animate-3">
+                    <div class="mt">
+                        <div>
+                            <h4><i class="icon-shield"></i>劳动法</h4>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                        </div>
+                        <div>
+                            <h4><i class="icon-shield"></i>商业法</h4>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                        </div>
+                        <div>
+                            <h4><i class="icon-shield"></i>民事纠纷</h4>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                        </div>
+                        <div>
+                            <h4><i class="icon-shield"></i>知识产权</h4>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                        </div>
+                        <div>
+                            <h4><i class="icon-shield"></i>Accident Law</h4>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+<section id="home-testimony" data-section="testimony">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 to-animate">
+                <div class="wrap-testimony">
+                    <div class="owl-carousel-fullwidth">
+                        <div class="item">
+                            <div class="testimony-slide active text-center">
+                                <figure>
+                                    <img src="images/person2.jpg" alt="user">
+                                </figure>
+                                <blockquote>
+                                    <p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right
+                                        at the coast of the Semantics, a large language ocean."</p>
+                                </blockquote>
+                                <span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimony-slide active text-center">
+                                <figure>
+                                    <img src="images/person3.jpg" alt="user">
+                                </figure>
+                                <blockquote>
+                                    <p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right
+                                        at the coast of the Semantics, a large language ocean."</p>
+                                </blockquote>
+                                <span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimony-slide active text-center">
+                                <figure>
+                                    <img src="images/person2.jpg" alt="user">
+                                </figure>
+                                <blockquote>
+                                    <p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right
+                                        at the coast of the Semantics, a large language ocean."</p>
+                                </blockquote>
+                                <span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--<div class="getting-started getting-started-1">-->
+<!--<div class="container">-->
+<!--<div class="row">-->
+<!--<div class="col-md-6 to-animate">-->
+<!--<h3>Getting Started</h3>-->
+<!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
+<!--</div>-->
+<!--<div class="col-md-6 to-animate-2">-->
+<!--<div class="call-to-action text-right">-->
+<!--<a href="#" class="sign-up">Need a legal advice?</a>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+
+<section id="home-footer" data-section="contact" role="contentinfo">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 to-animate">
+                <h3 class="section-title">关于我们</h3>
+                <p>使人们更加便捷的使用法律，提高群众法律意识是我们的宗旨。</p>
+                <p class="copy-right">&copy; 2017 湖北忠仁信法律咨询服务有限公司版权所有 <br>@ 2017 HuBei Zhong Ren Xin Law Service Co., Ltd. All Rights Reserved. <br>
+                </p>
+            </div>
+
+            <div class="col-md-4 to-animate">
+                <h3 class="section-title">公司地址</h3>
+                <ul class="contact-info">
+                    <li><i class="icon-map-marker"></i>湖北省武汉市洪山区南湖大道42号（武汉光谷软件园）</li>
+                    <li><i class="icon-phone"></i>027-87611118</li>
+                    <li><i class="icon-envelope"></i><a href="#">hr@zrxlaw.com</a></li>
+                    <li><i class="icon-globe2"></i><a href="#">www.zrxlaw.com</a></li>
+                </ul>
+                <!--<h3 class="section-title">Connect with Us</h3>-->
+                <!--<ul class="social-media">-->
+                <!--<li><a href="#" class="facebook"><i class="icon-facebook"></i></a></li>-->
+                <!--<li><a href="#" class="twitter"><i class="icon-twitter"></i></a></li>-->
+                <!--<li><a href="#" class="dribbble"><i class="icon-dribbble"></i></a></li>-->
+                <!--<li><a href="#" class="github"><i class="icon-github-alt"></i></a></li>-->
+                <!--</ul>-->
+            </div>
+            <div class="col-md-4 to-animate">
+                <h3 class="section-title">联系我们</h3>
+                <form class="contact-form" action="/contactUs" method="post">
+                    <div class="form-group">
+                        <label for="nickname" class="sr-only">名字</label>
+                        <input type="nickname" class="form-control" id="nickname" name="nickname" placeholder="称呼">
+                    </div>
+                    <div class="form-group">
+                        <label for="phone" class="sr-only">手机号</label>
+                        <input type="phone" class="form-control" id="phone" name="phone" placeholder="联系电话">
+                    </div>
+                    <div class="form-group">
+                        <label for="message" class="sr-only">留言</label>
+                        <textarea class="form-control" id="message" rows="6" name="message" placeholder="留言"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" id="btn-submit" class="btn btn-send-message btn-md" value="Send Message">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- jQuery -->
+<script src="js/jquery.min.js"></script>
+<!-- jQuery Easing -->
+<script src="js/jquery.easing.1.3.js"></script>
+<!-- Bootstrap -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Waypoints -->
+<script src="js/jquery.waypoints.min.js"></script>
+<!-- Stellar Parallax -->
+<script src="js/jquery.stellar.min.js"></script>
+<!-- Owl Carousel -->
+<script src="js/owl.carousel.min.js"></script>
+
+<script src="js/main.js"></script>
+<script src="javascripts/src/vuex/index.js"></script>
+
+
 </body>
 </html>
+
