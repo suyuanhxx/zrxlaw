@@ -1,6 +1,9 @@
 
     $(document).ready(function () {
 
+
+
+
       var app = new Vue({
         el: '#app',
         data: {
@@ -48,8 +51,6 @@
         //首页设置
         index.index_set();
 
-
-
     });
 
 var index={
@@ -57,11 +58,9 @@ var index={
     index_set:function () {
 
 
-
-
-
       // vue
         new Vue({
+
             el: '#lawerContainer',
             data: {
                 message: '测试'

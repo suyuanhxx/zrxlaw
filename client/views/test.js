@@ -2,7 +2,7 @@
 $(function ()
 {
 
-
+alert(77)
 
   var app = new Vue({
     el: '#app',
