@@ -1,16 +1,18 @@
 $(document).ready(function () {
 
 
-    var app = new Vue({
-        el: '#app',
-        data: {
-            message: 'Hello Vue!66666666666666666677776'
-        }
-    });
+  var app = new Vue({
+    el: '#app',
+    data: {
+      message: 'Hello Vue!66666666666666666677776'
+    }
+  })
 
 
-    $.getJSON('/lawers', function (data) {
-        console.log(data);
+
+
+  $.getJSON('/lawers', function (data) {
+    console.log(data);
 //                <div class="col-md-4">
 //                    <div class="team-box text-center to-animate-2">
 //                        <div class="user">
@@ -28,43 +30,43 @@ $(document).ready(function () {
 //                        </ul>
 //                    </div>
 //                </div>
-        $.each(data.data, function (index, value) {
-            var lawhtml = "<div class='col-md-4'>" +
-                "<div class='team-box text-center to-animate-2'>" +
-                "<div class='user'>" +
-                "<img class='img-reponsive' src='" + value.avatar + "' alt='" + value.lawerName + "'></div>" +
-                "<h3>" + value.lawerName + "</h3><span class='position'>" + value.position + "</span><p>" + value.description + "</p><ul class='social-media'>" +
-                "<li><a href='#' class='wechat'><i class='icon-wechat'></i>" + value.wechatId +
-                "</a></li></ul></div></div>";
+    $.each(data.data, function (index, value) {
+      var lawhtml = "<div class='col-md-4'>" +
+        "<div class='team-box text-center to-animate-2'>" +
+        "<div class='user'>" +
+        "<img class='img-reponsive' src='" + value.avatar + "' alt='" + value.lawerName + "'></div>" +
+        "<h3>" + value.lawerName + "</h3><span class='position'>" + value.position + "</span><p>" + value.description + "</p><ul class='social-media'>" +
+        "<li><a href='#' class='wechat'><i class='icon-wechat'></i>" + value.wechatId +
+        "</a></li></ul></div></div>";
 
-            // $("#lawerContainer").append(lawhtml);
+      // $("#lawerContainer").append(lawhtml);
 
-
-        });
 
     });
 
-    //首页设置
-    index.index_set();
+  });
+
+  //首页设置
+  index.index_set();
 
 });
 
 var index = {
 
-    index_set: function () {
+  index_set: function () {
 
 
-        // vue
-        new Vue({
+    // vue
+    new Vue({
 
-            el: '#lawerContainer',
-            data: {
-                message: '测试'
-            }
-        })
+      el: '#lawerContainer',
+      data: {
+        message: '测试'
+      }
+    })
 
 
-    },
+  },
 
 
 }
