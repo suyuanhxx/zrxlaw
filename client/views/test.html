@@ -1,31 +1,25 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
 
-    <script src="js/jquery.min.js"></script>
-    <script src="javascripts/src/static/Vue/Vue-v2.1.10.js"></script>
-    <script src="test.js"></script>
-    <script src="javascripts/src/vuex/index.js"></script>
+    <script src="assert/jquery/jquery-3.1.1.min.js"></script>
+    <script src="https://unpkg.com/vue/dist/vue.js"></script>
 
 </head>
 <body>
-test
-
-
 <div id="app">
-    {{ message }}
+    <span v-text="message"></span>
 </div>
-
-<div id="app2">
-        <span v-bind:title="message">
-
-        </span>
-</div>
-
-
-
+<script>
+       new Vue({
+            el: '#app',
+            data: {
+                message: 'Hello Vue'
+            }
+        });
+</script>
 
 </body>
 </html>
