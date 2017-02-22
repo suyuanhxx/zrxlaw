@@ -9,6 +9,8 @@ $(document).ready(function () {
   })
 
 
+
+
   $.getJSON('/lawers', function (data) {
     console.log(data);
 //                <div class="col-md-4">
