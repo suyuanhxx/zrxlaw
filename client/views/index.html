@@ -6,7 +6,7 @@
 <!--[if IE 8]>
 <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js"> <!--<![endif]-->
+<html class="no-js" xmlns:v-bind="http://www.w3.org/1999/xhtml"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,11 +46,9 @@
     <link rel="stylesheet" href="css/style.css">
 
 
-
-
-
     <!-- jQuery -->
     <script src="js/jquery.min.js"></script>
+    <!--<script src="assert/jquery/jquery-3.1.1.min.js"></script>-->
     <!-- jQuery Easing -->
     <script src="js/jquery.easing.1.3.js"></script>
     <!-- Bootstrap -->
@@ -63,11 +61,8 @@
     <script src="js/owl.carousel.min.js"></script>
 
     <script src="js/main.js"></script>
-
-    <script src="jquery-3.1.1.min.js"></script>
     <script src="https://unpkg.com/vue/dist/vue.js"></script>
     <script src="javascripts/src/vuex/index.js"></script>
-
 
 
     <!-- Modernizr JS -->
@@ -79,9 +74,6 @@
 
 </head>
 <body>
-<div id="app" style="position: absolute; z-index: 1000; color: #fff;">
-    {{ message }}这是一个vue测试数据
-</div>
 <header role="banner" id="home-header">
 
     <nav class="navbar navbar-default">
@@ -104,7 +96,6 @@
             </div>
         </div>
     </nav>
-
 </header>
 
 <section id="home-home" data-section="home" style="background-image: url(images/full_image_3.jpg);" data-stellar-background-ratio="0.5">
@@ -241,26 +232,22 @@
                     </div>
                 </div>
             </div>
-
-
             <div class="row" id="lawerContainer">
-                {{message}}
-                <!--<div class="col-md-4">-->
-                <!--<div class="team-box text-center to-animate-2">-->
-                <!--<div class="user"><img class="img-reponsive" src="images/person2.jpg" alt="Roger Garfield"></div>-->
-                <!--<h3>Kevin Steve</h3>-->
-                <!--<span class="position">Lawyer</span>-->
-                <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast-->
-                <!--of the Semantics, a large language ocean.</p>-->
-                <!--<ul class="social-media">-->
-                <!--<li><a href="#" class="facebook"><i class="icon-facebook"></i></a></li>-->
-                <!--<li><a href="#" class="twitter"><i class="icon-twitter"></i></a></li>-->
-                <!--<li><a href="#" class="dribbble"><i class="icon-dribbble"></i></a></li>-->
-                <!--<li><a href="#" class="codepen"><i class="icon-codepen"></i></a></li>-->
-                <!--<li><a href="#" class="github"><i class="icon-github-alt"></i></a></li>-->
-                <!--</ul>-->
-                <!--</div>-->
-                <!--</div>-->
+                <div class="col-md-4"  v-for="lawer in lawers">
+                    <div class="team-box text-center to-animate-2" >
+                        <div class="user"><img class="img-reponsive"  v-bind:src="lawer.avatar" alt="Roger Garfield"></div>
+                        <h3 v-text="lawer.lawerName"></h3>
+                        <span class="position"  v-text="lawer.position"></span>
+                        <p v-text="lawer.description"></p>
+                        <ul class="social-media">
+                            <!--<li><a href="#" class="facebook"><i class="icon-facebook"></i></a></li>-->
+                            <!--<li><a href="#" class="twitter"><i class="icon-twitter"></i></a></li>-->
+                            <!--<li><a href="#" class="dribbble"><i class="icon-dribbble"></i></a></li>-->
+                            <!--<li><a href="#" class="codepen"><i class="icon-codepen"></i></a></li>-->
+                            <li><a href="#" class="wechat" v-text="lawer.wechatId"><i class="icon-wechat"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
             <div class="call-to-action text-center to-animate"><a href="#" class="btn btn-learn">Learn More</a></div>
 
@@ -459,8 +446,6 @@
         </div>
     </div>
 </section>
-
-
 
 </body>
 </html>
