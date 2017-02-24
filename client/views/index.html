@@ -80,7 +80,8 @@
         <div class="container">
             <div class="navbar-header">
                 <!-- Mobile Toggle Menu Button -->
-                <a href="#" class="js-home-nav-toggle home-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+                <a href="#" class="js-home-nav-toggle home-nav-toggle" data-toggle="collapse" data-target="#navbar"
+                   aria-expanded="false" aria-controls="navbar"><i></i></a>
                 <a class="navbar-brand" href="#"><span>L</span>egal</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
@@ -98,7 +99,8 @@
     </nav>
 </header>
 
-<section id="home-home" data-section="home" style="background-image: url(images/full_image_3.jpg);" data-stellar-background-ratio="0.5">
+<section id="home-home" data-section="home" style="background-image: url(images/full_image_3.jpg);"
+         data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
         <div class="text-wrap">
@@ -151,64 +153,21 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 section-heading text-center">
-                    <h2 class="to-animate">法律服务</h2>
+                    <h2 class="to-animate">实践领域</h2>
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2 subtext">
-                            <h3 class="to-animate">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in
-                                Bookmarksgrove. </h3>
+                            <h3 class="to-animate"> </h3>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-4">
+            <div class="row" id="business">
+                <div class="col-md-4" v-for="item in business">
                     <div class="box-services">
                         <i class="icon-shield to-animate-2"></i>
                         <div class="home-post to-animate">
-                            <h3>Human Rights</h3>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
-                        </div>
-                    </div>
-
-                    <div class="box-services">
-                        <i class="icon-shield to-animate-2"></i>
-                        <div class="home-post to-animate">
-                            <h3>Personal Rights</h3>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="box-services">
-                        <i class="icon-shield to-animate-2"></i>
-                        <div class="home-post to-animate">
-                            <h3>Immigration Rights</h3>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
-                        </div>
-                    </div>
-
-                    <div class="box-services">
-                        <i class="icon-shield to-animate-2"></i>
-                        <div class="home-post to-animate">
-                            <h3>Family Rights</h3>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="box-services">
-                        <i class="icon-shield to-animate-2"></i>
-                        <div class="home-post to-animate">
-                            <h3>Religious Freedom</h3>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
-                        </div>
-                    </div>
-
-                    <div class="box-services">
-                        <i class="icon-shield to-animate-2"></i>
-                        <div class="home-post to-animate">
-                            <h3>Relationship Rights</h3>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+                            <h3 v-text="item.name"></h3>
+                            <p v-text="item.description"></p>
                         </div>
                     </div>
                 </div>
@@ -227,17 +186,19 @@
                     <h2 class="to-animate">律师团队</h2>
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2 subtext">
-                            <h3 class="to-animate">我们的律师有着多年的处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。为公司案件处理的主要人物。</h3>
+                            <h3 class="to-animate">
+                                我们的律师有着多年的处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。为公司案件处理的主要人物。</h3>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row" id="lawerContainer">
-                <div class="col-md-4"  v-for="lawer in lawers">
-                    <div class="team-box text-center to-animate-2" >
-                        <div class="user"><img class="img-reponsive"  v-bind:src="lawer.avatar" alt="Roger Garfield"></div>
+                <div class="col-md-4" v-for="lawer in lawers">
+                    <div class="team-box text-center to-animate-2">
+                        <div class="user"><img class="img-reponsive" v-bind:src="lawer.avatar" alt="Roger Garfield">
+                        </div>
                         <h3 v-text="lawer.lawerName"></h3>
-                        <span class="position"  v-text="lawer.position"></span>
+                        <span class="position" v-text="lawer.position"></span>
                         <p v-text="lawer.description"></p>
                         <ul class="social-media">
                             <!--<li><a href="#" class="facebook"><i class="icon-facebook"></i></a></li>-->
@@ -263,7 +224,8 @@
                 <h2 class="to-animate">实践领域</h2>
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 subtext to-animate">
-                        <h3>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</h3>
+                        <h3>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
+                            there live the blind texts.</h3>
                     </div>
                 </div>
             </div>
@@ -279,7 +241,8 @@
                 <div class="col-md-4 col-md-pull-8 to-animate-2">
                     <div class="mt">
                         <h3>Industrial Law</h3>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast
+                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
+                            there live the blind texts. Separated they live in Bookmarksgrove right at the coast
                             of the Semantics, a large language ocean. </p>
                         <ul class="list-nav">
                             <li><i class="icon-check2"></i>Far far away, behind the word</li>
@@ -305,23 +268,28 @@
                     <div class="mt">
                         <div>
                             <h4><i class="icon-shield"></i>劳动法</h4>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
+                                there live the blind texts. </p>
                         </div>
                         <div>
                             <h4><i class="icon-shield"></i>商业法</h4>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
+                                there live the blind texts. </p>
                         </div>
                         <div>
                             <h4><i class="icon-shield"></i>民事纠纷</h4>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
+                                there live the blind texts. </p>
                         </div>
                         <div>
                             <h4><i class="icon-shield"></i>知识产权</h4>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
+                                there live the blind texts. </p>
                         </div>
                         <div>
                             <h4><i class="icon-shield"></i>Accident Law</h4>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
+                                there live the blind texts. </p>
                         </div>
                     </div>
                 </div>
@@ -344,7 +312,9 @@
                                     <img src="images/person2.jpg" alt="user">
                                 </figure>
                                 <blockquote>
-                                    <p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right
+                                    <p>"Far far away, behind the word mountains, far from the countries Vokalia and
+                                        Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+                                        right
                                         at the coast of the Semantics, a large language ocean."</p>
                                 </blockquote>
                                 <span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
@@ -356,7 +326,9 @@
                                     <img src="images/person3.jpg" alt="user">
                                 </figure>
                                 <blockquote>
-                                    <p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right
+                                    <p>"Far far away, behind the word mountains, far from the countries Vokalia and
+                                        Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+                                        right
                                         at the coast of the Semantics, a large language ocean."</p>
                                 </blockquote>
                                 <span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
@@ -368,7 +340,9 @@
                                     <img src="images/person2.jpg" alt="user">
                                 </figure>
                                 <blockquote>
-                                    <p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right
+                                    <p>"Far far away, behind the word mountains, far from the countries Vokalia and
+                                        Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+                                        right
                                         at the coast of the Semantics, a large language ocean."</p>
                                 </blockquote>
                                 <span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
@@ -403,7 +377,8 @@
             <div class="col-md-4 to-animate">
                 <h3 class="section-title">关于我们</h3>
                 <p>使人们更加便捷的使用法律，提高群众法律意识是我们的宗旨。</p>
-                <p class="copy-right">&copy; 2017 湖北忠仁信法律咨询服务有限公司版权所有 <br>@ 2017 HuBei Zhong Ren Xin Law Service Co., Ltd. All Rights Reserved. <br>
+                <p class="copy-right">&copy; 2017 湖北忠仁信法律咨询服务有限公司版权所有 <br>@ 2017 HuBei Zhong Ren Xin Law Service Co.,
+                    Ltd. All Rights Reserved. <br>
                 </p>
             </div>
 
