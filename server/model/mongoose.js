@@ -5,9 +5,11 @@
 var mongoose = require('mongoose');
 var config = require('../config');
 var logger = require('../common/logger');
+var options = { promiseLibrary: require('bluebird') };
 
 // Create the database connection
-mongoose.connect(config.mongodb);
+// mongoose.connect(config.mongodb);
+mongoose.connect(config.mongodb, options);
 
 // CONNECTION EVENTS
 // When successfully connected
