@@ -19,6 +19,7 @@ var lawerSchema = new Schema({
     description: String,
     joinTime: Date,
     position: String,
+    order: Number,
     status: Number,
     meta: {
         createAt: {
