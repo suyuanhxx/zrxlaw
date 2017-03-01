@@ -9,6 +9,15 @@ $(document).ready(function () {
         });
     });
 
+    $.getJSON('/legalType', function (data) {
+        var legalType = new Vue({
+            el: '#legalType',
+            data: {
+                legalType: data.data
+            }
+        });
+    });
+
     $.getJSON('/business', function (data) {
         var business = new Vue({
             el: '#business',
