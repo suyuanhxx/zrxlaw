@@ -12,11 +12,21 @@
 <div id="app">
     <span v-text="message"></span>
 </div>
+
+<div id="test" v-bind:title="message">
+</div>
 <script>
        new Vue({
             el: '#app',
             data: {
                 message: 'Hello Vue'
+            }
+        });
+
+       new Vue({
+            el: '#test',
+            data: {
+                message: 'safdsf'
             }
         });
 </script>
