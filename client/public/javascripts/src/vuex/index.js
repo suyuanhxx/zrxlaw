@@ -1,19 +1,10 @@
 $(document).ready(function () {
     // Vue.config.debug = false;
-    $.getJSON('/condition/lawers', function (data) {
+    $.getJSON('/lawers', function (data) {
         var lawerContainer = new Vue({
             el: '#lawerContainer',
             data: {
                 lawers: data.data
-            }
-        });
-    });
-
-    $.getJSON('/legalType', function (data) {
-        var legalType = new Vue({
-            el: '#legalType',
-            data: {
-                legalType: data.data
             }
         });
     });
@@ -27,13 +18,16 @@ $(document).ready(function () {
         });
     });
 
-    var test = new Vue({
-        el: '#test',
-        data: {
-            msg:"asdfasdf"
-        }
-    });
 
+    //
+ var test =new vue({
+
+     el:'#test',
+   data:{
+
+         message:'我是测试数据'
+   }
+ });
 
 });
 
