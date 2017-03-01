@@ -3,10 +3,14 @@
  */
 'use strict';
 
-function Result() {
-    code:Number;
-    data:String;
-    msg:String;
+// function Result() {
+//     code:Number;
+//     data:String;
+//     msg:String;
+// };
+var result = {
+    "code":1,
+    "msg":"success",
+    "data":""
 };
-var result = new Result();
 module.exports = result;
