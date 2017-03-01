@@ -195,7 +195,7 @@
             <div class="row" id="lawerContainer">
                 <div class="col-md-4" v-for="lawer in lawers">
                     <div class="team-box text-center to-animate-2">
-                        <div class="user"><img class="img-reponsive" v-bind:src="lawer.avatar" alt="Roger Garfield">
+                        <div class="user"><img class="img-reponsive" v-bind:src="lawer.avatar" v-bind:alt="lawer.lawerName">
                         </div>
                         <h3 v-text="lawer.lawerName"></h3>
                         <span class="position" v-text="lawer.position"></span>
