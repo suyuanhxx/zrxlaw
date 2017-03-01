@@ -1,6 +1,6 @@
 $(document).ready(function () {
     // Vue.config.debug = false;
-    $.getJSON('/lawers', function (data) {
+    $.getJSON('/condition/lawers', function (data) {
         var lawerContainer = new Vue({
             el: '#lawerContainer',
             data: {
@@ -17,17 +17,6 @@ $(document).ready(function () {
             }
         });
     });
-
-
-    //
- var test =new vue({
-
-     el:'#test',
-   data:{
-
-         message:'我是测试数据'
-   }
- });
 
 });
 
