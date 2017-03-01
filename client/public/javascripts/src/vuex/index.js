@@ -18,6 +18,17 @@ $(document).ready(function () {
         });
     });
 
+
+    //
+ var test =new vue({
+
+     el:'#test',
+   data:{
+
+         message:'我是测试数据'
+   }
+ });
+
 });
 
 
