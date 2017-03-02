@@ -1,1 +1,6 @@
-@import "../../../public/assert/bootstrap-sass-3.3.7/bootstrap-sass-3.3.7/assets/stylesheets/_bootstrap.scss";
+@import "../../../assert/bootstrap-sass-3.3.7/bootstrap-sass-3.3.7/assets/stylesheets/_bootstrap.scss";
+@import "base";
+@import "sub-public/header";
+
+//lawyer-list
+@import "list/lawyer/content";
