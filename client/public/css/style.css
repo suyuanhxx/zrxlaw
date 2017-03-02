@@ -802,6 +802,10 @@ img {
   position: relative;
   padding-bottom: 20px; }
 
+#home-footer .section-title .text-inner {
+  text-align: center;
+}
+
 #home-footer .section-title:after {
   position: absolute;
   content: '';
@@ -1173,4 +1177,4 @@ img {
 
 /*# sourceMappingURL=style.css.map */
 
-/*# sourceMappingURL=style.csss.map */
+/*# sourceMappingURL=style.css.map */
