@@ -8,8 +8,6 @@ var db = require('./model/mongoose');
 require('./middlewares/mongoose_log'); // 打印 mongodb 查询日志
 var app = express();
 
-// view engine setup
-// # npm install consolidate mustache --save
 
 // view engine setup
 app.set('views', path.join(__dirname, '../client/views'));

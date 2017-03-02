@@ -9,11 +9,11 @@ if (config.debug) {
         logger.error('traceMQuery error:', err)
       }
       var infos = [];
-      infos.push(query._collection.collection.name + "." + method.blue);
+      infos.push(query._collection.collection.name + "." + method);
       infos.push(JSON.stringify(info));
-      infos.push((millis + 'ms').green);
+      infos.push((millis + 'ms'));
 
-      logger.debug("MONGO".magenta, infos.join(' '));
+      logger.debug(infos.join(' '));
     };
   };
 

@@ -11,7 +11,7 @@ log4js.configure({
     ]
 });
 
-var logger = log4js.getLogger('cheese');
+var logger = log4js.getLogger('zrxlaw');
 logger.setLevel(config.debug && env !== 'test' ? 'DEBUG' : 'ERROR');
 
 module.exports = logger;
