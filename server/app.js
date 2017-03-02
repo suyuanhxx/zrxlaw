@@ -10,14 +10,15 @@ var app = express();
 
 // view engine setup
 // # npm install consolidate mustache --save
-var express = require('express');
-var cons = require('consolidate');
-var app = express();
 
-var engines = require('consolidate');
-app.engine('html', engines.mustache);
-app.set('view engine', 'html');
+// view engine setup
 app.set('views', path.join(__dirname, '../client/views'));
+app.engine('html', require('ejs').renderFile);
+app.set('view engine', 'ejs');
+// var engines = require('consolidate');
+// app.engine('html', engines.mustache);
+// app.set('view engine', 'html');
+
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
