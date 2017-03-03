@@ -4,9 +4,11 @@
 
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
+var ObjectId  = Schema.ObjectId;
 
 var lawerSchema = new Schema({
-    jobNumber: String,//工号
+    id: {type: ObjectId},
+    jobNumber: {type: String},//工号
     username: String,//用户名
     lawerName: String,//律师姓名
     nickname: String,
