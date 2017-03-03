@@ -802,9 +802,8 @@ img {
   position: relative;
   padding-bottom: 20px; }
 
-#home-footer .section-title .text-inner {
-  text-align: center;
-}
+#home-footer .text-inner {
+  text-align: center; }
 
 #home-footer .section-title:after {
   position: absolute;
@@ -812,9 +811,9 @@ img {
   bottom: 0;
   left: 0;
   display: block;
-  width: 35px;
+  width: 100%;
   height: 2px;
-  background: #d73930; }
+  background: #191717; }
 
 #home-footer .copy-right {
   position: relative;
@@ -823,16 +822,6 @@ img {
 
 #home-footer .copy-right > a {
   color: #d73930; }
-
-#home-footer .copy-right:after {
-  position: absolute;
-  content: '';
-  top: 0;
-  left: 0;
-  display: block;
-  width: 35px;
-  height: 2px;
-  background: #d73930; }
 
 #home-footer .contact-info {
   margin: 0 0 60px 0;
