@@ -4,7 +4,8 @@ module.exports = function (app) {
     /**
      * 瀑布流获取律师信息（名称，职位，描述，头像）
      */
-    app.get('lawers/:page/:size', Lawer.getLawersByWaterFlow);
+    app.get('/lawers/:page/:size', Lawer.getLawersByWaterFlow);
+    app.get('/lawers/:page', Lawer.getLawersByWaterFlow);
 
     /**
      * 获取首页展示律师信息（名称，职位，描述，头像）
