@@ -5,8 +5,22 @@
     <title>sub</title>
 
     <link rel="stylesheet" href="viewmodel/stylesheets/sass/sub-import.css">
-    <link rel="shortcut icon" href="images/favicon.ico">
 
+    <script src="assert/jquery/jquery-3.1.1.min.js"></script>
+    <script src="assert/mustache/mustache.js"></script>
+    <script src="assert/waterfall/waterfall.js"></script>
+    <script src="viewmodel/js/sub/lawyer-list.js"></script>
+
+
+    <script type="text/template" id="waterfall-tpl">
+        {{#result}}
+        <div class="item">
+            <img src="{{image}}" width="{{width}}" height="{{height}}" />
+            <div title="{{lawerName}}" jobNumber="{{jobNumber}}">{{lawerName}}</div>
+        </div>
+        {{/result}}
+    </script>
+    <!--template-->
 </head>
 <body>
 
@@ -33,7 +47,15 @@
 <div class="content">
 
     <div class="title-el">律师信息</div>
+
+
+    <div id="container-wrapper" class="wrapper">
+
+
+
+    </div>
 </div>
+
 
 
 </body>
