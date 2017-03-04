@@ -1,10 +1,10 @@
 $(document).ready(function () {
     // Vue.config.debug = false;
-    $.getJSON('/lawers/condition', function (data) {
-        var lawerContainer = new Vue({
-            el: '#lawerContainer',
+    $.getJSON('/condition/lawyers', function (data) {
+        var lawyerContainer = new Vue({
+            el: '#lawyerContainer',
             data: {
-                lawers: data.data
+                lawyers: data.data
             }
         });
     });

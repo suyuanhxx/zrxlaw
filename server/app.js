@@ -30,7 +30,7 @@ app.use(express.static(path.join(__dirname, '../client/public')));
 //rout map
 require('./routes/index')(app);
 require('./routes/user')(app);
-require('./routes/lawer')(app);
+require('./routes/lawyer')(app);
 require('./routes/legalType')(app);
 require('./routes/business')(app);
 

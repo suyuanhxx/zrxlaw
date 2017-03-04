@@ -165,18 +165,18 @@
                     </div>
                 </div>
             </div>
-            <div class="row" id="lawerContainer">
-                <div class="col-md-4" v-for="lawer in lawers">
+            <div class="row" id="lawyerContainer">
+                <div class="col-md-4" v-for="lawyer in lawyers">
 
                     <div class="team-box text-center to-animate-2">
-                        <div class="user"><img class="img-reponsive" v-bind:src="lawer.avatar" alt="Roger Garfield">
+                        <div class="user"><img class="img-reponsive" v-bind:src="lawyer.avatar" alt="Roger Garfield">
 
                         </div>
-                        <h3 v-text="lawer.lawerName"></h3>
-                        <span class="position" v-text="lawer.position"></span>
-                        <p v-text="lawer.description"></p>
+                        <h3 v-text="lawyer.lawyerName"></h3>
+                        <span class="position" v-text="lawyer.position"></span>
+                        <p v-text="lawyer.description"></p>
                         <ul class="social-media">
-                            <li><a href="#" class="wechat" v-text="lawer.wechatId"><i class="icon-wechat"></i></a></li>
+                            <li><a href="#" class="wechat" v-text="lawyer.wechatId"><i class="icon-wechat"></i></a></li>
                         </ul>
                     </div>
                 </div>
