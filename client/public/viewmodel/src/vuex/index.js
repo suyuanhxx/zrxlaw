@@ -1,6 +1,6 @@
 $(document).ready(function () {
     // Vue.config.debug = false;
-    $.getJSON('/condition/lawers', function (data) {
+    $.getJSON('/lawers/condition', function (data) {
         var lawerContainer = new Vue({
             el: '#lawerContainer',
             data: {
