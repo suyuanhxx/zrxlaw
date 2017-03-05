@@ -5,15 +5,10 @@ $(function () {
     //
     // lawyerlist-waterfall
     //
-
-
     lawyerlist.waterfallset();
-
 });
 var lawyerlist = {
     waterfallset: function () {
-
-
         $('#container-wrapper').waterfall({
             itemCls: 'item',
             colWidth: 222,
@@ -29,15 +24,13 @@ var lawyerlist = {
                  * @param {String} data
                  */
                 renderData: function (data) {
+                    var result = data.data;
                     var template = $('#waterfall-tpl').html();
 
 
-                    return Mustache.to_html(template, data.data).replace(/^\s*/mg, '')
+                    return Mustache.to_html(template, result).replace(/^\s*/mg, '')
                 }
             }
         });
-
     }
-
-
 };
