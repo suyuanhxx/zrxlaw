@@ -9,7 +9,41 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 var ObjectId = Schema.ObjectId;
 
-var lawyerArchives = new Schema({});
+var lawyerArchives = new Schema({
+    id: {type: ObjectId},
+    /**
+     * 证件照
+     */
+    lawyerPhoto: {type: String},
+    /**
+     * 律所
+     */
+    lawOffice: {type: String},
+    /**
+     * 律师类型[101:高级律师;102:合伙律师;103:专职律师;104:律师助理;105:实习律师]
+     */
+    lawyerType: {type: Number},
+    /**
+     * 案件总数
+     */
+    caseCount: {type: Number},
+    /**
+     * 案件纵览
+     */
+    caseDetail: {type: String},
+    status: {type: Number},
+    meta: {
+        createAt: {
+            type: Date,
+            default: Date.now()
+        },
+        updateAt: {
+            type: Date,
+            default: Date.now()
+        }
+    }
+
+});
 
 /**
  * 编译模型时指定集合名称： mongoose.model(name, [schema], [colleciton], [skipInit])
