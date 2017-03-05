@@ -6,6 +6,7 @@ module.exports = function (app) {
      */
     app.get('/lawyers/:page/:size', Lawer.getLawyersByWaterFlow);
     app.get('/lawyers/:page', Lawer.getLawyersByWaterFlow);
+    app.get('/lawyersByPaging/:page/:size', Lawer.page);
 
     /**
      * 获取首页展示律师信息（名称，职位，描述，头像）
