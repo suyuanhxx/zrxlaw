@@ -24,7 +24,10 @@ var lawyerlist = {
                  * @param {String} data
                  */
                 renderData: function (data) {
+
                     var template = $('#waterfall-tpl').html();
+
+
                     return Mustache.to_html(template, data).replace(/^\s*/mg, '')
                 }
             }
