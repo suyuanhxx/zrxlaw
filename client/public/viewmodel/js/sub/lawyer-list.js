@@ -31,7 +31,7 @@ var lawyerlist = {
                 renderData: function (data) {
                     var template = $('#waterfall-tpl').html();
 
-                    return Mustache.to_html(template, data).replace(/^\s*/mg, '')
+                    return Mustache.to_html(template, data.data).replace(/^\s*/mg, '')
                 }
             }
         });
