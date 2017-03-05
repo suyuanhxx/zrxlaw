@@ -10,7 +10,7 @@ var lawerSchema = new Schema({
     id: {type: ObjectId},
     jobNumber: {type: String},//工号
     username: String,//用户名
-    lawerName: String,//律师姓名
+    lawyerName: String,//律师姓名
     nickname: String,
     avatar: String,
     gender: String,
@@ -18,9 +18,16 @@ var lawerSchema = new Schema({
     phone: String,
     wechatId: String,
     email: String,
-    description: String,
+    /**
+     * 个人简介
+     */
+    personalProfile: String,
     joinTime: Date,
     position: String,
+    /**
+     * 办公地址
+     */
+    officeAddress: String,
     order: Number,
     status: Number,
     meta: {
