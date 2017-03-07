@@ -22,4 +22,9 @@ module.exports = function (app) {
      * 添加律师
      */
     app.post('/lawyer', Lawer.addLawyer);
+
+    /**
+     * 修改律师信息
+     */
+    app.put('/lawyer', Lawer.updateLawyerById);
 };
