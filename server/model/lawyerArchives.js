@@ -20,6 +20,10 @@ var lawyerArchives = new Schema({
      */
     lawOffice: {type: String},
     /**
+     * 家庭住址（可选）
+     */
+    homeAddress: {type: String},
+    /**
      * 律师类型[101:高级律师;102:合伙律师;103:专职律师;104:律师助理;105:实习律师]
      */
     lawyerType: {type: Number},
