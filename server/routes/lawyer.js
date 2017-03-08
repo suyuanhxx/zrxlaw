@@ -26,5 +26,5 @@ module.exports = function (app) {
     /**
      * 修改律师信息
      */
-    app.put('/lawyer', Lawer.updateLawyerById);
+    app.put('/lawyer/:id', Lawer.updateLawyerById);
 };

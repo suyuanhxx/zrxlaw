@@ -11,11 +11,8 @@ var app = express();
 
 // view engine setup
 app.set('views', path.join(__dirname, '../client/views'));
-app.engine('html', require('ejs').renderFile);
-app.set('view engine', 'ejs');
-// var engines = require('consolidate');
-// app.engine('html', engines.mustache);
-// app.set('view engine', 'html');
+app.set('view engine', 'html');
+app.engine('html', require('ejs-mate'));
 
 
 // uncomment after placing your favicon in /public
