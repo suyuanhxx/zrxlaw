@@ -27,4 +27,7 @@ module.exports = function (app) {
      * 修改律师信息
      */
     app.put('/lawyer/:id', Lawer.updateLawyerById);
+
+
+    app.put('/updloadAvatar', Lawer.updloadAvatar);
 };
