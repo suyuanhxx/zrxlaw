@@ -15,21 +15,21 @@ var client = oss({
  * 文件上传功能
  */
 exports.fileUpLoad = function (file, callback) {
-    // var hash = crypto.createHash('md5');
-    // fs.readFile('server/logs/zrxlaw.log', function (err, data) {
-    //     if (err) {
-    //         logger.error(err);
-    //     }
-    //     hash.update(data);
-    //     callback(err, data);
-    // });
+    fs.readFile('server/logs/zrxlaw.log', function (err, data) {
+        if (err) {
+            logger.error(err);
+        }
+        callback(err, data);
+    });
+
+};
+
+
+exports.uploadAliOSS = function (file, callback) {
     var filepath = 'server/logs/zrxlaw.log';
-    // var object = yield store.put('ossdemo/demo.txt', filepath);
-    // console.log(object);
-
-    co(function* () {
-        yield client.put('ossdemo/zrxlaw.log', filepath);
-
+    co(function*() {
+        var result = yield client.put('ossdemo/zrxlaw.log', filepath);
+        callback(result);
     }).catch(function (err) {
         console.log(err);
     });
