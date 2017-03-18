@@ -1380,4 +1380,19 @@ img {
 
 .text-inner-content img{width: 100%;}
 
+.navbar-header{
+  height:58px;
+  .navbar-brand{
+     display: block;
+    height:58px ;
+    padding: 0;
+    img{
+
+      margin-top: 3px;
+    }
+
+
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
