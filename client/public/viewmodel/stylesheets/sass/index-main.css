@@ -46,5 +46,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .partner {
   min-height: 30px; }
+  .partner ul {
+    overflow: hidden;
+    padding-left: 0; }
 
 /*# sourceMappingURL=index-main.css.map */
