@@ -813,16 +813,6 @@ img {
 #home-footer .copy-right > a {
   color: #d73930; }
 
-#home-footer .copy-right:after {
-  position: absolute;
-  content: '';
-  top: 0;
-  left: 0;
-  display: block;
-  width: 35px;
-  height: 2px;
-  background: #d73930; }
-
 #home-footer .contact-info {
   margin: 0 0 60px 0;
   padding: 0; }

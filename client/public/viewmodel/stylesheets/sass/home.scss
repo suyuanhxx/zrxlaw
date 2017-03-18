@@ -7,7 +7,7 @@
 }
 
 .about {
-  padding-top: 20px;
+  //padding-top: 20px;
 }
 
 body #home-footer .text-inner {
@@ -15,11 +15,14 @@ body #home-footer .text-inner {
 }
 
 #home-footer .section-title {
-  font-size: 22px;
+  font-size: 30px;
   color: #fff;
   position: relative;
   padding-bottom: 20px;
+
+
 }
+
 
 #home-footer .text-inner {
   text-align: center;
@@ -63,6 +66,10 @@ body #home-footer .contact-info {
   padding: 0;
 }
 
+#home-footer .contact-info ul{
+overflow: hidden;
+
+}
 body #home-footer .contact-info li {
   font-size: 14px;
   list-style: none;
@@ -84,6 +91,7 @@ body #home-footer .contact-info li i {
 
 #home-footer .contact-container {
   padding-left: 14%;
+  overflow: hidden;
 }
 
 #home-footer .contact-info li a {
