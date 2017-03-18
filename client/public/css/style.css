@@ -805,16 +805,6 @@ img {
 #home-footer .text-inner {
   text-align: center; }
 
-#home-footer .section-title:after {
-  position: absolute;
-  content: '';
-  bottom: 0;
-  left: 0;
-  display: block;
-  width: 100%;
-  height: 2px;
-  background: #191717; }
-
 #home-footer .copy-right {
   position: relative;
   padding-top: 20px;

@@ -5847,6 +5847,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   background: #d73930; }
 
+* {
+  font-family: "Microsoft YaHei" !important; }
+
 .content .title-el {
   padding: 20px 0 10px 0;
   color: #777;
@@ -5857,4 +5860,4 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
   border: 0; }
 
-/*# sourceMappingURL=sub-import.css.map */
+/*# sourceMappingURL=sub-main.css.map */
