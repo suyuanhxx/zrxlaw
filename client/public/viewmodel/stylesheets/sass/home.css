@@ -4,9 +4,6 @@
   src: url("../../../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../../../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../../../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../../../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
   font-weight: normal;
   font-style: normal; }
-body #home-footer .text-inner {
-  padding: 2em; }
-
 #home-footer .section-title {
   font-size: 30px;
   color: #fff;
@@ -14,9 +11,6 @@ body #home-footer .text-inner {
   padding-bottom: 20px; }
 
 #home-footer .text-inner {
-  text-align: center; }
-
-#home-footer .culture {
   text-align: center; }
 
 body #home-footer .partner span {
@@ -58,7 +52,8 @@ body #home-footer .contact-info li i {
 
 #home-footer .contact-container {
   padding-left: 14%;
-  overflow: hidden; }
+  overflow: hidden;
+  margin-top: 40px; }
 
 #home-footer .contact-info li a {
   color: #d73930; }

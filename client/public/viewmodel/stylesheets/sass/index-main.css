@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #d73930; }
 
 * {
-  font-family: "Microsoft YaHei" !important; }
+  font-family: "Microsoft YaHei"; }
 
 .page_index_footer {
   width: 100%; }
