@@ -1,11 +1,230 @@
 <!DOCTYPE html>
-<html lang="en">
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" xmlns:v-bind="http://www.w3.org/1999/xhtml"> <!--<![endif]-->
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>湖北忠仁信法律咨询服务有限公司</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="湖北忠仁信法律咨询服务有限公司"/>
+    <meta name="keywords" content="忠仁信，法律，咨询，法律援助"/>
+    <meta name="author" content="huangxiaoxu"/>
+
+    <meta property="og:title" content=""/>
+    <meta property="og:image" content=""/>
+    <meta property="og:url" content=""/>
+    <meta property="og:site_name" content=""/>
+    <meta property="og:description" content=""/>
+    <meta name="twitter:title" content=""/>
+    <meta name="twitter:image" content=""/>
+    <meta name="twitter:url" content=""/>
+    <meta name="twitter:card" content=""/>
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+
+    <link href="css/google-font.css" rel="stylesheet">
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Simple Line Icons -->
+    <link rel="stylesheet" href="css/simple-line-icons.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Owl Carousel  -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!-- Style -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="viewmodel/stylesheets/sass/home.css">
+    <link rel="stylesheet" href="viewmodel/stylesheets/sass/index-main.css">
+
+
+    <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+    <!--<script src="assert/jquery/jquery-3.1.1.min.js"></script>-->
+    <!-- jQuery Easing -->
+    <script src="js/jquery.easing.1.3.js"></script>
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Waypoints -->
+    <script src="js/jquery.waypoints.min.js"></script>
+    <!-- Stellar Parallax -->
+    <script src="js/jquery.stellar.min.js"></script>
+    <!-- Owl Carousel -->
+    <script src="js/owl.carousel.min.js"></script>
+
+    <script src="js/main.js"></script>
+
+    <script src="viewmodel/src/static/Vue/Vue-v2.1.10.min.js"></script>
+    <script src="viewmodel/src/static/Vue/vue-waterfall.min.js"></script>
+    <script src="viewmodel/src/vuex/item-factory.js"></script>
+    <!--<script src="viewmodel/src/vuex/vue-waterfall.js"></script>-->
+
+
+    <!-- Modernizr JS -->
+    <!--[if lt IE 9]>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <!--<script src="js/modernizr-2.6.2.min.js"></script>-->
+    <!-- FOR IE9 below -->
+
+
 </head>
 <body>
+<header role="banner" id="home-header">
 
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <!-- Mobile Toggle Menu Button -->
+                <a href="#" class="js-home-nav-toggle home-nav-toggle" data-toggle="collapse" data-target="#navbar"
+                   aria-expanded="false" aria-controls="navbar"><i></i></a>
+                <a class="navbar-brand" href="#"><img src="images/logo_03.png"/></a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="#" data-nav-section="home"><span>Home</span></a></li>
+                    <li><a href="#" data-nav-section="services"><span>法律服务</span></a></li>
+                    <li><a href="#" data-nav-section="team"><span>律师团队</span></a></li>
+                    <!--<li><a href="#" data-nav-section="about"><span>About</span></a></li>-->
+                    <li><a href="#" data-nav-section="practice-areas"><span>实践领域</span></a></li>
+                    <!--<li><a href="#" data-nav-section="testimony"><span>Testimonial</span></a></li>-->
+                    <li><a href="#" data-nav-section="contact"><span>关于我们</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<section id="home-home">
+
+    <div id="app">
+        <waterfall
+                :line="line"
+                :line-gap="200"
+                :min-line-gap="180"
+                :max-line-gap="220"
+                :watch="items"
+                @reflowed="reflowed"
+                ref="waterfall">
+            <!-- each component is wrapped by a waterfall slot -->
+            <waterfall-slot
+                    v-for="(item, index) in items"
+                    :width="100px"
+                    :height="100px"
+                    :order="index"
+                    :key="item.index"
+                    move-class="item-move">
+                <div class="item" :style="item.style" :index="item.index"></div>
+            </waterfall-slot>
+        </waterfall>
+    </div>
+</section>
+
+
+<section id="home-footer" data-section="contact" role="contentinfo">
+    <div class="page_index_footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 about to-animate">
+                    <h3 class="section-title text-inner">只为赢，选择忠仁信，专业的法律服务。</h3>
+                </div>
+                <!-- 口号，文化 -->
+                <div class="col-md-12 about to-animate">
+                    <p class="culture">我们拥有真诚热情的律师团队，我们提供专业精深的法律服务，您的一切诉求，是我们的使命！</p>
+                    <p class="culture">即使囊中羞涩也不苟且，一站式服务为你保驾。找律师，打官司不烦恼，一站式服务为你领航。</p>
+                    <p class="culture">使人们更加便捷的使用法律，提高群众法律意识是我们的宗旨。一站式服务为客户，当事人解决所有烦恼。让法律服务尽可能简单。</p>
+                </div>
+
+                <!-- 公司合作伙伴 -->
+                <div class="col-md-12 about to-animate">
+                    <div class="partner">
+                        <span>合作伙伴：</span>
+                        <ul>
+                            <li>盈科律师事务所</li>
+                            <li>盈科律师事务所</li>
+                            <li>盈科律师事务所</li>
+                            <li>盈科律师事务所</li>
+                            <li>盈科律师事务所</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- 公司联系方式，地址 copy right-->
+                <div class="col-md-12 to-animate ">
+                    <!--<h3 class="section-title">公司地址</h3>-->
+                    <div class="contact-container">
+                        <ul class="contact-info">
+                            <li><i class="icon-map-marker"></i>湖北省武汉市洪山区南湖大道42号（武汉光谷软件园）</li>
+                            <li><i class="icon-phone"></i>027-87611118</li>
+                            <li><i class="icon-envelope"></i><a href="#">hr@zrxlaw.com</a></li>
+                        </ul>
+                    </div>
+
+                </div>
+
+                <div class="">
+                    <p class="copy-right">&copy; 2016-2017 Hubei Province zhongrenxin, all rights reserved&nbsp;湖北忠仁信法律咨询服务有限公司版权所有
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+
+    var app = new Vue({
+        el: '#app',
+        components: {
+            'waterfall': Waterfall.waterfall,
+            'waterfall-slot': Waterfall.waterfallSlot
+        },
+        data: {
+            line: 'h',
+            items: ItemFactory.get(100),
+            isBusy: false
+        },
+        methods: {
+            addItems: function () {
+                if (!this.isBusy && this.items.length < 500) {
+                    this.isBusy = true
+                    this.items.push.apply(this.items, ItemFactory.get(50))
+                }
+            },
+            shuffle: function () {
+                this.items.sort(function () {
+                    return Math.random() - 0.5
+                })
+            },
+            reflowed: function () {
+                this.isBusy = false
+            }
+        }
+    })
+
+    document.body.addEventListener('click', function () {
+        app.shuffle()
+        // app.$refs.waterfall.$emit('reflow') // manually trigger reflow action
+    }, false)
+
+    window.addEventListener('scroll', function () {
+        var scrollTop = document.documentElement.scrollTop || document.body.scrollTop
+        if (scrollTop + window.innerHeight >= document.body.clientHeight) {
+            app.addItems()
+        }
+    })
+
+</script>
 
 </body>
 </html>
+

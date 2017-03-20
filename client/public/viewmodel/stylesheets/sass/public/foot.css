@@ -6,4 +6,9 @@
     min-height: 30px;
 }
 
+.partner ul {
+    overflow: hidden;
+    padding-left: 0;
+}
+
 /*# sourceMappingURL=foot.css.map */
