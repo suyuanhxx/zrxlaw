@@ -941,3 +941,3025 @@ Started 2017-03-20 15:14:04 GET /viewmodel/src/vuex/item-factory.js ::1
 Started 2017-03-20 15:14:04 GET /favicon.ico ::1
 [2017-03-20 15:14:04.845] [INFO] zrxlaw - Completed 500 (5ms)
 [2017-03-20 16:58:05.904] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-21 11:03:03.061] [INFO] zrxlaw - Listening on port 3000
+[2017-03-21 11:03:03.185] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-21 11:03:11.911] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /lawyers.html ::1
+[2017-03-21 11:03:11.929] [INFO] zrxlaw - Completed 304 (43ms)
+[2017-03-21 11:03:11.941] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /css/google-font.css ::1
+[2017-03-21 11:03:11.944] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /css/icomoon.css ::1
+[2017-03-21 11:03:11.945] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /css/simple-line-icons.css ::1
+[2017-03-21 11:03:11.947] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /css/bootstrap.css ::1
+[2017-03-21 11:03:11.947] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /css/owl.theme.default.min.css ::1
+[2017-03-21 11:03:11.948] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /css/style.css ::1
+[2017-03-21 11:03:11.965] [INFO] zrxlaw - Completed 304 (21ms)
+[2017-03-21 11:03:11.966] [INFO] zrxlaw - Completed 304 (25ms)
+[2017-03-21 11:03:11.966] [INFO] zrxlaw - Completed 304 (21ms)
+[2017-03-21 11:03:11.967] [INFO] zrxlaw - Completed 304 (20ms)
+[2017-03-21 11:03:11.967] [INFO] zrxlaw - Completed 304 (21ms)
+[2017-03-21 11:03:11.968] [INFO] zrxlaw - Completed 304 (20ms)
+[2017-03-21 11:03:11.968] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-21 11:03:11.969] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /css/animate.css ::1
+[2017-03-21 11:03:11.969] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /css/owl.carousel.min.css ::1
+[2017-03-21 11:03:11.969] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-21 11:03:11.970] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-21 11:03:11.970] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /js/jquery.min.js ::1
+[2017-03-21 11:03:11.971] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-21 11:03:11.971] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-21 11:03:11.976] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /js/jquery.easing.1.3.js ::1
+[2017-03-21 11:03:11.976] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /js/bootstrap.min.js ::1
+[2017-03-21 11:03:11.978] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /js/owl.carousel.min.js ::1
+[2017-03-21 11:03:11.979] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /js/main.js ::1
+[2017-03-21 11:03:11.982] [INFO] zrxlaw - Completed 304 (12ms)
+[2017-03-21 11:03:11.982] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-21 11:03:11.983] [INFO] zrxlaw - Completed 304 (7ms)
+[2017-03-21 11:03:11.985] [INFO] zrxlaw - Completed 200 (15ms)
+[2017-03-21 11:03:11.986] [INFO] zrxlaw - Completed 304 (10ms)
+[2017-03-21 11:03:11.986] [INFO] zrxlaw - Completed 304 (8ms)
+[2017-03-21 11:03:11.987] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /js/jquery.waypoints.min.js ::1
+[2017-03-21 11:03:11.987] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /js/jquery.stellar.min.js ::1
+[2017-03-21 11:03:11.990] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-21 11:03:11.991] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-21 11:03:11.996] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:11 GET /viewmodel/src/static/Vue/Vue-v2.1.10.min.js ::1
+[2017-03-21 11:03:11.997] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-21 11:03:12.008] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:12 GET /viewmodel/src/static/Vue/vue-waterfall.min.js ::1
+[2017-03-21 11:03:12.010] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-21 11:03:12.015] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:12 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-21 11:03:12.017] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-21 11:03:12.025] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:12 GET /images/logo_03.png ::1
+[2017-03-21 11:03:12.029] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-21 11:03:12.185] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:12 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-21 11:03:12.185] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:12 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-21 11:03:12.186] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-21 11:03:12.187] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-21 11:03:16.717] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:16 GET /test.html ::1
+[2017-03-21 11:03:16.729] [INFO] zrxlaw - Completed 304 (12ms)
+[2017-03-21 11:03:16.742] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:16 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-21 11:03:16.743] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-21 11:03:16.748] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:16 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-21 11:03:16.748] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-21 11:03:16.960] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:03:16 GET /favicon.ico ::1
+[2017-03-21 11:03:16.965] [INFO] zrxlaw - Completed 500 (5ms)
+[2017-03-21 11:20:14.877] [INFO] zrxlaw - 
+
+Started 2017-03-21 11:20:14 GET /favicon.ico ::1
+[2017-03-21 11:20:14.883] [INFO] zrxlaw - Completed 500 (6ms)
+[2017-03-21 12:46:41.306] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 11:40:13.715] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 11:40:13.823] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 11:40:30.236] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /lawyers.html ::1
+[2017-03-22 11:40:30.250] [INFO] zrxlaw - Completed 200 (39ms)
+[2017-03-22 11:40:30.264] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /css/google-font.css ::1
+[2017-03-22 11:40:30.266] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /css/animate.css ::1
+[2017-03-22 11:40:30.272] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /css/icomoon.css ::1
+[2017-03-22 11:40:30.275] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /css/simple-line-icons.css ::1
+[2017-03-22 11:40:30.277] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /css/bootstrap.css ::1
+[2017-03-22 11:40:30.278] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /css/owl.carousel.min.css ::1
+[2017-03-22 11:40:30.285] [INFO] zrxlaw - Completed 304 (19ms)
+[2017-03-22 11:40:30.286] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 11:40:30.290] [INFO] zrxlaw - Completed 304 (26ms)
+[2017-03-22 11:40:30.290] [INFO] zrxlaw - Completed 304 (13ms)
+[2017-03-22 11:40:30.291] [INFO] zrxlaw - Completed 304 (19ms)
+[2017-03-22 11:40:30.291] [INFO] zrxlaw - Completed 304 (16ms)
+[2017-03-22 11:40:30.293] [INFO] zrxlaw - Completed 304 (15ms)
+[2017-03-22 11:40:30.294] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /css/style.css ::1
+[2017-03-22 11:40:30.295] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 11:40:30.296] [INFO] zrxlaw - Completed 304 (10ms)
+[2017-03-22 11:40:30.296] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 11:40:30.297] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /js/jquery.min.js ::1
+[2017-03-22 11:40:30.298] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 11:40:30.298] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /js/bootstrap.min.js ::1
+[2017-03-22 11:40:30.301] [INFO] zrxlaw - Completed 304 (5ms)
+[2017-03-22 11:40:30.302] [INFO] zrxlaw - Completed 304 (7ms)
+[2017-03-22 11:40:30.302] [INFO] zrxlaw - Completed 304 (8ms)
+[2017-03-22 11:40:30.305] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 11:40:30.307] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 11:40:30.308] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /js/owl.carousel.min.js ::1
+[2017-03-22 11:40:30.334] [INFO] zrxlaw - Completed 304 (37ms)
+[2017-03-22 11:40:30.337] [INFO] zrxlaw - Completed 304 (40ms)
+[2017-03-22 11:40:30.338] [INFO] zrxlaw - Completed 304 (33ms)
+[2017-03-22 11:40:30.339] [INFO] zrxlaw - Completed 304 (41ms)
+[2017-03-22 11:40:30.340] [INFO] zrxlaw - Completed 304 (32ms)
+[2017-03-22 11:40:30.340] [INFO] zrxlaw - Completed 304 (32ms)
+[2017-03-22 11:40:30.340] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /js/main.js ::1
+[2017-03-22 11:40:30.345] [INFO] zrxlaw - Completed 304 (5ms)
+[2017-03-22 11:40:30.354] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 11:40:30.364] [INFO] zrxlaw - Completed 304 (10ms)
+[2017-03-22 11:40:30.369] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /images/logo_03.png ::1
+[2017-03-22 11:40:30.372] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:40:30.506] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 11:40:30.507] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:40:30 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 11:40:30.509] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:40:30.516] [INFO] zrxlaw - Completed 304 (9ms)
+[2017-03-22 11:41:25.793] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /lawyers.html ::1
+[2017-03-22 11:41:25.801] [INFO] zrxlaw - Completed 304 (8ms)
+[2017-03-22 11:41:25.820] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /css/google-font.css ::1
+[2017-03-22 11:41:25.821] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /css/animate.css ::1
+[2017-03-22 11:41:25.821] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /css/icomoon.css ::1
+[2017-03-22 11:41:25.822] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /css/simple-line-icons.css ::1
+[2017-03-22 11:41:25.822] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /css/bootstrap.css ::1
+[2017-03-22 11:41:25.823] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /css/owl.carousel.min.css ::1
+[2017-03-22 11:41:25.824] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 11:41:25.824] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:41:25.825] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 11:41:25.825] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:41:25.826] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 11:41:25.826] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:41:25.826] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 11:41:25.827] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:41:25.834] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /css/style.css ::1
+[2017-03-22 11:41:25.834] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 11:41:25.836] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 11:41:25.836] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /js/jquery.min.js ::1
+[2017-03-22 11:41:25.839] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 11:41:25.839] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /js/bootstrap.min.js ::1
+[2017-03-22 11:41:25.840] [INFO] zrxlaw - Completed 304 (6ms)
+[2017-03-22 11:41:25.840] [INFO] zrxlaw - Completed 304 (6ms)
+[2017-03-22 11:41:25.841] [INFO] zrxlaw - Completed 304 (5ms)
+[2017-03-22 11:41:25.841] [INFO] zrxlaw - Completed 304 (5ms)
+[2017-03-22 11:41:25.841] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:41:25.841] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:41:25.842] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 11:41:25.843] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:41:25.844] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 11:41:25.844] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /js/owl.carousel.min.js ::1
+[2017-03-22 11:41:25.845] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /js/main.js ::1
+[2017-03-22 11:41:25.848] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 11:41:25.848] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 11:41:25.848] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:41:25.858] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 11:41:25.859] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:41:25.864] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:25 GET /images/logo_03.png ::1
+[2017-03-22 11:41:25.865] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:41:26.036] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:26 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 11:41:26.037] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:41:26.037] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:26 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 11:41:26.038] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:41:28.923] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:28 GET /css/google-font.css ::1
+[2017-03-22 11:41:28.924] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:41:28.924] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:28 GET /css/animate.css ::1
+[2017-03-22 11:41:28.925] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:41:28.926] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:28 GET /css/icomoon.css ::1
+[2017-03-22 11:41:28.927] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:41:28.929] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:28 GET /css/simple-line-icons.css ::1
+[2017-03-22 11:41:28.930] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:28 GET /css/bootstrap.css ::1
+[2017-03-22 11:41:28.931] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:28 GET /css/owl.carousel.min.css ::1
+[2017-03-22 11:41:28.935] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:28 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 11:41:28.936] [INFO] zrxlaw - Completed 304 (7ms)
+[2017-03-22 11:41:28.936] [INFO] zrxlaw - Completed 304 (6ms)
+[2017-03-22 11:41:28.937] [INFO] zrxlaw - Completed 304 (6ms)
+[2017-03-22 11:41:28.937] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:28 GET /css/style.css ::1
+[2017-03-22 11:41:28.937] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:28 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 11:41:28.938] [INFO] zrxlaw - Completed 304 (6ms)
+[2017-03-22 11:41:28.938] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:41:28.938] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:28 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 11:41:28.939] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:41:28.941] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:41:29.190] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:29 GET /js/jquery.min.map ::1
+[2017-03-22 11:41:29.197] [INFO] zrxlaw - Completed 500 (7ms)
+[2017-03-22 11:41:29.275] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:29 GET /css/bootstrap.css.map ::1
+[2017-03-22 11:41:29.276] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:41:29.277] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:29 GET /css/style.css.map ::1
+[2017-03-22 11:41:29.279] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:29 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 11:41:29.280] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:41:29.281] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:29 GET /viewmodel/stylesheets/sass/waterfall.css.map ::1
+[2017-03-22 11:41:29.286] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 11:41:29.287] [INFO] zrxlaw - Completed 304 (10ms)
+[2017-03-22 11:41:47.524] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /lawyers.html ::1
+[2017-03-22 11:41:47.535] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 11:41:47.558] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /css/google-font.css ::1
+[2017-03-22 11:41:47.560] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /css/animate.css ::1
+[2017-03-22 11:41:47.560] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /css/icomoon.css ::1
+[2017-03-22 11:41:47.561] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /css/simple-line-icons.css ::1
+[2017-03-22 11:41:47.563] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /css/bootstrap.css ::1
+[2017-03-22 11:41:47.564] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /css/owl.carousel.min.css ::1
+[2017-03-22 11:41:47.584] [INFO] zrxlaw - Completed 200 (26ms)
+[2017-03-22 11:41:47.585] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 11:41:47.588] [INFO] zrxlaw - Completed 200 (28ms)
+[2017-03-22 11:41:47.590] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /css/style.css ::1
+[2017-03-22 11:41:47.594] [INFO] zrxlaw - Completed 200 (31ms)
+[2017-03-22 11:41:47.596] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 11:41:47.603] [INFO] zrxlaw - Completed 200 (43ms)
+[2017-03-22 11:41:47.605] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 11:41:47.608] [INFO] zrxlaw - Completed 200 (47ms)
+[2017-03-22 11:41:47.609] [INFO] zrxlaw - Completed 200 (46ms)
+[2017-03-22 11:41:47.610] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 11:41:47.610] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /js/jquery.min.js ::1
+[2017-03-22 11:41:47.611] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 11:41:47.613] [INFO] zrxlaw - Completed 200 (17ms)
+[2017-03-22 11:41:47.620] [INFO] zrxlaw - Completed 200 (30ms)
+[2017-03-22 11:41:47.622] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /js/bootstrap.min.js ::1
+[2017-03-22 11:41:47.622] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 11:41:47.623] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 11:41:47.633] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 11:41:47.634] [INFO] zrxlaw - Completed 200 (24ms)
+[2017-03-22 11:41:47.635] [INFO] zrxlaw - Completed 200 (13ms)
+[2017-03-22 11:41:47.636] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /js/owl.carousel.min.js ::1
+[2017-03-22 11:41:47.637] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /js/main.js ::1
+[2017-03-22 11:41:47.638] [INFO] zrxlaw - Completed 200 (15ms)
+[2017-03-22 11:41:47.642] [INFO] zrxlaw - Completed 200 (31ms)
+[2017-03-22 11:41:47.645] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 11:41:47.651] [INFO] zrxlaw - Completed 200 (66ms)
+[2017-03-22 11:41:47.660] [INFO] zrxlaw - Completed 200 (23ms)
+[2017-03-22 11:41:47.770] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /css/bootstrap.css.map ::1
+[2017-03-22 11:41:47.773] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:41:47.773] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /css/style.css.map ::1
+[2017-03-22 11:41:47.774] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 11:41:47.775] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /viewmodel/stylesheets/sass/waterfall.css.map ::1
+[2017-03-22 11:41:47.776] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:41:47.777] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:41:47.777] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:41:47.822] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 11:41:47.822] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /images/logo_03.png ::1
+[2017-03-22 11:41:47.826] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /js/jquery.min.map ::1
+[2017-03-22 11:41:47.829] [INFO] zrxlaw - Completed 500 (3ms)
+[2017-03-22 11:41:47.830] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 11:41:47.833] [INFO] zrxlaw - Completed 200 (11ms)
+[2017-03-22 11:41:47.916] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 11:41:47.917] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:47 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 11:41:47.937] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 11:41:47.967] [INFO] zrxlaw - Completed 200 (51ms)
+[2017-03-22 11:41:48.846] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:41:48 GET /images/favicon.ico ::1
+[2017-03-22 11:41:48.863] [INFO] zrxlaw - Completed 200 (17ms)
+[2017-03-22 11:42:08.864] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET / ::1
+[2017-03-22 11:42:08.877] [INFO] zrxlaw - Completed 304 (13ms)
+[2017-03-22 11:42:08.895] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /css/google-font.css ::1
+[2017-03-22 11:42:08.897] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /css/animate.css ::1
+[2017-03-22 11:42:08.898] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /css/icomoon.css ::1
+[2017-03-22 11:42:08.900] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /css/simple-line-icons.css ::1
+[2017-03-22 11:42:08.903] [INFO] zrxlaw - Completed 304 (8ms)
+[2017-03-22 11:42:08.903] [INFO] zrxlaw - Completed 304 (5ms)
+[2017-03-22 11:42:08.903] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:42:08.904] [INFO] zrxlaw - Completed 304 (7ms)
+[2017-03-22 11:42:08.909] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /css/bootstrap.css ::1
+[2017-03-22 11:42:08.910] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /css/owl.carousel.min.css ::1
+[2017-03-22 11:42:08.911] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:42:08.911] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:42:08.913] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 11:42:08.914] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /css/style.css ::1
+[2017-03-22 11:42:08.915] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 11:42:08.916] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /viewmodel/stylesheets/sass/index-main.css ::1
+[2017-03-22 11:42:08.916] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /js/jquery.min.js ::1
+[2017-03-22 11:42:08.917] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 11:42:08.919] [INFO] zrxlaw - Completed 304 (6ms)
+[2017-03-22 11:42:08.921] [INFO] zrxlaw - Completed 304 (7ms)
+[2017-03-22 11:42:08.921] [INFO] zrxlaw - Completed 304 (6ms)
+[2017-03-22 11:42:08.922] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /js/bootstrap.min.js ::1
+[2017-03-22 11:42:08.922] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 11:42:08.923] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 11:42:08.924] [INFO] zrxlaw - Completed 304 (8ms)
+[2017-03-22 11:42:08.924] [INFO] zrxlaw - Completed 304 (7ms)
+[2017-03-22 11:42:08.925] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:42:08.925] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:42:08.925] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:42:08.926] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /js/owl.carousel.min.js ::1
+[2017-03-22 11:42:08.926] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /js/main.js ::1
+[2017-03-22 11:42:08.927] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /viewmodel/src/static/Vue/Vue-v2.1.10.min.js ::1
+[2017-03-22 11:42:08.927] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /viewmodel/src/vuex/index.js ::1
+[2017-03-22 11:42:08.928] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:42:08.928] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:42:08.929] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:42:08.931] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 11:42:08.939] [INFO] zrxlaw - Completed 304 (23ms)
+[2017-03-22 11:42:08.946] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /images/logo_03.png ::1
+[2017-03-22 11:42:08.947] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:42:08.952] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:08 GET /images/se0.png ::1
+[2017-03-22 11:42:08.969] [INFO] zrxlaw - Completed 200 (17ms)
+[2017-03-22 11:42:09.074] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:09 GET /images/full_image_3.jpg ::1
+[2017-03-22 11:42:09.082] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:09 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 11:42:09.084] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:42:09.087] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:09 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 11:42:09.087] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 11:42:09.089] [INFO] zrxlaw - Completed 200 (15ms)
+[2017-03-22 11:42:09.213] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:09 GET /condition/lawyers ::1
+[2017-03-22 11:42:09.214] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:09 GET /business ::1
+[2017-03-22 11:42:09.232] [DEBUG] zrxlaw - lawyer.find {"conditions":{"order":1},"options":{"fields":{"lawyerName":1,"position":1,"personalProfile":1,"avatar":1}},"collectionName":"lawyer"} 13ms
+[2017-03-22 11:42:09.237] [INFO] zrxlaw - getLTopLawyers result is: [ { _id: 58bbf7de622e103a144159e1,
+    position: '劳动部主任',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: null,
+    lawyerName: '张三' },
+  { _id: 58bbf9961a20a63b57504f50,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58bbf9971a20a63b57504f51,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58bbf9971a20a63b57504f52,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58bbf9a11a20a63b57504f53,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58ca26c7b0d4775358174192,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '曾祥娇' } ]
+[2017-03-22 11:42:09.242] [INFO] zrxlaw - Completed 200 (29ms)
+[2017-03-22 11:42:09.244] [DEBUG] zrxlaw - business.find {"conditions":{},"options":{},"collectionName":"business"} 20ms
+[2017-03-22 11:42:09.246] [INFO] zrxlaw - Completed 200 (32ms)
+[2017-03-22 11:42:11.828] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:11 GET /css/google-font.css ::1
+[2017-03-22 11:42:11.828] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 11:42:11.829] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:11 GET /css/animate.css ::1
+[2017-03-22 11:42:11.829] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 11:42:11.831] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:11 GET /css/icomoon.css ::1
+[2017-03-22 11:42:11.831] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 11:42:11.835] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:11 GET /css/simple-line-icons.css ::1
+[2017-03-22 11:42:11.835] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:11 GET /css/bootstrap.css ::1
+[2017-03-22 11:42:11.836] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:11 GET /css/owl.carousel.min.css ::1
+[2017-03-22 11:42:11.837] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:11 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 11:42:11.837] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:11 GET /css/style.css ::1
+[2017-03-22 11:42:11.837] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:42:11.838] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:42:11.838] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:42:11.838] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:42:11.838] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 11:42:11.839] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:11 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 11:42:11.839] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 11:42:11.840] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:11 GET /viewmodel/stylesheets/sass/index-main.css ::1
+[2017-03-22 11:42:11.842] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:42:12.103] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:12 GET /js/jquery.min.map ::1
+[2017-03-22 11:42:12.108] [INFO] zrxlaw - Completed 500 (6ms)
+[2017-03-22 11:42:12.184] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:12 GET /css/bootstrap.css.map ::1
+[2017-03-22 11:42:12.185] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:42:12.186] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:12 GET /css/style.css.map ::1
+[2017-03-22 11:42:12.187] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:12 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 11:42:12.188] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:42:12.189] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:42:12 GET /viewmodel/stylesheets/sass/index-main.css.map ::1
+[2017-03-22 11:42:12.189] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:42:12.201] [INFO] zrxlaw - Completed 200 (13ms)
+[2017-03-22 11:43:46.169] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 11:43:48.104] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 11:43:48.209] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 11:43:51.151] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /lawyers.html ::1
+[2017-03-22 11:43:51.165] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 11:43:51.194] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /css/google-font.css ::1
+[2017-03-22 11:43:51.196] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /css/animate.css ::1
+[2017-03-22 11:43:51.198] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /css/icomoon.css ::1
+[2017-03-22 11:43:51.198] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /css/simple-line-icons.css ::1
+[2017-03-22 11:43:51.199] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /css/bootstrap.css ::1
+[2017-03-22 11:43:51.200] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /css/owl.carousel.min.css ::1
+[2017-03-22 11:43:51.215] [INFO] zrxlaw - Completed 200 (17ms)
+[2017-03-22 11:43:51.216] [INFO] zrxlaw - Completed 200 (18ms)
+[2017-03-22 11:43:51.217] [INFO] zrxlaw - Completed 200 (18ms)
+[2017-03-22 11:43:51.218] [INFO] zrxlaw - Completed 200 (24ms)
+[2017-03-22 11:43:51.218] [INFO] zrxlaw - Completed 200 (22ms)
+[2017-03-22 11:43:51.219] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 11:43:51.220] [INFO] zrxlaw - Completed 200 (21ms)
+[2017-03-22 11:43:51.221] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /css/style.css ::1
+[2017-03-22 11:43:51.221] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 11:43:51.222] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 11:43:51.223] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 11:43:51.223] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /js/jquery.min.js ::1
+[2017-03-22 11:43:51.224] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 11:43:51.225] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 11:43:51.226] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 11:43:51.227] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /js/bootstrap.min.js ::1
+[2017-03-22 11:43:51.228] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 11:43:51.228] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 11:43:51.230] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 11:43:51.230] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 11:43:51.231] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /js/owl.carousel.min.js ::1
+[2017-03-22 11:43:51.232] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 11:43:51.233] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 11:43:51.234] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 11:43:51.236] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /js/main.js ::1
+[2017-03-22 11:43:51.239] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 11:43:51.239] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 11:43:51.240] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 11:43:51.418] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /css/bootstrap.css.map ::1
+[2017-03-22 11:43:51.420] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:43:51.421] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /css/style.css.map ::1
+[2017-03-22 11:43:51.422] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 11:43:51.423] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 11:43:51.423] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 11:43:51.424] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /viewmodel/stylesheets/sass/waterfall.css.map ::1
+[2017-03-22 11:43:51.424] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 11:43:51.448] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 11:43:51.450] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /images/logo_03.png ::1
+[2017-03-22 11:43:51.452] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 11:43:51.455] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 11:43:51.476] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /js/jquery.min.map ::1
+[2017-03-22 11:43:51.481] [INFO] zrxlaw - Completed 500 (6ms)
+[2017-03-22 11:43:51.557] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 11:43:51.558] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:51 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 11:43:51.560] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 11:43:51.565] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 11:43:52.254] [INFO] zrxlaw - 
+
+Started 2017-03-22 11:43:52 GET /images/favicon.ico ::1
+[2017-03-22 11:43:52.258] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:22:00.529] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:22:00 GET /favicon.ico ::1
+[2017-03-22 12:22:00.540] [INFO] zrxlaw - Completed 500 (11ms)
+[2017-03-22 12:43:49.329] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 12:43:51.350] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 12:43:51.472] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 12:44:07.865] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 12:44:10.060] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 12:44:10.162] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 12:44:14.734] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET / ::1
+[2017-03-22 12:44:14.749] [INFO] zrxlaw - Completed 200 (21ms)
+[2017-03-22 12:44:14.776] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /css/google-font.css ::1
+[2017-03-22 12:44:14.779] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /css/animate.css ::1
+[2017-03-22 12:44:14.779] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /css/icomoon.css ::1
+[2017-03-22 12:44:14.779] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:44:14.780] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /css/bootstrap.css ::1
+[2017-03-22 12:44:14.780] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:44:14.795] [INFO] zrxlaw - Completed 200 (19ms)
+[2017-03-22 12:44:14.799] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:44:14.800] [INFO] zrxlaw - Completed 200 (21ms)
+[2017-03-22 12:44:14.801] [INFO] zrxlaw - Completed 200 (21ms)
+[2017-03-22 12:44:14.802] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:44:14.802] [INFO] zrxlaw - Completed 200 (24ms)
+[2017-03-22 12:44:14.803] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /css/style.css ::1
+[2017-03-22 12:44:14.804] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:44:14.805] [INFO] zrxlaw - Completed 200 (25ms)
+[2017-03-22 12:44:14.805] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /viewmodel/stylesheets/sass/index-main.css ::1
+[2017-03-22 12:44:14.806] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:44:14.807] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /js/jquery.min.js ::1
+[2017-03-22 12:44:14.807] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:44:14.808] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:44:14.809] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:44:14.810] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:44:14.811] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:44:14.812] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:44:14.813] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:44:14.815] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:44:14.817] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:44:14.818] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:44:14.823] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:44:14.823] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:44:14.824] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /js/main.js ::1
+[2017-03-22 12:44:14.825] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:44:14.825] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /viewmodel/src/static/vue.min.js ::1
+[2017-03-22 12:44:14.826] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /viewmodel/src/vuex/index.js ::1
+[2017-03-22 12:44:14.828] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:44:14.829] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:44:14.832] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:44:14.832] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:44:14.847] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /images/logo_03.png ::1
+[2017-03-22 12:44:14.849] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:44:14.853] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:14 GET /images/se0.png ::1
+[2017-03-22 12:44:14.857] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:44:15.033] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:15 GET /css/bootstrap.css.map ::1
+[2017-03-22 12:44:15.035] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:44:15.036] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:15 GET /css/style.css.map ::1
+[2017-03-22 12:44:15.038] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:44:15.040] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:15 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 12:44:15.041] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:44:15.044] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:15 GET /viewmodel/stylesheets/sass/index-main.css.map ::1
+[2017-03-22 12:44:15.045] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:44:15.073] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:15 GET /images/full_image_3.jpg ::1
+[2017-03-22 12:44:15.075] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:15 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:44:15.077] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:44:15.077] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:15 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:44:15.078] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:44:15.080] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:44:15.129] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:15 GET /condition/lawyers ::1
+[2017-03-22 12:44:15.138] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:15 GET /business ::1
+[2017-03-22 12:44:15.149] [DEBUG] zrxlaw - lawyer.find {"conditions":{"order":1},"options":{"fields":{"lawyerName":1,"position":1,"personalProfile":1,"avatar":1}},"collectionName":"lawyer"} 15ms
+[2017-03-22 12:44:15.154] [INFO] zrxlaw - getLTopLawyers result is: [ { _id: 58bbf7de622e103a144159e1,
+    position: '劳动部主任',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: null,
+    lawyerName: '张三' },
+  { _id: 58bbf9961a20a63b57504f50,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58bbf9971a20a63b57504f51,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58bbf9971a20a63b57504f52,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58bbf9a11a20a63b57504f53,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58ca26c7b0d4775358174192,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '曾祥娇' } ]
+[2017-03-22 12:44:15.160] [INFO] zrxlaw - Completed 200 (31ms)
+[2017-03-22 12:44:15.162] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:15 GET /js/jquery.min.map ::1
+[2017-03-22 12:44:15.165] [DEBUG] zrxlaw - business.find {"conditions":{},"options":{},"collectionName":"business"} 25ms
+[2017-03-22 12:44:15.167] [INFO] zrxlaw - Completed 200 (29ms)
+[2017-03-22 12:44:15.171] [INFO] zrxlaw - Completed 500 (9ms)
+[2017-03-22 12:44:16.770] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:16 GET /images/favicon.ico ::1
+[2017-03-22 12:44:16.771] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:44:22.554] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /lawyers.html ::1
+[2017-03-22 12:44:22.561] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:44:22.583] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /css/google-font.css ::1
+[2017-03-22 12:44:22.583] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /css/animate.css ::1
+[2017-03-22 12:44:22.584] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /css/icomoon.css ::1
+[2017-03-22 12:44:22.585] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:44:22.592] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /css/bootstrap.css ::1
+[2017-03-22 12:44:22.594] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:44:22.595] [INFO] zrxlaw - Completed 200 (13ms)
+[2017-03-22 12:44:22.597] [INFO] zrxlaw - Completed 200 (13ms)
+[2017-03-22 12:44:22.597] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:44:22.598] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:44:22.599] [INFO] zrxlaw - Completed 200 (16ms)
+[2017-03-22 12:44:22.600] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:44:22.602] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:44:22.603] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /css/style.css ::1
+[2017-03-22 12:44:22.604] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:44:22.605] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:44:22.606] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /js/jquery.min.js ::1
+[2017-03-22 12:44:22.606] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:44:22.610] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:44:22.611] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:44:22.611] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:44:22.612] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:44:22.613] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:44:22.613] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:44:22.614] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:44:22.616] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:44:22.616] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:44:22.617] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:44:22.617] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:44:22.618] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:44:22.619] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:44:22.620] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /js/main.js ::1
+[2017-03-22 12:44:22.620] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:44:22.621] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:44:22.634] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /viewmodel/src/static/vue.min.js ::1
+[2017-03-22 12:44:22.635] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:44:22.639] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /viewmodel/src/static/vue-waterfall.min.js ::1
+[2017-03-22 12:44:22.640] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:44:22.645] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /images/logo_03.png ::1
+[2017-03-22 12:44:22.646] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:44:22.831] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:44:22.833] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:44:22.834] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:44:22.835] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:44:22.966] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:22 GET /images/favicon.ico ::1
+[2017-03-22 12:44:22.969] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:44:26.302] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /css/google-font.css ::1
+[2017-03-22 12:44:26.302] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:44:26.303] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /css/animate.css ::1
+[2017-03-22 12:44:26.303] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:44:26.304] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /css/icomoon.css ::1
+[2017-03-22 12:44:26.304] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:44:26.305] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:44:26.306] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:44:26.307] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /css/bootstrap.css ::1
+[2017-03-22 12:44:26.308] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:44:26.308] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:44:26.309] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:44:26.309] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:44:26.313] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /css/style.css ::1
+[2017-03-22 12:44:26.314] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:44:26.314] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:44:26.315] [INFO] zrxlaw - Completed 304 (6ms)
+[2017-03-22 12:44:26.316] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:44:26.318] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:44:26.318] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:44:26.622] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /js/jquery.min.map ::1
+[2017-03-22 12:44:26.626] [INFO] zrxlaw - Completed 500 (4ms)
+[2017-03-22 12:44:26.696] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /css/bootstrap.css.map ::1
+[2017-03-22 12:44:26.696] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:44:26.699] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /css/style.css.map ::1
+[2017-03-22 12:44:26.700] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:44:26.702] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 12:44:26.702] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:44:26.705] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:44:26 GET /viewmodel/stylesheets/sass/waterfall.css.map ::1
+[2017-03-22 12:44:26.705] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:45:16.417] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 12:45:18.615] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 12:45:18.726] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 12:45:21.268] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /lawyers.html ::1
+[2017-03-22 12:45:21.280] [INFO] zrxlaw - Completed 200 (17ms)
+[2017-03-22 12:45:21.310] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /css/google-font.css ::1
+[2017-03-22 12:45:21.311] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /css/animate.css ::1
+[2017-03-22 12:45:21.311] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /css/icomoon.css ::1
+[2017-03-22 12:45:21.313] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:45:21.315] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /css/bootstrap.css ::1
+[2017-03-22 12:45:21.315] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:45:21.339] [INFO] zrxlaw - Completed 200 (29ms)
+[2017-03-22 12:45:21.342] [INFO] zrxlaw - Completed 200 (31ms)
+[2017-03-22 12:45:21.343] [INFO] zrxlaw - Completed 200 (30ms)
+[2017-03-22 12:45:21.344] [INFO] zrxlaw - Completed 200 (29ms)
+[2017-03-22 12:45:21.352] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:45:21.352] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /css/style.css ::1
+[2017-03-22 12:45:21.353] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:45:21.353] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:45:21.354] [INFO] zrxlaw - Completed 200 (43ms)
+[2017-03-22 12:45:21.356] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /js/jquery.min.js ::1
+[2017-03-22 12:45:21.361] [INFO] zrxlaw - Completed 200 (46ms)
+[2017-03-22 12:45:21.362] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:45:21.363] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:45:21.363] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:45:21.364] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:45:21.365] [INFO] zrxlaw - Completed 200 (14ms)
+[2017-03-22 12:45:21.366] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:45:21.368] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:45:21.369] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:45:21.369] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:45:21.372] [INFO] zrxlaw - Completed 200 (16ms)
+[2017-03-22 12:45:21.375] [INFO] zrxlaw - Completed 200 (11ms)
+[2017-03-22 12:45:21.376] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:45:21.378] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:45:21.379] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /js/main.js ::1
+[2017-03-22 12:45:21.380] [INFO] zrxlaw - Completed 200 (11ms)
+[2017-03-22 12:45:21.382] [INFO] zrxlaw - Completed 200 (13ms)
+[2017-03-22 12:45:21.382] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:45:21.389] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /viewmodel/src/static/vue.min.js ::1
+[2017-03-22 12:45:21.393] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:45:21.398] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /viewmodel/src/static/vue-waterfall.min.js ::1
+[2017-03-22 12:45:21.399] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:45:21.405] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:45:21.406] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:45:21.411] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /viewmodel/src/vuex/lawyers.js ::1
+[2017-03-22 12:45:21.412] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:45:21.417] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /images/logo_03.png ::1
+[2017-03-22 12:45:21.420] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:45:21.595] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /css/bootstrap.css.map ::1
+[2017-03-22 12:45:21.596] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /css/style.css.map ::1
+[2017-03-22 12:45:21.596] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 12:45:21.597] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /viewmodel/stylesheets/sass/waterfall.css.map ::1
+[2017-03-22 12:45:21.599] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:45:21.600] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:45:21.600] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:45:21.600] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:45:21.666] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /js/jquery.min.map ::1
+[2017-03-22 12:45:21.672] [INFO] zrxlaw - Completed 500 (6ms)
+[2017-03-22 12:45:21.770] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:45:21.771] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:45:21.773] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:45:21.775] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:45:21.953] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:45:21 GET /images/favicon.ico ::1
+[2017-03-22 12:45:21.954] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:45:57.450] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 12:45:59.244] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 12:45:59.353] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 12:46:02.241] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /lawyers.html ::1
+[2017-03-22 12:46:02.255] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:46:02.278] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /css/google-font.css ::1
+[2017-03-22 12:46:02.279] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /css/animate.css ::1
+[2017-03-22 12:46:02.280] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /css/icomoon.css ::1
+[2017-03-22 12:46:02.284] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:46:02.285] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /css/bootstrap.css ::1
+[2017-03-22 12:46:02.286] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:46:02.290] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:46:02.292] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:46:02.301] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:46:02.302] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /css/style.css ::1
+[2017-03-22 12:46:02.303] [INFO] zrxlaw - Completed 200 (24ms)
+[2017-03-22 12:46:02.304] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:46:02.305] [INFO] zrxlaw - Completed 200 (19ms)
+[2017-03-22 12:46:02.308] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:46:02.308] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:46:02.309] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /js/jquery.min.js ::1
+[2017-03-22 12:46:02.312] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:46:02.313] [INFO] zrxlaw - Completed 200 (11ms)
+[2017-03-22 12:46:02.313] [INFO] zrxlaw - Completed 200 (28ms)
+[2017-03-22 12:46:02.314] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:46:02.314] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:46:02.315] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:46:02.319] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:46:02.321] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:46:02.322] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:46:02.325] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:46:02.326] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:46:02.329] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:46:02.329] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:46:02.330] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:46:02.331] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:46:02.331] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /js/main.js ::1
+[2017-03-22 12:46:02.332] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:46:02.335] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:46:02.349] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /viewmodel/src/static/vue.min.js ::1
+[2017-03-22 12:46:02.352] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:46:02.357] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /viewmodel/src/static/vue-waterfall.min.js ::1
+[2017-03-22 12:46:02.359] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:46:02.365] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:46:02.366] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:46:02.370] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /images/logo_03.png ::1
+[2017-03-22 12:46:02.373] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:46:02.732] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:46:02.732] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:46:02.734] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:46:02.736] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:46:02.782] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:02 GET /images/favicon.ico ::1
+[2017-03-22 12:46:02.784] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:46:05.883] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:05 GET /css/google-font.css ::1
+[2017-03-22 12:46:05.885] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:46:05.886] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:05 GET /css/animate.css ::1
+[2017-03-22 12:46:05.886] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:05 GET /css/icomoon.css ::1
+[2017-03-22 12:46:05.888] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:46:05.888] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:46:05.889] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:05 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:46:05.892] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:05 GET /css/bootstrap.css ::1
+[2017-03-22 12:46:05.893] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:46:05.893] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:05 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:46:05.893] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:46:05.894] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:46:05.899] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:05 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:46:05.900] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:46:05.902] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:05 GET /css/style.css ::1
+[2017-03-22 12:46:05.903] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:05 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:46:05.903] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:46:05.903] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:05 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:46:05.904] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:46:05.904] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:46:06.003] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:06 GET /js/jquery.min.map ::1
+[2017-03-22 12:46:06.007] [INFO] zrxlaw - Completed 500 (4ms)
+[2017-03-22 12:46:06.029] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:06 GET /css/bootstrap.css.map ::1
+[2017-03-22 12:46:06.030] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:06 GET /css/style.css.map ::1
+[2017-03-22 12:46:06.033] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:46:06.033] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:46:06.035] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:06 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 12:46:06.036] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:06 GET /viewmodel/stylesheets/sass/waterfall.css.map ::1
+[2017-03-22 12:46:06.037] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:46:06.038] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:46:42.311] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 12:46:45.487] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 12:46:45.594] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 12:46:47.255] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /lawyers.html ::1
+[2017-03-22 12:46:47.267] [INFO] zrxlaw - Completed 200 (17ms)
+[2017-03-22 12:46:47.288] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /css/google-font.css ::1
+[2017-03-22 12:46:47.290] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /css/animate.css ::1
+[2017-03-22 12:46:47.291] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /css/icomoon.css ::1
+[2017-03-22 12:46:47.291] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:46:47.292] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /css/bootstrap.css ::1
+[2017-03-22 12:46:47.293] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:46:47.308] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:46:47.310] [INFO] zrxlaw - Completed 200 (19ms)
+[2017-03-22 12:46:47.311] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:46:47.311] [INFO] zrxlaw - Completed 200 (18ms)
+[2017-03-22 12:46:47.316] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:46:47.317] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /css/style.css ::1
+[2017-03-22 12:46:47.318] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:46:47.318] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:46:47.319] [INFO] zrxlaw - Completed 200 (29ms)
+[2017-03-22 12:46:47.321] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /js/jquery.min.js ::1
+[2017-03-22 12:46:47.322] [INFO] zrxlaw - Completed 200 (30ms)
+[2017-03-22 12:46:47.322] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:46:47.323] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:46:47.323] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:46:47.324] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:46:47.325] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:46:47.331] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:46:47.332] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:46:47.333] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:46:47.334] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:46:47.334] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:46:47.335] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /js/main.js ::1
+[2017-03-22 12:46:47.337] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:46:47.337] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:46:47.338] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:46:47.340] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:46:47.341] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:46:47.342] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 12:46:47.353] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /viewmodel/src/static/vue-waterfall.min.js ::1
+[2017-03-22 12:46:47.356] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:46:47.362] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:46:47.363] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:46:47.368] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /images/logo_03.png ::1
+[2017-03-22 12:46:47.369] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:46:47.482] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /css/bootstrap.css.map ::1
+[2017-03-22 12:46:47.484] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:46:47.486] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /css/style.css.map ::1
+[2017-03-22 12:46:47.487] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:46:47.489] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 12:46:47.490] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /viewmodel/stylesheets/sass/waterfall.css.map ::1
+[2017-03-22 12:46:47.493] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:46:47.494] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:46:47.562] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /js/jquery.min.map ::1
+[2017-03-22 12:46:47.566] [INFO] zrxlaw - Completed 500 (4ms)
+[2017-03-22 12:46:47.654] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:46:47.654] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:47 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:46:47.657] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:46:47.659] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:46:48.282] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:46:48 GET /images/favicon.ico ::1
+[2017-03-22 12:46:48.285] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:47:35.022] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 12:47:36.882] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 12:47:37.043] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 12:47:40.084] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET / ::1
+[2017-03-22 12:47:40.103] [INFO] zrxlaw - Completed 200 (24ms)
+[2017-03-22 12:47:40.152] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /css/google-font.css ::1
+[2017-03-22 12:47:40.156] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /css/animate.css ::1
+[2017-03-22 12:47:40.157] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /css/icomoon.css ::1
+[2017-03-22 12:47:40.157] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:47:40.158] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /css/bootstrap.css ::1
+[2017-03-22 12:47:40.159] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:47:40.175] [INFO] zrxlaw - Completed 200 (23ms)
+[2017-03-22 12:47:40.177] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:47:40.177] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:47:40.178] [INFO] zrxlaw - Completed 200 (19ms)
+[2017-03-22 12:47:40.179] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:47:40.179] [INFO] zrxlaw - Completed 200 (23ms)
+[2017-03-22 12:47:40.180] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /css/style.css ::1
+[2017-03-22 12:47:40.182] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:47:40.182] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /viewmodel/stylesheets/sass/index-main.css ::1
+[2017-03-22 12:47:40.183] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /js/jquery.min.js ::1
+[2017-03-22 12:47:40.187] [INFO] zrxlaw - Completed 200 (29ms)
+[2017-03-22 12:47:40.187] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 12:47:40.187] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:47:40.188] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:47:40.190] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:47:40.190] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:47:40.193] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:47:40.195] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:47:40.196] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:47:40.202] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:47:40.203] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:47:40.204] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /js/main.js ::1
+[2017-03-22 12:47:40.205] [INFO] zrxlaw - Completed 200 (15ms)
+[2017-03-22 12:47:40.207] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:47:40.208] [INFO] zrxlaw - Completed 200 (16ms)
+[2017-03-22 12:47:40.209] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:47:40.209] [INFO] zrxlaw - Completed 200 (13ms)
+[2017-03-22 12:47:40.209] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /viewmodel/src/static/vue.min.js ::1
+[2017-03-22 12:47:40.210] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:47:40.213] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /viewmodel/src/vuex/index.js ::1
+[2017-03-22 12:47:40.221] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:47:40.222] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 12:47:40.231] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /images/logo_03.png ::1
+[2017-03-22 12:47:40.233] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:47:40.237] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /images/se0.png ::1
+[2017-03-22 12:47:40.239] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:47:40.411] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /css/bootstrap.css.map ::1
+[2017-03-22 12:47:40.413] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /css/style.css.map ::1
+[2017-03-22 12:47:40.415] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:47:40.416] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 12:47:40.416] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:47:40.417] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:47:40.431] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /viewmodel/stylesheets/sass/index-main.css.map ::1
+[2017-03-22 12:47:40.431] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:47:40.458] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /js/jquery.min.map ::1
+[2017-03-22 12:47:40.462] [INFO] zrxlaw - Completed 500 (5ms)
+[2017-03-22 12:47:40.520] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /images/full_image_3.jpg ::1
+[2017-03-22 12:47:40.523] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:47:40.525] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:47:40.526] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:47:40.531] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:47:40.534] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:47:40.582] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /condition/lawyers ::1
+[2017-03-22 12:47:40.586] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:40 GET /business ::1
+[2017-03-22 12:47:40.606] [DEBUG] zrxlaw - lawyer.find {"conditions":{"order":1},"options":{"fields":{"lawyerName":1,"position":1,"personalProfile":1,"avatar":1}},"collectionName":"lawyer"} 15ms
+[2017-03-22 12:47:40.613] [INFO] zrxlaw - getLTopLawyers result is: [ { _id: 58bbf7de622e103a144159e1,
+    position: '劳动部主任',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: null,
+    lawyerName: '张三' },
+  { _id: 58bbf9961a20a63b57504f50,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58bbf9971a20a63b57504f51,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58bbf9971a20a63b57504f52,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58bbf9a11a20a63b57504f53,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58ca26c7b0d4775358174192,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '曾祥娇' } ]
+[2017-03-22 12:47:40.621] [INFO] zrxlaw - Completed 200 (39ms)
+[2017-03-22 12:47:40.624] [DEBUG] zrxlaw - business.find {"conditions":{},"options":{},"collectionName":"business"} 27ms
+[2017-03-22 12:47:40.630] [INFO] zrxlaw - Completed 200 (43ms)
+[2017-03-22 12:47:41.520] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:41 GET /images/favicon.ico ::1
+[2017-03-22 12:47:41.523] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:47:52.373] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET / ::1
+[2017-03-22 12:47:52.380] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:47:52.401] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /css/google-font.css ::1
+[2017-03-22 12:47:52.403] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /css/animate.css ::1
+[2017-03-22 12:47:52.403] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /css/icomoon.css ::1
+[2017-03-22 12:47:52.405] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:47:52.406] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /css/bootstrap.css ::1
+[2017-03-22 12:47:52.406] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:47:52.417] [INFO] zrxlaw - Completed 200 (16ms)
+[2017-03-22 12:47:52.418] [INFO] zrxlaw - Completed 200 (15ms)
+[2017-03-22 12:47:52.418] [INFO] zrxlaw - Completed 200 (13ms)
+[2017-03-22 12:47:52.419] [INFO] zrxlaw - Completed 200 (13ms)
+[2017-03-22 12:47:52.420] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:47:52.421] [INFO] zrxlaw - Completed 200 (18ms)
+[2017-03-22 12:47:52.424] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /css/style.css ::1
+[2017-03-22 12:47:52.425] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:47:52.426] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /viewmodel/stylesheets/sass/index-main.css ::1
+[2017-03-22 12:47:52.426] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /js/jquery.min.js ::1
+[2017-03-22 12:47:52.427] [INFO] zrxlaw - Completed 200 (21ms)
+[2017-03-22 12:47:52.428] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:47:52.430] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:47:52.431] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:47:52.437] [INFO] zrxlaw - Completed 200 (13ms)
+[2017-03-22 12:47:52.438] [INFO] zrxlaw - Completed 200 (13ms)
+[2017-03-22 12:47:52.439] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:47:52.440] [INFO] zrxlaw - Completed 200 (15ms)
+[2017-03-22 12:47:52.440] [INFO] zrxlaw - Completed 200 (14ms)
+[2017-03-22 12:47:52.441] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:47:52.441] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:47:52.442] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:47:52.443] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:47:52.443] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:47:52.446] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:47:52.446] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /js/main.js ::1
+[2017-03-22 12:47:52.447] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /viewmodel/src/static/vue.min.js ::1
+[2017-03-22 12:47:52.448] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:47:52.449] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:47:52.450] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:47:52.455] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /viewmodel/src/vuex/index.js ::1
+[2017-03-22 12:47:52.459] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:47:52.470] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /images/logo_03.png ::1
+[2017-03-22 12:47:52.471] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:47:52.477] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /images/se0.png ::1
+[2017-03-22 12:47:52.478] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:47:52.585] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /css/bootstrap.css.map ::1
+[2017-03-22 12:47:52.587] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:47:52.596] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /css/style.css.map ::1
+[2017-03-22 12:47:52.597] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 12:47:52.598] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:47:52.599] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:47:52.600] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /viewmodel/stylesheets/sass/index-main.css.map ::1
+[2017-03-22 12:47:52.601] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:47:52.678] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /images/full_image_3.jpg ::1
+[2017-03-22 12:47:52.679] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:47:52.680] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:47:52.682] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:47:52.683] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:47:52.688] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:47:52.721] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /condition/lawyers ::1
+[2017-03-22 12:47:52.721] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /business ::1
+[2017-03-22 12:47:52.734] [DEBUG] zrxlaw - business.find {"conditions":{},"options":{},"collectionName":"business"} 10ms
+[2017-03-22 12:47:52.739] [INFO] zrxlaw - Completed 200 (18ms)
+[2017-03-22 12:47:52.744] [DEBUG] zrxlaw - lawyer.find {"conditions":{"order":1},"options":{"fields":{"lawyerName":1,"position":1,"personalProfile":1,"avatar":1}},"collectionName":"lawyer"} 22ms
+[2017-03-22 12:47:52.745] [INFO] zrxlaw - getLTopLawyers result is: [ { _id: 58bbf7de622e103a144159e1,
+    position: '劳动部主任',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: null,
+    lawyerName: '张三' },
+  { _id: 58bbf9961a20a63b57504f50,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58bbf9971a20a63b57504f51,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58bbf9971a20a63b57504f52,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58bbf9a11a20a63b57504f53,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '张三' },
+  { _id: 58ca26c7b0d4775358174192,
+    position: '律师',
+    personalProfile: '我们的律师有着多年处理法律诉讼、开庭经验。已出色的完成多起法律案件，凭借其扎实的专业知识和崇高的职业操守，获得当事人的各方评。',
+    avatar: 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg',
+    lawyerName: '曾祥娇' } ]
+[2017-03-22 12:47:52.749] [INFO] zrxlaw - Completed 200 (28ms)
+[2017-03-22 12:47:52.750] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:52 GET /js/jquery.min.map ::1
+[2017-03-22 12:47:52.755] [INFO] zrxlaw - Completed 500 (5ms)
+[2017-03-22 12:47:53.203] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:53 GET /images/favicon.ico ::1
+[2017-03-22 12:47:53.205] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:47:58.047] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /lawyers.html ::1
+[2017-03-22 12:47:58.053] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:47:58.073] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /css/google-font.css ::1
+[2017-03-22 12:47:58.074] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /css/animate.css ::1
+[2017-03-22 12:47:58.075] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:47:58.076] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:47:58.081] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /css/icomoon.css ::1
+[2017-03-22 12:47:58.081] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:47:58.095] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:47:58.095] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /css/bootstrap.css ::1
+[2017-03-22 12:47:58.096] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:47:58.097] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:47:58.097] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /css/style.css ::1
+[2017-03-22 12:47:58.098] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:47:58.100] [INFO] zrxlaw - Completed 304 (5ms)
+[2017-03-22 12:47:58.100] [INFO] zrxlaw - Completed 304 (5ms)
+[2017-03-22 12:47:58.100] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:47:58.101] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:47:58.101] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:47:58.102] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:47:58.103] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:47:58.103] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /js/jquery.min.js ::1
+[2017-03-22 12:47:58.103] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:47:58.105] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:47:58.106] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:47:58.108] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:47:58.110] [INFO] zrxlaw - Completed 304 (7ms)
+[2017-03-22 12:47:58.110] [INFO] zrxlaw - Completed 304 (7ms)
+[2017-03-22 12:47:58.110] [INFO] zrxlaw - Completed 304 (7ms)
+[2017-03-22 12:47:58.110] [INFO] zrxlaw - Completed 304 (5ms)
+[2017-03-22 12:47:58.111] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:47:58.114] [INFO] zrxlaw - Completed 304 (8ms)
+[2017-03-22 12:47:58.115] [INFO] zrxlaw - Completed 304 (7ms)
+[2017-03-22 12:47:58.115] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:47:58.116] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /js/main.js ::1
+[2017-03-22 12:47:58.118] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:47:58.127] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:47:58.127] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:47:58.132] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /viewmodel/src/vuex/lawyers.js ::1
+[2017-03-22 12:47:58.132] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:47:58.137] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /images/logo_03.png ::1
+[2017-03-22 12:47:58.138] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:47:58.247] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /css/bootstrap.css.map ::1
+[2017-03-22 12:47:58.248] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:47:58.250] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /css/style.css.map ::1
+[2017-03-22 12:47:58.252] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:47:58.254] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 12:47:58.255] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:47:58.257] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /viewmodel/stylesheets/sass/waterfall.css.map ::1
+[2017-03-22 12:47:58.258] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:47:58.290] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /js/jquery.min.map ::1
+[2017-03-22 12:47:58.293] [INFO] zrxlaw - Completed 500 (3ms)
+[2017-03-22 12:47:58.329] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:47:58.330] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:47:58.330] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:47:58 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:47:58.331] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:48:28.649] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 12:48:30.612] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 12:48:30.739] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 12:48:32.627] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /lawyers.html ::1
+[2017-03-22 12:48:32.639] [INFO] zrxlaw - Completed 200 (17ms)
+[2017-03-22 12:48:32.667] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /css/google-font.css ::1
+[2017-03-22 12:48:32.669] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /css/animate.css ::1
+[2017-03-22 12:48:32.669] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /css/icomoon.css ::1
+[2017-03-22 12:48:32.670] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:48:32.670] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /css/bootstrap.css ::1
+[2017-03-22 12:48:32.672] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:48:32.687] [INFO] zrxlaw - Completed 200 (21ms)
+[2017-03-22 12:48:32.689] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:48:32.690] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:48:32.690] [INFO] zrxlaw - Completed 200 (18ms)
+[2017-03-22 12:48:32.691] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:48:32.692] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /css/style.css ::1
+[2017-03-22 12:48:32.693] [INFO] zrxlaw - Completed 200 (24ms)
+[2017-03-22 12:48:32.694] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:48:32.695] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:48:32.695] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /js/jquery.min.js ::1
+[2017-03-22 12:48:32.697] [INFO] zrxlaw - Completed 200 (27ms)
+[2017-03-22 12:48:32.698] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:48:32.698] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:48:32.699] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:48:32.702] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:48:32.703] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:48:32.704] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:48:32.705] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:48:32.707] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:48:32.707] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:48:32.708] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:48:32.709] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:48:32.712] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:48:32.713] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:48:32.718] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:48:32.718] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:48:32.719] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /js/main.js ::1
+[2017-03-22 12:48:32.721] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:48:32.857] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:48:32.858] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /viewmodel/src/vuex/lawyers.js ::1
+[2017-03-22 12:48:32.858] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /images/logo_03.png ::1
+[2017-03-22 12:48:32.861] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:48:32.862] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:48:32.864] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:48:32.953] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:48:32.954] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:32 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:48:33.093] [INFO] zrxlaw - Completed 200 (139ms)
+[2017-03-22 12:48:33.098] [INFO] zrxlaw - Completed 200 (145ms)
+[2017-03-22 12:48:33.666] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:48:33 GET /images/favicon.ico ::1
+[2017-03-22 12:48:33.668] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:50:13.982] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 12:50:15.808] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 12:50:15.911] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 12:50:18.770] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /lawyers.html ::1
+[2017-03-22 12:50:18.781] [INFO] zrxlaw - Completed 200 (16ms)
+[2017-03-22 12:50:18.813] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /css/google-font.css ::1
+[2017-03-22 12:50:18.814] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /css/animate.css ::1
+[2017-03-22 12:50:18.814] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /css/icomoon.css ::1
+[2017-03-22 12:50:18.815] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:50:18.815] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /css/bootstrap.css ::1
+[2017-03-22 12:50:18.816] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:50:18.831] [INFO] zrxlaw - Completed 200 (19ms)
+[2017-03-22 12:50:18.833] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:50:18.834] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:50:18.835] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:50:18.836] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:50:18.837] [INFO] zrxlaw - Completed 200 (24ms)
+[2017-03-22 12:50:18.838] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /css/style.css ::1
+[2017-03-22 12:50:18.838] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:50:18.840] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:50:18.840] [INFO] zrxlaw - Completed 200 (25ms)
+[2017-03-22 12:50:18.840] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:50:18.841] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /js/jquery.min.js ::1
+[2017-03-22 12:50:18.842] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:50:18.843] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:50:18.844] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:50:18.845] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:50:18.846] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:50:18.847] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:50:18.848] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:50:18.849] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:50:18.850] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:50:18.852] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:50:18.853] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:50:18.854] [INFO] zrxlaw - Completed 200 (13ms)
+[2017-03-22 12:50:18.854] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /js/main.js ::1
+[2017-03-22 12:50:18.857] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 12:50:18.858] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:50:18.858] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:50:18.874] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /viewmodel/src/static/vue.min.js ::1
+[2017-03-22 12:50:18.877] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:50:18.994] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:50:18.995] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /viewmodel/src/vuex/lawyers.js ::1
+[2017-03-22 12:50:18.995] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:18 GET /images/logo_03.png ::1
+[2017-03-22 12:50:18.998] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:50:18.998] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:50:18.998] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:50:19.085] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:19 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:50:19.201] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:19 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:50:19.203] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:50:19.204] [INFO] zrxlaw - Completed 200 (119ms)
+[2017-03-22 12:50:19.291] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:19 GET /images/favicon.ico ::1
+[2017-03-22 12:50:19.294] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:50:26.012] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /css/google-font.css ::1
+[2017-03-22 12:50:26.013] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /css/animate.css ::1
+[2017-03-22 12:50:26.015] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:50:26.015] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /css/icomoon.css ::1
+[2017-03-22 12:50:26.016] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:50:26.017] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:50:26.017] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /css/bootstrap.css ::1
+[2017-03-22 12:50:26.017] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:50:26.018] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:50:26.018] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:50:26.019] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:50:26.019] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:50:26.019] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:50:26.020] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /css/style.css ::1
+[2017-03-22 12:50:26.022] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:50:26.023] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:50:26.023] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:50:26.025] [INFO] zrxlaw - Completed 304 (5ms)
+[2017-03-22 12:50:26.025] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:50:26.026] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:50:26.112] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /js/jquery.min.map ::1
+[2017-03-22 12:50:26.118] [INFO] zrxlaw - Completed 500 (6ms)
+[2017-03-22 12:50:26.140] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /css/bootstrap.css.map ::1
+[2017-03-22 12:50:26.140] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:50:26.141] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /css/style.css.map ::1
+[2017-03-22 12:50:26.142] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:50:26.143] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 12:50:26.144] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:50:26 GET /viewmodel/stylesheets/sass/waterfall.css.map ::1
+[2017-03-22 12:50:26.144] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:50:26.145] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:51:49.568] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 12:51:51.359] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 12:51:51.472] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 12:51:55.559] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /lawyers.html ::1
+[2017-03-22 12:51:55.571] [INFO] zrxlaw - Completed 200 (17ms)
+[2017-03-22 12:51:55.610] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /css/google-font.css ::1
+[2017-03-22 12:51:55.611] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /css/animate.css ::1
+[2017-03-22 12:51:55.612] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /css/icomoon.css ::1
+[2017-03-22 12:51:55.612] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:51:55.613] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /css/bootstrap.css ::1
+[2017-03-22 12:51:55.613] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:51:55.634] [INFO] zrxlaw - Completed 200 (24ms)
+[2017-03-22 12:51:55.636] [INFO] zrxlaw - Completed 200 (24ms)
+[2017-03-22 12:51:55.637] [INFO] zrxlaw - Completed 200 (25ms)
+[2017-03-22 12:51:55.637] [INFO] zrxlaw - Completed 200 (24ms)
+[2017-03-22 12:51:55.638] [INFO] zrxlaw - Completed 200 (27ms)
+[2017-03-22 12:51:55.639] [INFO] zrxlaw - Completed 200 (26ms)
+[2017-03-22 12:51:55.643] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:51:55.645] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:51:55.648] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /css/style.css ::1
+[2017-03-22 12:51:55.649] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:51:55.649] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:51:55.650] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /js/jquery.min.js ::1
+[2017-03-22 12:51:55.651] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:51:55.652] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:51:55.654] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:51:55.654] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:51:55.655] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:51:55.656] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:51:55.656] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:51:55.657] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:51:55.658] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:51:55.658] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:51:55.660] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:51:55.661] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:51:55.665] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /js/main.js ::1
+[2017-03-22 12:51:55.668] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:51:55.669] [INFO] zrxlaw - Completed 200 (11ms)
+[2017-03-22 12:51:55.669] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:51:55.675] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /viewmodel/src/vuex/vue.min.js ::1
+[2017-03-22 12:51:55.678] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:51:55.855] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /css/bootstrap.css.map ::1
+[2017-03-22 12:51:55.856] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /css/style.css.map ::1
+[2017-03-22 12:51:55.857] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:51:55.858] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:51:55.860] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 12:51:55.864] [INFO] zrxlaw - Completed 304 (4ms)
+[2017-03-22 12:51:55.869] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /viewmodel/stylesheets/sass/waterfall.css.map ::1
+[2017-03-22 12:51:55.870] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:51:55.915] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:51:55.917] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:51:55.923] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /viewmodel/src/vuex/lawyers.js ::1
+[2017-03-22 12:51:55.924] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:51:55.928] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /images/logo_03.png ::1
+[2017-03-22 12:51:55.929] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:51:55.942] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:55 GET /js/jquery.min.map ::1
+[2017-03-22 12:51:55.946] [INFO] zrxlaw - Completed 500 (4ms)
+[2017-03-22 12:51:56.053] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:56 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:51:56.054] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:56 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:51:56.056] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:51:56.058] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:51:56.338] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:56 GET /images/favicon.ico ::1
+[2017-03-22 12:51:56.339] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:51:59.938] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /lawyers.html ::1
+[2017-03-22 12:51:59.945] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:51:59.967] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /css/google-font.css ::1
+[2017-03-22 12:51:59.968] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /css/animate.css ::1
+[2017-03-22 12:51:59.971] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /css/icomoon.css ::1
+[2017-03-22 12:51:59.972] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:51:59.972] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /css/bootstrap.css ::1
+[2017-03-22 12:51:59.973] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:51:59.984] [INFO] zrxlaw - Completed 200 (17ms)
+[2017-03-22 12:51:59.985] [INFO] zrxlaw - Completed 200 (14ms)
+[2017-03-22 12:51:59.986] [INFO] zrxlaw - Completed 200 (15ms)
+[2017-03-22 12:51:59.987] [INFO] zrxlaw - Completed 200 (14ms)
+[2017-03-22 12:51:59.987] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:51:59.988] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:51:59.991] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /css/style.css ::1
+[2017-03-22 12:51:59.992] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:51:59.992] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:51:59.993] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:51:59.994] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:51:59.994] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /js/jquery.min.js ::1
+[2017-03-22 12:51:59.995] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:51:59.998] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:51:59 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:52:00.001] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 12:52:00.002] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 12:52:00.003] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:52:00.003] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 12:52:00.004] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:52:00.005] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:52:00.005] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:52:00.006] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:52:00.009] [INFO] zrxlaw - Completed 200 (15ms)
+[2017-03-22 12:52:00.012] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:52:00.012] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:52:00.016] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /js/main.js ::1
+[2017-03-22 12:52:00.017] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:52:00.018] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:52:00.023] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /viewmodel/src/vuex/vue.min.js ::1
+[2017-03-22 12:52:00.024] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:52:00.143] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /css/bootstrap.css.map ::1
+[2017-03-22 12:52:00.144] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:52:00.164] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /css/style.css.map ::1
+[2017-03-22 12:52:00.166] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:52:00.166] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 12:52:00.167] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /viewmodel/stylesheets/sass/waterfall.css.map ::1
+[2017-03-22 12:52:00.167] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:52:00.167] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:52:00.204] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:52:00.205] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /viewmodel/src/vuex/lawyers.js ::1
+[2017-03-22 12:52:00.206] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /images/logo_03.png ::1
+[2017-03-22 12:52:00.208] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:52:00.209] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:52:00.210] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:52:00.222] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /js/jquery.min.map ::1
+[2017-03-22 12:52:00.225] [INFO] zrxlaw - Completed 500 (3ms)
+[2017-03-22 12:52:00.294] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:52:00.294] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:52:00.295] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:52:00.297] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:52:00.496] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:00 GET /images/favicon.ico ::1
+[2017-03-22 12:52:00.497] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:52:09.813] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /lawyers.html ::1
+[2017-03-22 12:52:09.820] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:52:09.846] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /css/google-font.css ::1
+[2017-03-22 12:52:09.846] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /css/animate.css ::1
+[2017-03-22 12:52:09.846] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /css/icomoon.css ::1
+[2017-03-22 12:52:09.847] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:52:09.848] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /css/bootstrap.css ::1
+[2017-03-22 12:52:09.848] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:52:09.853] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:52:09.853] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:52:09.857] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:52:09.858] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /css/style.css ::1
+[2017-03-22 12:52:09.858] [INFO] zrxlaw - Completed 200 (11ms)
+[2017-03-22 12:52:09.859] [INFO] zrxlaw - Completed 200 (11ms)
+[2017-03-22 12:52:09.860] [INFO] zrxlaw - Completed 200 (14ms)
+[2017-03-22 12:52:09.860] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:52:09.862] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:52:09.862] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /js/jquery.min.js ::1
+[2017-03-22 12:52:09.864] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:52:09.864] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:52:09.868] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:52:09.869] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:52:09.871] [INFO] zrxlaw - Completed 200 (11ms)
+[2017-03-22 12:52:09.872] [INFO] zrxlaw - Completed 200 (25ms)
+[2017-03-22 12:52:09.874] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:52:09.876] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:52:09.876] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:52:09.877] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:52:09.877] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 12:52:09.878] [INFO] zrxlaw - Completed 200 (16ms)
+[2017-03-22 12:52:09.879] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:52:09.879] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:52:09.880] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:52:09.882] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /js/main.js ::1
+[2017-03-22 12:52:09.885] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:52:09.885] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:52:09.897] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /viewmodel/src/vuex/vue.min.js ::1
+[2017-03-22 12:52:09.899] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:52:09.996] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:52:09.996] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /viewmodel/src/vuex/lawyers.js ::1
+[2017-03-22 12:52:09.997] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:09 GET /images/logo_03.png ::1
+[2017-03-22 12:52:09.999] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:52:10.000] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:52:10.000] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:52:10.081] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:10 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:52:10.082] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:10 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:52:10.084] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:52:10.085] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:52:10.233] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:52:10 GET /images/favicon.ico ::1
+[2017-03-22 12:52:10.235] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:53:41.378] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 12:53:45.316] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 12:53:45.426] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 12:53:51.432] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /lawyers.html ::1
+[2017-03-22 12:53:51.443] [INFO] zrxlaw - Completed 200 (16ms)
+[2017-03-22 12:53:51.474] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /css/google-font.css ::1
+[2017-03-22 12:53:51.475] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /css/animate.css ::1
+[2017-03-22 12:53:51.476] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /css/icomoon.css ::1
+[2017-03-22 12:53:51.476] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:53:51.478] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /css/bootstrap.css ::1
+[2017-03-22 12:53:51.479] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:53:51.493] [INFO] zrxlaw - Completed 200 (19ms)
+[2017-03-22 12:53:51.496] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:53:51.496] [INFO] zrxlaw - Completed 200 (20ms)
+[2017-03-22 12:53:51.497] [INFO] zrxlaw - Completed 200 (18ms)
+[2017-03-22 12:53:51.497] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:53:51.498] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /css/style.css ::1
+[2017-03-22 12:53:51.498] [INFO] zrxlaw - Completed 200 (23ms)
+[2017-03-22 12:53:51.500] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:53:51.502] [INFO] zrxlaw - Completed 200 (24ms)
+[2017-03-22 12:53:51.502] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:53:51.503] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:53:51.503] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:53:51.507] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:53:51.507] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /js/jquery.min.js ::1
+[2017-03-22 12:53:51.509] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:53:51.511] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:53:51.511] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:53:51.512] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:53:51.513] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:53:51.514] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:53:51.514] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:53:51.517] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:53:51.518] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:53:51.519] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:53:51.519] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /js/main.js ::1
+[2017-03-22 12:53:51.524] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:53:51.524] [INFO] zrxlaw - Completed 200 (11ms)
+[2017-03-22 12:53:51.527] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:53:51.642] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:53:51.643] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /viewmodel/src/vuex/lawyers.js ::1
+[2017-03-22 12:53:51.645] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /images/logo_03.png ::1
+[2017-03-22 12:53:51.647] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:53:51.649] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:53:51.650] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:53:51.739] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:53:51.740] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:51 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:53:51.741] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:53:51.742] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:53:53.077] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /images/favicon.ico ::1
+[2017-03-22 12:53:53.078] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:53:53.844] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /lawyers.html ::1
+[2017-03-22 12:53:53.852] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:53:53.874] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /css/google-font.css ::1
+[2017-03-22 12:53:53.878] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /css/animate.css ::1
+[2017-03-22 12:53:53.879] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /css/icomoon.css ::1
+[2017-03-22 12:53:53.881] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:53:53.882] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /css/bootstrap.css ::1
+[2017-03-22 12:53:53.882] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:53:53.920] [INFO] zrxlaw - Completed 200 (47ms)
+[2017-03-22 12:53:53.921] [INFO] zrxlaw - Completed 200 (40ms)
+[2017-03-22 12:53:53.921] [INFO] zrxlaw - Completed 200 (42ms)
+[2017-03-22 12:53:53.922] [INFO] zrxlaw - Completed 200 (40ms)
+[2017-03-22 12:53:53.923] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:53:53.924] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /css/style.css ::1
+[2017-03-22 12:53:53.927] [INFO] zrxlaw - Completed 200 (50ms)
+[2017-03-22 12:53:53.930] [INFO] zrxlaw - Completed 200 (49ms)
+[2017-03-22 12:53:53.933] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:53:53.934] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:53:53.935] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:53:53.936] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:53:53.937] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /js/jquery.min.js ::1
+[2017-03-22 12:53:53.937] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:53:53.938] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:53:53.938] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:53:53.942] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:53:53.943] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:53:53.944] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:53:53.947] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 12:53:53.947] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:53:53.948] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:53:53.949] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:53:53.950] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:53 GET /js/main.js ::1
+[2017-03-22 12:53:53.953] [INFO] zrxlaw - Completed 200 (16ms)
+[2017-03-22 12:53:53.956] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:53:53.956] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:53:53.958] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:53:54.045] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:54 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:53:54.047] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:54 GET /viewmodel/src/vuex/lawyers.js ::1
+[2017-03-22 12:53:54.050] [INFO] zrxlaw - Completed 200 (5ms)
+[2017-03-22 12:53:54.050] [INFO] zrxlaw - Completed 200 (4ms)
+[2017-03-22 12:53:54.050] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:54 GET /images/logo_03.png ::1
+[2017-03-22 12:53:54.052] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:53:54.173] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:54 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:53:54.174] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:54 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:53:54.176] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:53:54.180] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:53:54.742] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:54 GET /images/favicon.ico ::1
+[2017-03-22 12:53:54.743] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:53:56.775] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /lawyers.html ::1
+[2017-03-22 12:53:56.778] [INFO] zrxlaw - Completed 200 (3ms)
+[2017-03-22 12:53:56.807] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /css/google-font.css ::1
+[2017-03-22 12:53:56.807] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /css/animate.css ::1
+[2017-03-22 12:53:56.808] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /css/icomoon.css ::1
+[2017-03-22 12:53:56.808] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:53:56.810] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /css/bootstrap.css ::1
+[2017-03-22 12:53:56.810] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:53:56.819] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:53:56.819] [INFO] zrxlaw - Completed 200 (11ms)
+[2017-03-22 12:53:56.820] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:53:56.820] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:53:56.821] [INFO] zrxlaw - Completed 200 (14ms)
+[2017-03-22 12:53:56.822] [INFO] zrxlaw - Completed 200 (12ms)
+[2017-03-22 12:53:56.830] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:53:56.831] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /css/style.css ::1
+[2017-03-22 12:53:56.831] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:53:56.831] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:53:56.832] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /js/jquery.min.js ::1
+[2017-03-22 12:53:56.832] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:53:56.836] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:53:56.837] [INFO] zrxlaw - Completed 200 (6ms)
+[2017-03-22 12:53:56.838] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:53:56.838] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:53:56.840] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:53:56.840] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:53:56.841] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:53:56.841] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:53:56.842] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:53:56.842] [INFO] zrxlaw - Completed 200 (10ms)
+[2017-03-22 12:53:56.845] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:53:56.846] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /js/main.js ::1
+[2017-03-22 12:53:56.848] [INFO] zrxlaw - Completed 200 (7ms)
+[2017-03-22 12:53:56.849] [INFO] zrxlaw - Completed 200 (8ms)
+[2017-03-22 12:53:56.854] [INFO] zrxlaw - Completed 200 (13ms)
+[2017-03-22 12:53:56.855] [INFO] zrxlaw - Completed 200 (9ms)
+[2017-03-22 12:53:56.943] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:53:56.943] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /viewmodel/src/vuex/lawyers.js ::1
+[2017-03-22 12:53:56.945] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:53:56.945] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:53:56.946] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:56 GET /images/logo_03.png ::1
+[2017-03-22 12:53:56.948] [INFO] zrxlaw - Completed 200 (2ms)
+[2017-03-22 12:53:57.036] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:57 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:53:57.037] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:57 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:53:57.066] [INFO] zrxlaw - Completed 200 (29ms)
+[2017-03-22 12:53:57.067] [INFO] zrxlaw - Completed 200 (31ms)
+[2017-03-22 12:53:57.320] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:57 GET /images/favicon.ico ::1
+[2017-03-22 12:53:57.321] [INFO] zrxlaw - Completed 200 (1ms)
+[2017-03-22 12:53:59.233] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /css/google-font.css ::1
+[2017-03-22 12:53:59.234] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:53:59.235] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /css/animate.css ::1
+[2017-03-22 12:53:59.235] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:53:59.238] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /css/icomoon.css ::1
+[2017-03-22 12:53:59.238] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:53:59.239] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:53:59.239] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:53:59.242] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /css/bootstrap.css ::1
+[2017-03-22 12:53:59.242] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:53:59.243] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:53:59.243] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:53:59.243] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:53:59.244] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /css/style.css ::1
+[2017-03-22 12:53:59.244] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:53:59.244] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:53:59.245] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:53:59.246] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:53:59.246] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:53:59.247] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:53:59.368] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /js/jquery.min.map ::1
+[2017-03-22 12:53:59.373] [INFO] zrxlaw - Completed 500 (5ms)
+[2017-03-22 12:53:59.390] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /css/bootstrap.css.map ::1
+[2017-03-22 12:53:59.390] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:53:59.391] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /css/style.css.map ::1
+[2017-03-22 12:53:59.391] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:53:59.393] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /viewmodel/stylesheets/sass/home.css.map ::1
+[2017-03-22 12:53:59.394] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:53:59.398] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:53:59 GET /viewmodel/stylesheets/sass/waterfall.css.map ::1
+[2017-03-22 12:53:59.398] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:56:36.602] [INFO] zrxlaw - Mongoose default connection disconnected
+[2017-03-22 12:56:39.136] [INFO] zrxlaw - Listening on port 3000
+[2017-03-22 12:56:39.247] [INFO] zrxlaw - Mongoose default connection open to mongodb://huangxiaoxu:huangxiaoxu@139.196.83.10:26117/zrxlaw
+[2017-03-22 12:56:49.468] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /lawyers.html ::1
+[2017-03-22 12:56:49.479] [INFO] zrxlaw - Completed 200 (15ms)
+[2017-03-22 12:56:49.497] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /css/google-font.css ::1
+[2017-03-22 12:56:49.498] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /css/animate.css ::1
+[2017-03-22 12:56:49.499] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /css/icomoon.css ::1
+[2017-03-22 12:56:49.499] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /css/simple-line-icons.css ::1
+[2017-03-22 12:56:49.501] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /css/bootstrap.css ::1
+[2017-03-22 12:56:49.501] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /css/owl.carousel.min.css ::1
+[2017-03-22 12:56:49.506] [INFO] zrxlaw - Completed 304 (9ms)
+[2017-03-22 12:56:49.506] [INFO] zrxlaw - Completed 304 (8ms)
+[2017-03-22 12:56:49.507] [INFO] zrxlaw - Completed 304 (8ms)
+[2017-03-22 12:56:49.507] [INFO] zrxlaw - Completed 304 (8ms)
+[2017-03-22 12:56:49.508] [INFO] zrxlaw - Completed 304 (7ms)
+[2017-03-22 12:56:49.508] [INFO] zrxlaw - Completed 304 (7ms)
+[2017-03-22 12:56:49.509] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /css/owl.theme.default.min.css ::1
+[2017-03-22 12:56:49.509] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /css/style.css ::1
+[2017-03-22 12:56:49.509] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /viewmodel/stylesheets/sass/home.css ::1
+[2017-03-22 12:56:49.511] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:56:49.512] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:56:49.512] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:56:49.512] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /viewmodel/stylesheets/sass/waterfall.css ::1
+[2017-03-22 12:56:49.513] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /js/jquery.min.js ::1
+[2017-03-22 12:56:49.513] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /js/jquery.easing.1.3.js ::1
+[2017-03-22 12:56:49.514] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:56:49.515] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /js/bootstrap.min.js ::1
+[2017-03-22 12:56:49.515] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:56:49.515] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:56:49.516] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /js/jquery.waypoints.min.js ::1
+[2017-03-22 12:56:49.516] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /js/jquery.stellar.min.js ::1
+[2017-03-22 12:56:49.516] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:56:49.517] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:56:49.517] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:56:49.518] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /js/owl.carousel.min.js ::1
+[2017-03-22 12:56:49.518] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /js/main.js ::1
+[2017-03-22 12:56:49.526] [INFO] zrxlaw - Completed 304 (8ms)
+[2017-03-22 12:56:49.527] [INFO] zrxlaw - Completed 304 (9ms)
+[2017-03-22 12:56:49.532] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /viewmodel/src/static/vue-waterfall.min.js ::1
+[2017-03-22 12:56:49.534] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 12:56:49.539] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /viewmodel/src/vuex/item-factory.js ::1
+[2017-03-22 12:56:49.540] [INFO] zrxlaw - Completed 304 (1ms)
+[2017-03-22 12:56:49.544] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /viewmodel/src/vuex/lawyers.js ::1
+[2017-03-22 12:56:49.544] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:56:49.549] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /images/logo_03.png ::1
+[2017-03-22 12:56:49.549] [INFO] zrxlaw - Completed 304 (0ms)
+[2017-03-22 12:56:49.715] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /fonts/icomoon/icomoon.ttf?srf3rx ::1
+[2017-03-22 12:56:49.716] [INFO] zrxlaw - 
+
+Started 2017-03-22 12:56:49 GET /fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.2.2 ::1
+[2017-03-22 12:56:49.718] [INFO] zrxlaw - Completed 304 (3ms)
+[2017-03-22 12:56:49.718] [INFO] zrxlaw - Completed 304 (2ms)
+[2017-03-22 13:37:52.337] [INFO] zrxlaw - Mongoose default connection disconnected

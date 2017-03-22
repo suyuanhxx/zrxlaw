@@ -10,7 +10,7 @@ var app = new Vue({
     },
     data: {
         line: 'h',
-        items: ItemFactory.get(100),
+        items: getLawyers(),
         isBusy: false
     },
     methods: {
@@ -31,15 +31,26 @@ var app = new Vue({
     }
 });
 
-// document.body.addEventListener('click', function () {
-//     app.shuffle();
-//     // app.$refs.waterfall.$emit('reflow') // manually trigger reflow action
-// }, false);
-//
-// window.addEventListener('scroll', function () {
-//     var scrollTop = document.documentElement.scrollTop || document.body.scrollTop
-//     if (scrollTop + window.innerHeight >= document.body.clientHeight) {
-//         app.addItems()
-//     }
-// });
+document.body.addEventListener('click', function () {
+    app.shuffle();
+    // app.$refs.waterfall.$emit('reflow') // manually trigger reflow action
+}, false);
+
+window.addEventListener('scroll', function () {
+    var scrollTop = document.documentElement.scrollTop || document.body.scrollTop
+    if (scrollTop + window.innerHeight >= document.body.clientHeight) {
+        app.addItems()
+    }
+});
+
+function getLawyers(){
+    $.getJSON('/condition/lawyers', function (data) {
+        var lawyerContainer = new Vue({
+            el: '#lawyerContainer',
+            data: {
+                lawyers: data.data
+            }
+        });
+    });
+}
 
