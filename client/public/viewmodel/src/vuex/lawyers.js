@@ -10,7 +10,7 @@ var app = new Vue({
     },
     data: {
         line: 'h',
-        items: getLawyers(),
+        items: getLawyers(0, 10),
         isBusy: false
     },
     methods: {
@@ -43,14 +43,16 @@ window.addEventListener('scroll', function () {
     }
 });
 
-function getLawyers(){
-    $.getJSON('/condition/lawyers', function (data) {
-        var lawyerContainer = new Vue({
-            el: '#lawyerContainer',
-            data: {
-                lawyers: data.data
-            }
-        });
-    });
+function getLawyers(page, size) {
+    $.getJSON('/lawyers/' + page + '/' + size, function (data) {
+            var lawyerContainer = new Vue({
+                el: '#lawyerContainer',
+                data: {
+                    lawyers: data.data
+                }
+            });
+        }
+    )
+    ;
 }
 
