@@ -10,14 +10,14 @@ var app = new Vue({
     },
     data: {
         line: 'h',
-        items: getLawyers(0, 10),
+        items: getLawyers(1, 10),
         isBusy: false
     },
     methods: {
         addItems: function () {
             if (!this.isBusy && this.items.length < 500) {
                 this.isBusy = true;
-                this.items.push.apply(this.items, ItemFactory.get(50))
+                this.items.push.apply(this.items, getLawyers(1, 10))
             }
         },
         shuffle: function () {
@@ -45,14 +45,8 @@ window.addEventListener('scroll', function () {
 
 function getLawyers(page, size) {
     $.getJSON('/lawyers/' + page + '/' + size, function (data) {
-            var lawyerContainer = new Vue({
-                el: '#lawyerContainer',
-                data: {
-                    lawyers: data.data
-                }
-            });
+        return data.data;
         }
-    )
-    ;
+    );
 }
 

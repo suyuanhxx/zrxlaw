@@ -6,12 +6,7 @@ var ItemFactory = (function () {
         var items = [], i
         for (i = 0; i < count; i++) {
             items[i] = {
-                index: lastIndex++,
-                style: {
-                    background: getRandomColor()
-                },
-                width: 100 + ~~(Math.random() * 50),
-                height: 100 + ~~(Math.random() * 50)
+                'avatar': 'http://zrxlaw.oss-cn-shanghai.aliyuncs.com/zrxlaw-test/dog.jpg'
             }
         }
         return items
