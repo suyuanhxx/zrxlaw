@@ -1,7 +1,7 @@
 /**
  * Created by huangxiaoxu on 19/03/2017.
  */
-
+Vue.config.debug = true;
 var app = new Vue({
     el: '#app',
     components: {
@@ -44,9 +44,21 @@ window.addEventListener('scroll', function () {
 });
 
 function getLawyers(page, size) {
-    $.getJSON('/lawyers/' + page + '/' + size, function (data) {
-        return data.data;
+    var items;
+    // $.getJSON('/lawyers/' + page + '/' + size, function (data) {
+    //         items = data.data;
+    //     }
+    // );
+    $.ajax({
+        type: 'GET',
+        url: '/lawyers/' + page + '/' + size,
+        dataType: 'json',
+        async: false,
+        success: function (data) {
+            items = data.data;
         }
-    );
-}
+    });
+    return items;
+};
+
 

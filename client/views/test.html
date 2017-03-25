@@ -6,6 +6,7 @@
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="user-scalable=0">
     <title>Horizontal Line</title>
+    <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="stylesheet" href="viewmodel/stylesheets/sass/waterfall.css">
 
 
@@ -36,53 +37,55 @@
         </waterfall-slot>
     </waterfall>
 </div>
+<script src="js/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/vue/2.0.3/vue.min.js"></script>
 <script src="http://app.moptym.com/cdn/vue-waterfall/vue-waterfall.min.js"></script>
-<script src="viewmodel/src/vuex/item-factory.js"></script>
+<!--<script src="viewmodel/src/vuex/item-factory.js"></script>-->
+<script src="viewmodel/src/vuex/lawyers.js"></script>
 
-<script>
+<!--<script>-->
 
-    var app = new Vue({
-        el: '#app',
-        components: {
-            'waterfall': Waterfall.waterfall,
-            'waterfall-slot': Waterfall.waterfallSlot
-        },
-        data: {
-            line: 'h',
-            items: ItemFactory.get(100),
-            isBusy: false
-        },
-        methods: {
-            addItems: function () {
-                if (!this.isBusy && this.items.length < 500) {
-                    this.isBusy = true
-                    this.items.push.apply(this.items, ItemFactory.get(50))
-                }
-            },
-            shuffle: function () {
-                this.items.sort(function () {
-                    return Math.random() - 0.5
-                })
-            },
-            reflowed: function () {
-                this.isBusy = false
-            }
-        }
-    })
+<!--var app = new Vue({-->
+<!--el: '#app',-->
+<!--components: {-->
+<!--'waterfall': Waterfall.waterfall,-->
+<!--'waterfall-slot': Waterfall.waterfallSlot-->
+<!--},-->
+<!--data: {-->
+<!--line: 'h',-->
+<!--items: ItemFactory.get(100),-->
+<!--isBusy: false-->
+<!--},-->
+<!--methods: {-->
+<!--addItems: function () {-->
+<!--if (!this.isBusy && this.items.length < 500) {-->
+<!--this.isBusy = true-->
+<!--this.items.push.apply(this.items, ItemFactory.get(50))-->
+<!--}-->
+<!--},-->
+<!--shuffle: function () {-->
+<!--this.items.sort(function () {-->
+<!--return Math.random() - 0.5-->
+<!--})-->
+<!--},-->
+<!--reflowed: function () {-->
+<!--this.isBusy = false-->
+<!--}-->
+<!--}-->
+<!--})-->
 
-    document.body.addEventListener('click', function () {
-        app.shuffle()
-        // app.$refs.waterfall.$emit('reflow') // manually trigger reflow action
-    }, false)
+<!--document.body.addEventListener('click', function () {-->
+<!--app.shuffle()-->
+<!--// app.$refs.waterfall.$emit('reflow') // manually trigger reflow action-->
+<!--}, false)-->
 
-    window.addEventListener('scroll', function () {
-        var scrollTop = document.documentElement.scrollTop || document.body.scrollTop
-        if (scrollTop + window.innerHeight >= document.body.clientHeight) {
-            app.addItems()
-        }
-    })
+<!--window.addEventListener('scroll', function () {-->
+<!--var scrollTop = document.documentElement.scrollTop || document.body.scrollTop-->
+<!--if (scrollTop + window.innerHeight >= document.body.clientHeight) {-->
+<!--app.addItems()-->
+<!--}-->
+<!--})-->
 
-</script>
+<!--</script>-->
 </body>
 </html>
