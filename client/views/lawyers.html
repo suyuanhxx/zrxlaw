@@ -106,9 +106,9 @@
             <div id="app" class="row">
                 <waterfall
                         :line="line"
-                        :line-gap="200"
-                        :min-line-gap="180"
-                        :max-line-gap="220"
+                        :line-gap="300"
+                        :min-line-gap="400"
+                        :max-line-gap="400"
                         :watch="items"
                         @reflowed="reflowed"
                         ref="waterfall"
@@ -117,11 +117,11 @@
                     <waterfall-slot
                             v-for="(item, index) in items"
                             :key="item.id"
-                            :width="400"
-                            :height="400"
+                            :width="300"
+                            :height="300"
                             :order="index"
                             :key="item.index"
-                            move-class="item-move test">
+                            move-class="item-move">
                         <div class="item" :index="item.index">
                             <div class="team-box text-center to-animate-2">
                                 <div class="user">
