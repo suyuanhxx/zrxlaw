@@ -1,0 +1,14 @@
+//span-flex
+
+@mixin span-flex() {
+
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-content: space-between;
+  align-items: center;
+
+
+}

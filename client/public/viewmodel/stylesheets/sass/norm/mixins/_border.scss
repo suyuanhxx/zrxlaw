@@ -1,0 +1,30 @@
+//border
+@mixin border($vpx,$vcolor) {
+
+  border: $vpx solid $vcolor;
+
+}
+
+@mixin border-t($vpx,$vcolor) {
+
+  border-top: $vpx solid $vcolor;
+
+}
+
+@mixin border-b($vpx,$vcolor) {
+
+  border-bottom: $vpx solid $vcolor;
+
+}
+
+@mixin border-l($vpx,$vcolor) {
+
+  border-left: $vpx solid $vcolor;
+
+}
+
+@mixin borderl-r($vpx,$vcolor) {
+
+  border-right: $vpx solid $vcolor;
+
+}

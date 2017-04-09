@@ -5820,7 +5820,9 @@ a {
   color: #d73930;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
-  transition: 0.5s; }
+  transition: 0.5s;
+  outline: none;
+  text-underline: none; }
 
 a:hover, a:active, a:focus {
   color: #d73930;

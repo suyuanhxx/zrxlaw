@@ -276,8 +276,7 @@ img {
   color: rgba(255, 255, 255, 0.3) !important; }
 
 #home-home a {
-  color: rgba(255, 255, 255, 0.8) !important;
-  text-decoration: underline; }
+  color: rgba(255, 255, 255, 0.8) !important; }
 
 #home-home a:hover {
   color: #fff;

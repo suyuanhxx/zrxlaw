@@ -14,6 +14,8 @@ a {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
+  outline: none;
+  text-underline: none;
 }
 
 a:hover, a:active, a:focus {
@@ -50,4 +52,6 @@ h1, h2, h3, h4, h5, h6 {
 * {
   font-family: "Microsoft YaHei";
 }
+
+
 

@@ -1,0 +1,10 @@
+
+//input-nostyle
+@import "border";
+@mixin input-nostyle($vpx,$vcolor){
+
+  @include border($vpx, $vcolor);
+  outline: none;
+  box-shadow: none;
+
+}

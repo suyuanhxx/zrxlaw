@@ -1,0 +1,10 @@
+//Cutting word
+@mixin cuttingword(){
+
+  overflow: hidden;
+  white-space:nowrap;
+  text-overflow: ellipsis;
+
+
+
+}

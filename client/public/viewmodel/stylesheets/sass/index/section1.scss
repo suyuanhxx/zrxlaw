@@ -1,0 +1,47 @@
+//section1
+
+
+section {
+  &.section1 {
+    .text-wrap {
+      .text-inner {
+        .section1-logo {
+          img {
+            width: 100%;
+          }
+        }
+        .section1-content {
+          .link-list {
+
+            padding-top: 40px;
+            display: flex;
+            display: -webkit-flex;
+            flex-wrap: nowrap;
+            flex-direction: row;
+            justify-content: space-around;
+
+            align-items: center;
+
+
+            a {
+
+              display: block;
+
+              width: 30%;
+              height: 60px;
+              line-height: 60px;
+
+              @include border(1px, #fff);
+              @include radius(2px);
+
+
+              font-size: 20px;
+
+            }
+          }
+        }
+      }
+    }
+
+  }
+}
