@@ -4,7 +4,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var logger = require('./common/logger');
 var requestLogger = require('./middlewares/request_logger');
-var db = require('./model/mongoose');
+require('./model/mongoose');
 require('./middlewares/mongoose_log'); // 打印 mongodb 查询日志
 var app = express();
 
