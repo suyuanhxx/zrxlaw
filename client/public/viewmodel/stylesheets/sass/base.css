@@ -1,0 +1,44 @@
+body {
+  font-family: "Prata", serif;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #616370;
+  height: 100%;
+  position: relative; }
+
+a {
+  color: #d73930;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s; }
+
+a:hover, a:active, a:focus {
+  color: #d73930;
+  outline: none; }
+
+p {
+  margin-bottom: 1.5em; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #fff;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: 400;
+  margin: 0 0 30px 0; }
+
+::-webkit-selection {
+  color: #fff;
+  background: #d73930; }
+
+::-moz-selection {
+  color: #fff;
+  background: #d73930; }
+
+::selection {
+  color: #fff;
+  background: #d73930; }
+
+* {
+  font-family: "Microsoft YaHei"; }
+
+/*# sourceMappingURL=base.css.map */
